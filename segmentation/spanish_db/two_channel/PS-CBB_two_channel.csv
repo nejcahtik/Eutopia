@@ -1,0 +1,70 @@
+ID,Start_time,End_time,English,Español,Dominant_Hand,Non_Dominant_Hand
+1,1240,4450,A person similar to a cowboy,Una persona parecida a un vaquero,UNO PERSONA MÁS-O-MENOS(1M) VAQUERO G:quizá,0 0 0 VAQUERO G:quizá
+2,4460,6542,climbed up [a tree],se sube [a un árbol],DESPUÉS cl.e(2d):PERSONA-ascender-referencia,0 cl.e(2d):REFERENCIA
+3,6542,7750,to pick pears,a coger peras.,COGER PERA3,0 0
+4,7790,9760,He is collecting pears.,Está cogiendo peras,cl.m(5d&amp;gt;5):coger+guardar-pera,0
+5,9780,12029,and one falls [to the ground],y una se cae,UNO cl.e(A):PERA-descender ACABAR(1M) LISTO,0 0 0 LISTO
+6,12029,13230,The person climbs down [the tree],La persona se baja,cl.e(2d):PERSONA-descender,0
+7,13262,16132,and after emptying his catch of pears,y cuando vacía las peras,cl.m(Cc&amp;gt;5d):tirar-peras LISTO,cl.m(Cc&amp;gt;5d):tirar-peras LISTO
+8,16160,17899,picks a pear,Coge una pera,OTRA-VEZ(1M) cl.m(5d):coger-pera,0 0
+9,17899,19039,wipes it,la frota,cl.m(B):frotar-pera/cl.m(Xc):sostener-pera,0
+10,19039,20670,and leaves it [in the basket].,y la deja,cl.m(5d):dejar-pera ACABAR(1M),0 0
+11,20692,23942,A man appears cycling to his right,Por su derecha aparece un hombre en bicicleta,MIRAR HOMBRE UNO BICICLETA,0 0 0 BICICLETA
+12,23976,25642,and approaches,que se acerca,DESPUÉS cl.e(1):BICICLETA-desplazarse,B:BICICLETA B:BICICLETA
+13,25642,26369,and stops (opposite him).,y para (enfrente),PARAR,PARAR
+14,26369,27733,He then prepares [the basket],Después prepara [la cesta],DESPUÉS PREPARAR,0 PREPARAR
+15,27733,28562,places it on the bike,coloca la cesta,cl.m(Xc):mover-cesta,cl.m(Xc):mover-cesta
+16,28562,29075,climbs on the bike,se sube en la bicicleta,cl.e(2b):PERSONA-subir-bicicleta,cl.e(1):BICICLETA
+17,29075,30089,leaves the basket,deja la cesta,cl.m(Xc):bajar-cesta,cl.m(Xc):bajar-cesta
+18,30110,30823,and returns ,y vuelve ,VOLVER,VOLVER
+19,30823,31840,to raise the basket.,a subir la cesta,cl.m(Xc):subir-cesta,cl.m(Xc):subir-cesta
+20,31902,34482,He then places the basket on the wheel,Después coloca la cesta en la rueda,DESPUÉS cl.m(Xc):subir-cesta INDX cl.e(O):RUEDA 0 cl.m(Xc):subir-cesta,0 cl.m(Xc):subir-cesta B:cl.m(Xc):subir-cesta B:cl.m(Xc):subir-cesta cl.m(Xc):subir-cesta
+21,34482,35833,you know where ah on the...,Sabes aí en la...,SABER INDX,B:cl.m(Xc):subir-cesta B:cl.m(Xc):subir-cesta
+22,35833,37396,on the front wheel ,en la rueda delantera coloca la cesta,cl.e(O):RUEDA cl.m(Xc):colocar-cesta,cl.e(O):RUEDA cl.m(Xc):colocar-cesta
+23,37396,38487,The man then rides standing up on the bike,El hombre va de pie en la bicicleta,HOMBRE cl.e(2b):PERSONA-montar-bicicleta,0 cl.e(L):BICICLETA
+24,38487,39522,not seated on the bike,no va sentado,SENTAR NO,SENTAR 0
+25,39522,39984,He rides standing up,va de pie,cl.e(2b):PERSONA-montar-bicicleta,cl.e(L):BICICLETA
+26,39984,41968,pedalling hard,pedaleando con esfuerzo,BICICLETA,BICICLETA
+27,41968,43452,Someone arrives on a bike,Viene uno en bicicleta,UNO VENIR BICICLETA,0 0 BICICLETA
+28,43452,44281,and they both crash into each other,chocan,cl.e(A):BICICLETA-chocar-bicicleta,cl.e(A):BICICLETA-chocar-bicicleta
+29,44281,44801,The person falls down,cae,cl.e(5):TRAIECTORIA-caer,cl.e(5):TRAIECTORIA-caer
+30,44801,46597,and pears spread on the floor,y las peras se desparraman,cl.d(5):peras-caer,cl.d(5):peras-caer
+31,46632,49370,Three other persons (appear and) approach the place walking,Otros tres (aparecen y) se acercan caminando al lugar,OTRO cl.e(3):PERSONAS3-desplazarse,0 0
+32,49380,50557,"""You have to be careful” (they say)","""Hay que tener cuidado""",G VER^OJO,0 VER^OJO
+33,50557,52713,And help put the pears in the basket.,y metieron las peras en el cesto,cl.m(Cc&amp;gt;5d):arrojar-peras LISTO,cl.m(Cc&amp;gt;5d):arrojar-peras LISTO
+34,52713,53672,Then one leaves to the right and another leaves to the left,Después uno se va por la derecha y otro por la izquierda,DESPUÉS cl.e(1):PERSONA-alejarse-persona,0 cl.e(1):PERSONA-alejarse-persona
+35,53672,55085,The person (on the right) is playing with a racquet,El hombre (que se va por la derecha) va jugando con una raqueta,HOMBRE cl.m(Xc):usar-raqueta,0 0
+36,55085,55894,I think (he has) a ball,pienso que (tenía una) pelota,PARECER PELOTA2,0 0
+37,55894,56215,I’m not sure,no sé,G:no-saber,0
+38,56215,58431,He was playing with the racquet,va jugando con la raqueta,cl.m(Xc):usar-raqueta,0
+39,58482,60180,The (other) child calls out to him,el (otro) niño le llama,HOMBRE VOCEAR(2M),0 VOCEAR(2M)
+40,60180,62392,and the child (with the racket) turned around and came closer,y el niño (de la raqueta) da la vuelta y se acerca,HOMBRE cl.e(1):PERSONA-desplazarse,0 0
+41,62395,64642,He then gives him two,Después le da dos,DESPUÉS REGALAR DOS,0 REGALAR 0
+42,64651,65994,(although) he should have only given him one,(aunque solo) le hacía falta una,NECESITAR UNO G:incomprensión,0 0 0
+43,65994,66708,he gives him two [pears],le da las dos [peras],cl.m(2):peras-dar,0
+44,66708,67486,(The other person) accepts,(el otro) las acepta,cl.m(5d):coger-peras,cl.m(5d):coger-peras
+45,67486,68346,and (I think) he thanked him,y (creo que) le da las gracias,ESPERAR2 GRACIAS,0 GRACIAS
+46,68351,69532,I am deaf (I don’t know if I told him),yo (soy) sorda (no sé si se lo dice),QUEDAR-SORDO INDX(B).PRO:1sg G,0 0 G
+47,69537,70974,The child returns,El niño vuelve,cl.e(1):PERSONA-desplazarse,0
+48,70974,72240,and gives them a pear each,y les da una pera a cada uno,cl.m(5d):dar-peras,cl.m(5d):sostener-peras
+49,72245,73210,(but) is there one for him too?,¿(pero) hai unha pera para él también?,cl.m(5d):coger-pera TAMBIÉN,cl.m(5d):sostener-peras B:cl.m(5d):sostener-peras
+50,73210,73864,I've gone blank,Me he quedado en blanco,INDX MENTE^APAGAR(1M),0 0
+51,73864,74250,It’s OK,No pasa nada,ACABAR(1M),0
+52,74250,77491,Well the three of them started walking,Bueno los tres se van caminando,ENTONCES cl.e(3):PERSONAS3-desplazarse G:marcharse,ENTONCES 0 0
+53,77491,78678,The man returns,El hombre vuelve,HOMBRE VOLVER,0 VOLVER
+54,78678,79954,-the earlier one-,-la misma persona de antes-,PERSONA(2M) MISMO LO-DE-ANTES IGUAL2,PERSONA(2M) MISMO 0 IGUAL2
+55,79954,81004,to climb the tree,a subir al árbol,cl.e(2d):PERSONA-ascender,0
+56,81004,83039,He is collecting pears,recoge peras,cl.m(Cc&amp;gt;5):coger+guardar-pera,0
+57,83039,84572,and climbs down the tree,y baja del árbol,cl.e(2d):PERSONA-descender,0
+58,84572,86682,The three children appear again,Aparecen otra vez los tres niños de antes,HOMBRE OTRA-VEZ(1M) cl.e(3):PERSONAS3-desplazarse B:cl.e(3):PERSONAS3-desplazarse B:cl.e(3):PERSONAS3-desplazarse,0 0 0 MISMO LO-DE-ANTES
+59,86682,88667,and come closer to the man,y se acercan al hombre,cl.e(3):PERSONAS3-aproximarse,0
+60,88672,90828,who prepares... Oops,Preparado... Ups,PREPARAR B:PREPARAR,PREPARAR B:PREPARAR
+61,90833,91341,I made a mistake,Me he equivocado,FALLO,FALLO
+62,92864,94491,Well I've interrupted the narration,Bueno he interrumpido la narración,G INTERRUMPIR G,G INTERRUMPIR 0
+63,94491,94928,Wait,Espera,ESPERAR2,0
+64,94928,96109,Three children arrive,llegan los tres niños,cl.e(3):PERSONAS3-aproximarse,0
+65,96131,99014,Then exactly (it was that) the man argues with them,después justo (era eso) el hombre discute con ellos,DESPUÉS JUSTO HOMBRE DISCUTIR,0 JUSTO 0 DISCUTIR
+66,99051,100225,The three then depart,después los tres se alejan,DESPUÉS cl.e(3):PERSONAS3-alejarse,0 0
+67,100225,100793,into the distance.,y se marchan,MARCHAR(1M),0
+68,100793,102899,I think so right?,me parece ¿no?,ACABAR(1M) G:no-saber,0 G:no-saber
+69,102899,104251,That is all,Nada más,ACABAR G,ACABAR G

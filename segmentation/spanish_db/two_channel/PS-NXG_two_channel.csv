@@ -1,0 +1,117 @@
+ID,Start_time,End_time,English,Español,Dominant_Hand,Non_Dominant_Hand
+1,1214,2918,Hello!,¡Hola!,HOLA,0
+2,2992,6796,I am going to narrate (a story) about pears,Voy a hablar de (la historia) de las peras,TEMA PERA4(Xc) DL:PERA,TEMA 0 0
+3,6869,8458,I am going to narrate it.,voy a contarla.,AHORA EXPLICAR,0 EXPLICAR
+4,8503,12648,The scene of this story is a grove with pears,El escenario de la historia es un bosque con peras ,SITUACIÓN INDX BOSQUE(M-AD) MÁS.SUMA PERA4(Xc),SITUACIÓN 0 BOSQUE(M-AD) 0 0
+5,12703,15283,A man with a hat,Un hombre con sombrero,HOMBRE PERSONA SOMBRERO(Xc) B:SOMBRERO(Xc),0 0 SOMBRERO(Xc) B:SOMBRERO(Xc)
+6,15538,16870,(was) picking [pears],cogiendo [peras],COGER(2Msu),COGER(2Msu)
+7,16870,18235,up in the tree.,arriba en un árbol.,INDX PERA4(Xc)- ÁRBOL,0 0 ÁRBOL
+8,18235,19063,He climbs up the ladder,Sube por la escalera,cl.e(2d):PERSONA-ascender-árbol,cl.e(5):ÁRBOL
+9,19063,19548,Climbs down,baja,cl.e(2d):PERSONA-descender-árbol,B:cl.e(5):ÁRBOL
+10,19548,19913,Climbs up...,sube...,cl.e(2d):PERSONA-ascender-árbol,B:cl.e(5):ÁRBOL
+11,19961,21571,(There are) three baskets.,(Hay) tres cestas.,CESTO cl.m(Xc):posar-cesta cl.m(Xc):posar-cesta cl.m(Xc):posar-cesta,CESTO cl.m(Xc):posar-cesta cl.m(Xc):posar-cesta cl.m(Xc):posar-cesta
+12,21571,22764,He continues working,Sigue trabajando,TRABAJAR CONTINUAR,TRABAJAR CONTINUAR
+13,22764,24331,Until he,hasta (que con las) peras (que) coge (del árbol),HASTA COGER(2Msu),HASTA COGER(2Msu)
+14,24331,25576,fills three (baskets) with the pears he picked from the tree.,llena las tres (cestas).,LLENAR(MP) LLENAR(MP) LLENAR(MP),LLENAR(MP) LLENAR(MP) LLENAR(MP)
+15,25878,26372,And just then...,Casualmente...,CASUAL,0
+16,27913,30245,a man passes by,Viene un hombre,HOMBRE VENIR,0 0
+17,30273,30996,(The first man) sees the second one,(El primer hombre) lo ve,MIRAR,0
+18,30996,33629,(He was walking) with a goat,(va) con (una) cabra,CON CABRA,CON CABRA
+19,33657,34742,He walked past with the goat on a leash,pasa con la cabra por una correa,cl.m(Xc):agarrar-correa,0
+20,34744,35543,Strolling along,paseando,PASEAR,PASEAR
+21,35543,37112,And then... [The first man] is still up,Entonces... [El hombre] sigue arriba,ENTONCES(1M) xxx INDX CONTINUAR,ENTONCES 0 0 CONTINUAR
+22,37112,37940,The man (is) up in the tree,el hombre (está) en lo alto del árbol,HOMBRE cl.e(2d):PERSONA-ascender-árbol,0 cl.e(5):ÁRBOL
+23,37940,38355,harvesting,sigue,CONTINUAR,CONTINUAR
+24,38355,39388,[the pears].,cogiendo [peras].,COGER(2Msu),COGER(2Msu)
+25,39510,41400,The man walking the goat,El hombre que pasea con la cabra,HOMBRE PASEAR CON CABRA,0 PASEAR CON 0
+26,41400,42781,passed by with the leash in hand,pasa con la correa en mano,cl.m(Xc):agarrar-corea,0
+27,42781,43808,into the distance,hasta alejarse,HASTA cl.e(1):TRAIECTORIA-desplazarse,HASTA 0
+28,43808,44598,(and) disappeared,(y) desaparecer,ALEJARSE,0
+29,44600,45587,into the distance.,se va.,cl.e(1):TRAIECTORIA-desplazarse,0
+30,46411,49182,Another (person) a boy,Otra (persona) un niño,OTRO xxx HOMBRE PEQUEÑO2,0 0 0 0
+31,49222,50880,on a bike,que va en bicicleta,INDX BICICLETA,0 BICICLETA
+32,51394,52532,approaches,Se acerca la bicicleta,cl.e(Bl):BICICLETA-aproximarse BICICLETA,0 BICICLETA
+33,52543,52924,(The child) looks (on the floor),mira (en el suelo),MIRAR,0
+34,52927,53427,(and) sees,descubre,DESCUBRIR,0
+35,53427,54631,three baskets there.,(que hay) tres cestas allí.,INDX TRES CESTO,0 0 CESTO
+36,54631,55538,He looks up,Mira arriba,MIRAR,0
+37,55538,56100,[The man] continues (picking pears),[el hombre] continúa,CONTINUAR,CONTINUAR
+38,56100,57773,working away,trabajando,TRABAJAR,TRABAJAR
+39,57773,58384,picking pears,cogiendo peras,COGER PERA4(Xc),0 0
+40,58384,59145,and placing them in his apron,y echándolas en el mandil,cl.m(A&amp;gt;5d):echar-peras-mandil,cl.e(B):MANDIL
+41,59145,59579,(The child) looks at him,(El niño) lo mira,MIRAR,0
+42,59579,60000,and looks at (the baskets),mira (las cestas),MIRAR,0
+43,60000,60422,(and wonders whether to),(y se decide),B:MIRAR,0
+44,60422,61107,take [?],coge [?],COGER,0
+45,61107,62604,take a basket,coge una cesta,cl.m(Xc):coger-cesta,cl.m(Xc):coger-cesta
+46,62611,63925,He uprights the bike,levanta la bicicleta,BICICLETA cl.m(A):levantar-bicicleta,BICICLETA cl.m(A):levantar-bicicleta
+47,63925,65545,puts the basket on top of the bicycle,pone la cesta encima de la bicicleta,cl.m(Xc):colocar-cesta,cl.m(Xc):colocar-cesta
+48,65575,66898,(and) leaves.,(y) se va.,ALEJARSE,0
+49,67313,68153,pedalling,(Va) pedaleando,BICICLETA,BICICLETA
+50,68153,69275,into the distance.,(y) se marcha.,0,ALEJARSE
+51,69766,71017,The man (is) working up (in the tree),El hombre (está) trabajando arriba (en el árbol),HOMBRE TRABAJAR INDX,0 TRABAJAR 0
+52,71017,71849,picking (pears),cogiendo (peras),COGER(2Msu),COGER(2Msu)
+53,71849,72966,and then climbs down the tree,baja del árbol,cl.e(2d):PERSONA-descender-árbol,cl.e(5):ÁRBOL
+54,73077,73929,he kneels on the ground,se arrodilla,AHORA cl.e(2b&amp;gt;2d):PERSONA-arrodillarse-suelo,0 cl.e(5):SUELO
+55,73985,74200,You know what?,¿sabes?,SABER,0
+56,74200,74839,he kneels,se arrodilla,cl.e(2b&amp;gt;2d):PERSONA-arrodillarse-suelo,cl.e(5):SUELO
+57,74977,77663,(and) empties the pears from his apron.,(y) vacía las peras del mandil.,cl.m(A&amp;gt;5):ARROJAR-peras,cl.e:MANDIL
+58,78170,80704,(Strange he thought) I had left it here...,(Qué raro) yo la había dejado aquí...,G:incomprensión INDX.PRO:1sg LO-DE-ANTES VERDAD2 INDX.PRO:1sg G:incomprensión,0 0 0 0 0 0
+59,80704,81751,(there) were three,(Había) tres,TRES,0
+60,81751,83845,(There are only) two now...,(ahora hay) dos...,DOS G:incomprensión,0 0
+61,83929,85735,He rises,Se levanta,cl.e(2b):PERSONA-levantarse-suelo,cl.e(B):SUELO
+62,85735,86725,leans against the tree,se apoya al árbol,ÁRBOL cl.e(2b):PERSONA-apoyarse-árbol,ÁRBOL cl.e(5):ÁRBOL
+63,86725,89029,"to think: ""Weird""","a pensar: ""Qué raro""",PENSAR RARO G:pensar,0 0 0
+64,89168,95623,Just then three children come by,Casualmente se acercaban los tres niños,CASUAL INDX NIÑO HOMBRE TRES PEQUEÑO2 TRES cl.e(3):PERSONAS3-aproximarse,0 0 0 0 0 0 0 0
+65,95688,97472,eating pears,comiendo peras,PERA4(Xc) cl.m(5d):agarrar+comer-pera,0 0
+66,97479,98517,(The man) looked at them,(El hombre) los miró,MIRAR,0
+67,98517,103621,The child on a bike yes him,El niño de antes el que se había ido en bicicleta ése,INDX LO-DE-ANTES INDX BICICLETA ALEJARSE INDX,0 0 0 BICICLETA 0 0
+68,103700,105323,(Continues riding) the bike,(va en la) bicicleta,BICICLETA,BICICLETA
+69,105323,109191,(when) another girl also on a bike approached,(cuando) se acercó otra niña también en bicicleta,MUJER OTRO MUJER PEQUEÑO2 TAMBIÉN BICICLETA cl.e(Bl):BICICLETA-aproximarse-bicicleta,0 0 0 0 0 BICICLETA cl.e(Bl):BICICLETA-aproximarse-bicicleta
+70,109281,110223,The boy cycled hooking his gaze (at the girl) ,El niño iba (embobado) mirando,MIRAR,0
+71,110223,110984,they approached,se acercaron,MIRAR(2M),0
+72,110995,111441,[something] went wrong,[algo] falló,FALLO,FALLO
+73,111441,112493,and they crashed,chocaron,INDX BATALLA,0 BATALLA
+74,112493,114071,and fell to the ground.,(y) se cayó.,CAER,CAER
+75,114071,115967,The pears fell,Las peras cayeron,PERA4(Xc) cl.d(A&amp;gt;5):peras-caer,0 cl.d(A&amp;gt;5):peras-caer
+76,115967,117566,(and) scattered on the floor.,(y) se esparcieron.,DIFUNDIR,DIFUNDIR
+77,117566,118829,The girl cycled into the distance.,La mujer se alejó.,MUJER ALEJARSE,0 0
+78,118829,120646,Three children came by,Aparecieron los tres niños,HOMBRE cl.e(3):PERSONAS3 PEQUEÑO2,0 0 0
+79,120646,121368,(and) saw (the boy on the ground),(y) vieron (al niño en el suelo),MIRAR,0
+80,121368,122289,This is why he fell,Por eso se había caído,MOTIVO CAER,0 CAER
+81,122289,123163,it was clear.,claro.,G:,0
+82,123163,123783,They approached the boy,Se acercaron,cl.e(3):PERSONAS3-aproximarse,0
+83,123783,125289,(and) helped him.,(y) ayudaron al niño.,AYUDAR INDX,AYUDAR 0
+84,125344,126891,The boy had fallen,El niño se había caído,HOMBRE PEQUEÑO2 CAER,0 0 CAER
+85,126891,128235,(and) the basket too,(y) el cesto se había caído.,CESTO cl.e(A):CESTO-caer,CESTO cl.e(A):CESTO-caer
+86,128235,129571,They began putting the pears back into the (basket) [that had fallen to the ground],En ese (cesto) [que se había caído] echaron las peras,LO-DE-ANTES cl.m(A&amp;gt;5d):arrojar-peras,0 cl.e(5):CESTO
+87,129571,130804,(and when it was) full,(y cuando estuvo) lleno,cl.d(5):peras-superficie LISTO,cl.d(5):peras-superficie LISTO
+88,130804,132214,They put the basket in place,lo subieron otra vez (al sitio de) antes,cl.m(A):subir-cesto OTRA-VEZ(1M) LO-DE-ANTES,cl.m(A):subir-cesto 0 0
+89,132214,133157,on the bicycle,lo subieron a la bicicleta,cl.m(A):subir-cesto BICICLETA,cl.m(A):subir-cesto BICICLETA
+90,133157,134327,(and the boy) thanked them,(y el niño) les dio las gracias,GRACIAS INDX(B),GRACIAS 0
+91,134566,135616,The bike was ready to move,La bicicleta estuvo lista,BICICLETA LISTO,BICICLETA LISTO
+92,135616,136143,and (the boy) left.,y se alejó.,ALEJARSE,0
+93,136143,136512,[One of the three children] saw a hat.,[Uno de los tres niños] encontró el sombrero.,0,cl.m(Q):coger-sombrero
+94,136512,137251,The boy had forgotten the hat,Se le ha olvidado el sombrero,SOMBRERO(1M) OLVIDAR,B:cl.m(Q):coger-sombrero B:cl.m(Q):coger-sombrero
+95,137251,137714,and he was getting away.,y se aleja.,ALEJARSE,B:cl.m(Q):coger-sombrero
+96,137717,137973,"""Wait!""","""¡Espera!""",ESPERAR2,B:cl.m(Q):coger-sombrero
+97,137973,138980,"""the hat""","""El sombrero""",0,cl.m(Q):elevar-sombrero
+98,138988,139853,"""Ah!""","""¡Ah!""",G:¡ah!,B:cl.m(Q):elevar-sombrero
+99,139853,142451,"""They gave the hat""",Le da el sombrero.,cl.m(Q):dar-sombrero SOMBRERO(Xc) G:narrador,cl.m(Q):dar-sombrero SOMBRERO(Xc) 0
+100,142590,145697,The child thanked them,"El niño ""Me siento agradecido""",HOMBRE G SENTIR GRACIAS G,0 0 0 GRACIAS 0
+101,145697,148797,"""Here three pears for helping me.""","""Tres peras por haberme ayudado""",TRES PERA4(Xc) AYUDAR MOTIVO G,0 0 AYUDAR 0 0
+102,148808,149680,He takes three (pears from the basket),Coge tres (del cesto),cl.m(5d):coger-peras TRES,cl.m(5d):coger-peras 0
+103,149680,150579,(and) gave them to the children.,(y) se las da.,DAR,0
+104,150611,152326,"The [other] boy receiving the pears said ""Thank You""","El [otro] niño con las peras en mano ""Gracias""",HOMBRE GRACIAS(1M) G,cl.m(Bd)sostener-peras B:cl.m(Bd)sostener-peras 0
+105,152353,153224,(and) they leave.,(y) se va.,ALEJARSE,cl.m(Bd)sostener-peras
+106,153228,154435,(The boy) distributed the pears.,Reparte las peras.,cl.m(Cc):dar-peras G,cl.m(Cc):dar-peras G
+107,154520,155620,Those three children who are coming,Esos tres niños que se acercaban,INDX cl.e(3):PERSONAS3-desplazarse,0 0
+108,155620,156720,(are) the same ones as before,(son) los mismos de antes,MISMO LO-DE-ANTES,0 0
+109,156720,157824,(the ones I mentioned) before,(a los que me refería) antes,PASADO(2Msu) INDX,PASADO(2Msu) 0
+110,158038,158808,The three children passed by.,Los tres niños pasaron.,cl.e(3):PERSONAS3-desplazarse,0
+111,158831,159929,The man followed them with his eyes,El hombre los seguía con la mirada,HOMBRE MIRAR,0 0
+112,159964,161185,He though they had stolen the pears.,piensa que ellos le robaron.,PENSAR INDX ROBAR INDX,0 0 0 0
+113,161185,163501,No (it was the) other (boy): the boy on the bicycle.,No (había sido) otro: el niño de la bicicleta.,NO OTRO2 HOMBRE BICICLETA,0 0 0 BICICLETA
+114,163536,165084,The man was confused.,El hombre estaba confuso.,HOMBRE COMPLICADO,0 COMPLICADO
+115,165084,166660,We have come to the end,Hemos llegado al final,HASTA FIN,HASTA FIN
+116,166670,167388,Right?,¿vale?,(CNM),(CNM)

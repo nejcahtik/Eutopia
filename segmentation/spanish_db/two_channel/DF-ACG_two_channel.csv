@@ -1,0 +1,21 @@
+ID,Start_time,End_time,English,Español,Dominant_Hand,Non_Dominant_Hand
+1,200,2108,The two are deaf,Los dos (son) sordos,LOS-DOS SORDO INDX,0 0 0
+2,2108,3281,They are talking about...,están hablando de...,SIGNAR,SIGNAR
+3,3281,3897,He is holding a photo in his hand,Tiene una foto en la mano,UNO FOTOGRAFÍA(1M) INDX,cl.m(B):foto-sostener B:cl.m(B):foto-sostener B:cl.m(B):foto-sostener
+4,3897,4642,and is looking at it.,(y) la miran.,VER INDX,B:cl.m(B):foto-sostener B:cl.m(B):foto-sostener
+5,4645,5389,In the picture you see,En la foto se ve,VER,B:cl.m(B):foto-sostener
+6,5389,8804,people kids ex-students from the school,personas niños ex[alumnos] del colegio,ALGUNO.PERSONA- PERSONA PEQUEÑO2 PASADO EX COLEGIO2,B:cl.m(B):foto-sostener B:cl.m(B):foto-sostener B:cl.m(B):foto-sostener B:cl.m(B):foto-sostener EX COLEGIO2
+7,8840,10421,Do you know them?,¿Tú sabes (quién son) estos?,INDX SABER INDX.PRO:2sg,cl.m(B):foto-sostener B:cl.m(B):foto-sostener B:cl.m(B):foto-sostener
+8,10421,11619,The issuer the two both of us are children,El emisor los dos (son/somos) niños,INDX.PRO:1sg LOS-DOS PEQUEÑO2,0 0 0
+9,11619,12133,and we are inside,(y están/estamos) dentro,DENTRO,DENTRO
+10,12133,13146,Are you in the photo?,tú (estás) en la foto,INDX.PRO:2sg FOTOGRAFÍA DENTRO,0 FOTOGRAFÍA DENTRO
+11,13146,14703,"""Do you know these people?""","""¿Conoces a estas personas?""",CONOCER PERSONA CONOCER INDX.DEM,cl.m(B):foto-sostener B:cl.m(B):foto-sostener B:cl.m(B):foto-sostener B:cl.m(B):foto-sostener
+12,14703,15945,You respond:,Tú respondes:,INDX.PRO:2sg BIEN- RESPONDER(1M) INDX.PRO:2sg,B:cl.m(B):foto-sostener B:cl.m(B):foto-sostener B:cl.m(B):foto-sostener B:cl.m(B):foto-sostener
+13,15968,16391,"""Me?"" ","""¿Yo?"" ",INDX.PRO:1sg,B:cl.m(B):foto-sostener
+14,16391,17904,"and you: ""Ah yes I remember","[Y] tú: ""(Ah sí) lo recuerdo",INDX.PRO:2sg INDX RECORDAR,B:cl.m(B):foto-sostener B:cl.m(B):foto-sostener B:cl.m(B):foto-sostener
+15,17904,19129,"When I was at school""","cuando (estaba) en el colegio""",PASADO COLEGIO2,B:cl.m(B):foto-sostener COLEGIO2
+16,19186,20253,I am married now,Ahora me casé,AHORA CASAR,0 CASAR
+17,20253,20649,I got separated,me separé,DIVORCIARSE,DIVORCIARSE
+18,20649,21535,I am separated,estoy separado,DIVORCIARSE,DIVORCIARSE
+19,21535,23330,after that the children the school,después los hijos el colegio,DESPUÉS HIJO COLEGIO2,0 HIJO COLEGIO2
+20,23330,25700,after that work...,después el trabajo...,DESPUÉS TRABAJAR G,0 TRABAJAR G

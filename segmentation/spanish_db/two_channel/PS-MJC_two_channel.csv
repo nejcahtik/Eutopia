@@ -1,0 +1,137 @@
+ID,Start_time,End_time,English,Español,Dominant_Hand,Non_Dominant_Hand
+1,610,1288,Can I start?,¿Empiezo?,EMPEZAR,EMPEZAR
+2,2899,4604,(In an) orchard,(En una) arboleda,cl.e(5):ÁRBOL-fila-suelo,cl.e(Bh):SUELO
+3,5316,6116,(there is) a man,(hay un) hombre,HOMBRE PERSONA,0 0
+4,6116,7147,wearing a hat,con un sombrero,cl.d(Xa):sombrero,cl.d(Xa):sombrero
+5,7147,8025,and a scarf on his neck,una pañoleta en el cuello,PAÑOLETA,PAÑOLETA
+6,8025,9044,and an apron,y un delantal,cl.d(Xa):tira-delantal,cl.d(Xa):tira-delantal
+7,9044,10407,with a pocket,con un bolsillo,hhh cl.d(L&amp;gt;B):bolsillo-delantal,hhh cl.d(L&amp;gt;B):bolsillo-delantal
+8,10407,11712,(to) keep things in,(para) guardar cosas,COSA ARROJAR(2Msu),COSA ARROJAR(2Msu)
+9,11712,12650,[The apron] is tied at the back.,atado [el delantal] a la espalda.,cl.m(Xc):atar-delantal,cl.m(Xc):atar-delantal
+10,13465,15407,(There is) a ladder up the tree.,(Hay) una escalera hasta un árbol.,cl.e(2d):ESCALERA-sobre-suelo cl.e(5):ÁRBOL-sobre-suelo,cl.e(Bh):SUELO cl.e(Bh):SUELO
+11,15837,18933,The man (is) working picking pears,El hombre (está) trabajando en las peras.,HOMBRE PERSONA TRABAJAR PERA4(Q),0 0 TRABAJAR 0
+12,19831,20978,How (does) he (work)?,(Esta) persona cómo (hace),PERSONA CÓMO,0 cl.c(X):PIERNA
+13,20978,23112,(Well) he climbs up the ladder,sube la escalera,cl.c(X):PIERNAs-ascender+por,cl.c(X):PIERNAs-ascender+por
+14,23112,23632,and plucks a pear,coge una pera,cl.m(5d):coger-fruta,cl.e(C):SACO
+15,23632,24326,puts it in ...,la mete en un...,cl.m(5d):agarrar-fruta,B:cl.e(C):SACO
+16,24326,25040,puts it in his apron pocket,la mete en el bolsillo del delantal,cl.m(5d):guardar-fruta,B:cl.e(C):SACO
+17,25040,25614,plucks another pear,arranca otra pera,cl.m(5d):arrancar-fruta,B:cl.e(C):SACO
+18,25614,26490,puts it in the apron...,la mete en el delantal...,cl.m(5d):guardar-fruta,B:cl.e(C):SACO
+19,26490,29838,(way up in the) tree (top)... (there are many) pears,(En la copa del) árbol... (hay muchas) peras,ÁRBOL cl.e(5):ÁRBOL PIEDRA- PERA4 PERA4(Q) cl.e(5d):PERAS-en-árbol,ÁRBOL hhh PIEDRA- 0 0 cl.e(C):ÁRBOL-tronco
+20,29838,30607,(The man) is plucking pears,(el hombre está) cogiendo peras,B:cl.e(5d):PERAS-en-árbol cl.m(5d):guardar-fruta,cl.m(5d):coger-fruta B:cl.m(5d):coger-fruta
+21,30607,32095,(and suddenly) a pear falls to the ground.,(y de repente) una pera cae al suelo.,cl.e(1):TRAIECTORIA-caer,0
+22,32095,33790,(The man is annoyed but continues) plucking the pears.,(El hombre se muestra molesto y sigue) cogiendo peras.,G cl.m(5d):coger+guardar-fruta,0 cl.e(5d):delantal
+23,33790,36930,(The man) sees a goat with a bell,(El hombre) ve una cabra con cencerro,MIRAR INDX cl.e(Qa):CAMPANA cl.d(L):cuernos-forma,0 0 0 cl.d(L):cuernos-forma
+24,36930,37715,approaching,(que) se acerca,cl.c(A):pezuñas-caminar,cl.c(A):pezuñas-caminar
+25,37715,38195,in the distance.,a cierta distancia.,B:cl.c(A):pezuñas-caminar,cl.e(1):localización-cabra
+26,38289,40599,(The man continues) plucking pears,(El hombre sigue) recogiendo peras.,cl.m(5d):coger+echar-fruta-en+saco,cl.e(5h):SACO
+27,40718,43929,He climbs down the tree,Baja del árbol,cl.e(2d):PERSONA-descender+de-localización,cl.e(Bh):LOCALIZACIÓN
+28,43929,45680,takes a pear,coge una pera,G:hombre cl.m(Q):coger-fruta,G:hombre 0
+29,45680,47249,unties his scarf,se saca la pañoleta del cuello,cl.m(5d):agarrar-fruta,cl.m(Xc):desatar-pañoleta
+30,47249,49338,cleans the pear with it,limpia con ella la pera,B:cl.m(5d):agarrar-fruta,cl.m(E):limpiar-fruta
+31,49338,51212,and leaves the fruit in a basket.,y deja la fruta en una cesta.,cl.d(5d):cesta ARROJAR,cl.d(5):cesta B:cl.d(5):cesta
+32,51258,52438,He ties the scarf on his neck again.,Vuelve a ponerse la pañoleta.,cl.m(Xc):atar-pañoleta,cl.m(Xc):atar-pañoleta
+33,52549,53335,empties the contents of the apron pocket in the basket,Vuelca el bolsillo del delantal en la cesta,cl.m(5&amp;gt;A):coger-bolsillo cl.m(A):vaciar-bolsillo,cl.m(5&amp;gt;A):coger-bolsillo cl.m(A):vaciar-bolsillo
+34,53335,54039,The fruit falls,la fruta cae,cl.d(5):peras-caer+colectivo,cl.d(5):peras-caer+colectivo
+35,54039,55034,pears.,caen las peras.,cl.e(5d):peras-caer+individual,cl.e(5d):peras-caer+individual
+36,55234,59405,(There are) three baskets.,(Hay) tres cestas... hay.,cl.d(5):cesta cl.d(5):cesta cl.d(5):cesta TRES HABER,cl.d(5):cesta cl.d(5):cesta cl.d(5):cesta 0 0
+37,60514,64109,(The man) climbs up the ladder again,(El hombre) sube otra vez la escalera,OTRA-VEZ(1M) cl.c(X):PIERNAs-ascender+por,0 cl.c(X):PIERNAs-ascender+por
+38,64109,65840,(and continues) picking pears from the tree,(y sigue) cogiendo peras del árbol,ÁRBOL cl.m(5d&amp;gt;5):coger+guardar-fruta,ÁRBOL cl.m(5):agarrar-saco
+39,65840,69253,(and) puts them in his apron pocket.,(que) guarda en el bolsillo de su delantal.,cl.d(C):bolsillo-delantal cl.m(5d&amp;gt;5):coger+guardar-fruta,cl.d(C):bolsillo-delantal cl.d(C):bolsillo-delantal
+40,69875,73417,(There appears) a little blond boy wearing a hat and a scarf,(Aparece) un niño rubio con sombrero y pañoleta,HOMBRE PEQUEÑO2 RUBIO cl.d(Xa):sombrero PAÑOLETA,0 0 0 cl.d(Xa):sombrero PAÑOLETA
+41,73417,74985,Just like his father (the man on the tree),igual su padre (era el hombre del árbol),IGUAL2 PADRE(2p) INDX.AUX,IGUAL2 0 cl.e(1):PERSONA
+42,74985,75565,Who knows!,¡quién sabe!,G:quién-sabe,G:quién-sabe
+43,75566,77922,The (child is riding) a bike,El (niño va) en bicicleta,INDX BICICLETA,0 BICICLETA
+44,77922,79308,He looks up (into the tree),mira (a la cima del árbol),MIRAR,0
+45,79308,80171,(continues) looking,(vuelve a) mirar,MIRAR,0
+46,80171,81903,gets off the bike,se baja de la bicicleta ,BICICLETA cl.e(2d):PERSONA-descender+de-bicicleta,BICICLETA cl.e(Bh):BICICLETA
+47,81903,83071,looks (mischievously at the man),mira (pícaro al hombre),MIRAR,0
+48,83071,84319,(and looks at the baskets with) pears in front of him.,(tiene) las peras (de los cestos) delante.,PERA4 INDX,0 0
+49,84319,85231,Looks up (at the man),Mira (al hombre),MIRAR,0
+50,85231,86378,(continues) looking,(vuelve a) mirar y,MIRAR,0
+51,86378,87088,picks up a pear,coge una pera;,cl.m(5d):coger-fruta,0
+52,87088,88218,holds it,la sostiene,cl.m(5d):agarrar-fruta,0
+53,88218,89233,(but) leaves it (in the basket),(pero) la deja (en la cesta),cl.m(5d&amp;gt;5):echar-fruta,0
+54,89233,90574,(He makes sure that no one is looking).,(comprueba que nadie lo mira).,B:cl.m(5d&amp;gt;5):echar-fruta,0
+55,90574,91471,The bike (is) lying (on the floor),La bicicleta (está) acostada (en el suelo),BICICLETA cl.d(Xa):bicicleta-en-suelo,BICICLETA cl.d(Xa):bicicleta-en-suelo
+56,91471,92015,then takes the...,coge la...,cl.m(5):coger-cesta,cl.m(5):coger-cesta
+57,92015,92726,he uprights the bike,levanta la bicicleta y,cl.e(Xa):BICICLETA-levantarse-cesta+referencia,cl.e(Xa):CESTA
+58,92726,94768,puts the basket on the handlebar.,pone la cesta en el manillar.,cl.m(A):colocar-cesta,cl.m(A):colocar-cesta
+59,94769,95258,(checks that the man is not looking at him),(Comprueba que el hombre no le mira y),B:cl.m(A):colocar-cesta,B:cl.m(A):colocar-cesta
+60,95258,96941,climbs on the bike,se sube en la bicicleta,cl.e(2b):PERSONA-ascender+a-bicicleta,cl.e(B):BICICLETA
+61,96941,97560,(checks that the man is not looking at him),(comprueba que el hombre no lo ha visto y),B:cl.e(2b):PERSONA-ascender+a-bicicleta,0
+62,97560,98110,(and starts) pedalling,(empieza a) pedalear,BICICLETA,BICICLETA
+63,98110,99351,into the distance.,alejándose.,cl.e(2b):PERSONA-ascender+a-bicicleta G,cl.e(1):BICICLETA G
+64,101086,104978,Three children on foot (come by).,(Aparecen) tres niños caminando.,HOMBRE cl.e(3):PERSONAS3-aproximarse,0 0
+65,104978,105927,one (is) waving (a tennis) [racquet],Uno (va) dándole [a una raqueta],cl.e(1):PERSONA cl.m(Xc):accionar-raqueta,0 0
+66,105927,106815,(a tennis) racquet,una raqueta,cl.m(Xc):sostener-raqueta,cl.d(Ca):forma-raqueta
+67,106815,107391,(hitting) a ball,con una pelota,B:cl.m(Xc):sostener-raqueta,cl.e(O):PELOTA
+68,107391,108186,attached to the racquet by a rope,conectada por una cuerda a la raqueta,B:cl.m(Xc):sostener-raqueta,CUERDA
+69,108186,109290,that bounces back and forth;,que bota adelante y atrás;,B:cl.m(Xc):sostener-raqueta,cl.e(O):PELOTA-botar
+70,109290,109668,By moving the racquet,al darle a la raqueta,cl.m(Xc):accionar-raqueta,0
+71,109668,110528,the ball bounces back and forth;,bota adelante y atrás,cl.m(Xc):sostener-raqueta,cl.e(O):PELOTA-botar
+72,110528,110936,and,le das (y),cl.m(Xc):accionar-raqueta,0
+73,110936,111442,the ball bounces.,la pelota bota.,cl.m(Xc):sostener-raqueta,cl.e(O):PELOTA-botar
+74,111442,111871,(The child continues) slamming [the ball] with the racquet,(El niño va) dándole a la raqueta,cl.m(Xc):accionar-raqueta,0
+75,111871,113325,(as) he walks with the other two boys.,(mientras) camina con los otros dos niños.,cl.e(2):PERSONAS2-desplazarse,0
+76,114222,115155,The boy that fled on the bicycle,El niño que huía en bicicleta,cl.m(A):agarrar-manillar,cl.m(A):agarrar-manillar
+77,115467,118436,(and a) girl on a bike meet,(y una) niña en bicicleta se encuentran,MUJER 0 cl.e(Xa):BICICLETA-aproximarse-bicicleta BICICLETA cl.e(Xa):BICICLETA-aproximarse-bicicleta,0 cl.e(Xa):BICICLETA cl.e(Xa):BICICLETA-aproximarse-bicicleta BICICLETA cl.e(Xa):BICICLETA-aproximarse-bicicleta
+78,118436,120068,(She has two) braids,(ella lleva dos) trenzas,TRENZA TRENZA,TRENZA TRENZA
+79,120068,122016,and they are about to cross each other,están a punto de cruzarse,cl.e(Xa):BICICLETA-aproximarse-bicicleta,cl.e(Xa):BICICLETA-aproximarse-bicicleta
+80,122107,123535,The child (looks at the girl) open mouthed,el niño se queda embobado (mirando a la niña y),HOMBRE BICICLETA,0 BICICLETA
+81,123535,124667,The girl with braids ,la niña (que va toda pincha) con sus trenzas ,MUJER cl.d(2p):trenzas,0 cl.d(2p):trenzas
+82,124667,125335,slaps him,le pega un manotazo,G:manotazo,0
+83,125393,126839,(and) (the boy’s) hat fell off.,(que) le tira el sombrero (al niño).,cl.e(Xa):sombrero-caer,cl.e(Xa):sombrero-caer
+84,126839,127710,(The boy) continues cycling ,(El niño) sigue circulando (y),cl.e(Xa):BICICLETA-desplazarse,0
+85,127710,128251,spellbound,(como) va embobado,cl.e(Xa):BICICLETA-desplazarse,0
+86,128251,130412,and hits a stone,colisiona con una piedra,PIEDRA cl.e(Xa):BICICLETA-chocar-piedra,PIEDRA cl.e(Xa):PIEDRA
+87,130412,132154,(when) the girl disappears into the distance.,(mientras) la niña se aleja.,MUJER ALEJARSE,0 0
+88,132744,135677,The boy... the three boys approach (the blond boy),El niño las... los tres niños se acercan (al niño rubio),INDX MUJER HOMBRE PEQUEÑO2 TRES cl.e(3):PERSONAS3-aproximarse,0 0 0 0 0 0
+89,135677,136172,see (him on the floor),ven (al niño accidentado y),MIRAR,0
+90,136172,137115,(and) help him.,le ayudan.,AYUDAR,AYUDAR
+91,137115,138517,The blond boy (is) sitting:,El niño rubio (está) sentado:,HOMBRE RUBIO SENTAR,0 0 SENTAR
+92,138517,139099,"""it hurts!"" (he says)","""¡(Cómo) duele!""",DOLOR,0
+93,139099,139699,(He pulls) up one sock,(Lleva) el calcetín subido,cl.d(B):calcetín-subido,cl.c(B):pierna
+94,139699,140421,and looks at the knee.,se mira la rodilla.,MIRAR,XXX
+95,140421,141777,The sock (is) halfway (up to) the shin bone.,El calcetín (subido hasta) la mitad de la canilla.,CALCETÍN2 cl.d(Bl):calcetín-subido,CALCETÍN2 cl.c(Bl):pierna
+96,141777,142447,"""The knee hurts"" (he says).","""(Cómo me) duele la rodilla.""",DOLOR INDX,0 G:tocarse-rodilla
+97,142447,143038,(He is) sitting,(Está) sentado,cl.e(2d):PERSONA-sentarse,cl.e(Bh):SUELO
+98,143038,143824,"""it hurts"" (a lot...)","""(Cómo) duele"" (tal...)",DOLOR G,0 G
+99,143824,144880,He rises,se levanta.,cl.e(2b):PERSONA-levantarse-suelo,cl.e(Bh):SUELO
+100,144880,146563,the children help him to ,Los niños le ayudan.,INDX HOMBRE AYUDAR,0 0 AYUDAR
+101,146631,151590,put the pears in the basket (and),Ponen las peras en la cesta (y),PERA4(2M) ARROJAR(2Msu) cl.d(5):cesta LO-DE-ANTES ARROJAR(2Msu),PERA4(2M) ARROJAR(2Msu) cl.d(5):cesta B:cl.d(5):cesta ARROJAR(2Msu)
+102,151590,153308,(then) place the basket (on the bike),suben la cesta (y),INDX cl.m(C):colocar-cesta,0 cl.m(C):colocar-cesta
+103,153308,155247,The boy climbs on the bike,El niño se sube en la bicicleta,BICICLETA cl.e(2b):PERSONA-ascender+a-bicicleta,BICICLETA cl.e(1):BICICLETA
+104,155248,156454,(and starts) pedalling,(empieza a) pedalear.,BICICLETA,BICICLETA
+105,156455,157378,The three boys go away,Los tres niños se van,cl.e(3):PERSONAS3-alejarse,0
+106,157378,160089,(The one with the racquet) continues to play with the ball,(el de la raqueta) sigue jugando con la pala de la pelotita,CONTINUAR cl.m(Xc):accionar-raqueta cl.e(O):PELOTA-botar CONTINUAR,CONTINUAR 0 cl.m(Cc):sostener-raqueta 0
+107,160089,160553,(while) walking,(va) caminando (y),cl.e(1):PERSONA-alejarse,0
+108,160553,162569,He sees a hat on the floor.,ve el sombrero en el suelo.,MIRAR SOMBRERO(Xc) cl.e(Xa):sombrero-tirado,0 SOMBRERO(Xc) cl.e(Xa):sombrero-tirado
+109,162696,164840,(The boy with the racquet) looks at the blond boy in the distance,(El niño de la raqueta) mira al niño rubio a lo lejos,MIRAR RUBIO cl.e(1):PERSONA,0 0 0
+110,164952,165493,The (blond boy sees the hat),el (niño rubio lo ve),BICICLETA B:BICICLETA,BICICLETA B:BICICLETA
+111,165790,166605,(and decides) to return.,(decide) volver.,VOLVER,VOLVER
+112,166605,167727,He gets off the bike (and),baja de la bicicleta (y),0 cl.e(2d):PERSONA-descender+de-bicicleta,cl.e(Xa):BICICLETA cl.e(Bh):BICICLETA
+113,167727,169149,walks (towards the boy with the racquet).,camina (hasta el niño de la raqueta).,0,cl.e(2b):PERSONA-aproximarse
+114,169149,170550,The (boy with the racket) gives him the hat,El (niño de la raqueta) le da el sombrero (y),INDX cl.m(Q):dar-sombrero,0 cl.m(Q):dar-sombrero
+115,170550,173735,The (blond boy) gives a pear for each one.,él (niño rubio) le regala una pera para cada uno.,INDX REGALAR PERA4 UNO UNO UNO,0 REGALAR 0 0 0 0
+116,173867,174537,(and) leaves,(El niño rubio) se va:,0,ALEJARSE
+117,174538,175087,on his bike,monta en la bicicleta (y),cl.e(2b):PERSONA-ascender+a-bicicleta,cl.e(1):BICICLETA
+118,175087,176050,Pedalling (into the distance).,(se aleja) pedaleando.,BICICLETA 0,BICICLETA G:alejarse
+119,176165,177040,(The three) boys walk by.,(Los tres) niños caminan,HOMBRE cl.e(3):PERSONAS3-desplazarse,0 0
+120,177040,177892,(The one with the racquet) continues to play with the ball,(el de la raqueta sigue) jugando con la raqueta.,cl.m(Xc):accionar-raqueta,0
+121,177892,179398,The earlier man,El hombre de antes,HOMBRE PERSONA LO-DE-ANTES cl.e(2d):PERSONA-en-árbol,0 0 0 cl.e(5):ÁRBOL
+122,179398,180674,the fat one wearing a hat and scarf,gordo de sombrero y pañoleta,GORDO SOMBRERO PAÑOLETA,GORDO SOMBRERO PAÑOLETA
+123,180674,182118,(is) collecting pears.,(está) recogiendo peras.,G:hombre cl.m(5d):coger+guardar-fruta,0 cl.m(5):agarrar-saco
+124,182119,183020,He climbs down the tree,Baja del árbol,AHORA cl.e(2d):PERSONA-descender+de-árbol,0 B:cl.e(5):ÁRBOL
+125,183020,183962,and holds the apron (to empty its contents into the basket and),agarra el delantal (para vaciar su contenido en una cesta y),cl.m(A):coger-delantal,cl.m(A):coger-delantal
+126,183962,185025,is surprised.,se queda en blanco.,MENTE-APAGADA,MENTE-APAGADA
+127,185025,187963,"""One basket of pears has disappeared","""Ha desaparecido una cesta de peras",DESAPARECER UNO cl.d(B):cesta PERA4,DESAPARECER 0 cl.d(B):cesta 0
+128,187963,189130,"Where is it?""","¿dónde estará?""",DÓNDE,0
+129,189257,189805,Looks on one side...,Mira al lado...,MIRAR,0
+130,189805,191352,and sees the three boys,El hombre ve pasar los tres niños,HOMBRE cl.e(3):PERSONAS3-aproximarse,0 0
+131,191352,192740,eating the fruit,comiendo la fruta,cl.m(5d):agarrar+comer-fruta,0
+132,192740,193996,walking past him,pasan por delante del hombre,cl.e(3):PERSONAS3-alejarse,0
+133,193996,194386,(The man) looks at them (but),(el hombre) los ve (y),MIRAR,0
+134,194386,195402,says nothing.,no dice nada.,SILENCIO,0
+135,203587,204872,(He lacks) proof,(Le falta) sustancia,SUSTANCIA,SUSTANCIA
+136,204925,205979,(a bit) strange.,(un poco) raro.,RARO,G

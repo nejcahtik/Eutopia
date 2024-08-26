@@ -1,0 +1,127 @@
+ID,Start_time,End_time,English,Español,Dominant_Hand,Non_Dominant_Hand
+1,2144,5040,In a field between green mountains  ,En un lugar entre montañas verdes había un campo ,PAISAJE VERDE cl.d(5):hierba-recubriendo-monte CAMPO cl.e(L):CAMPO-localización,PAISAJE B:PAISAJE B:PAISAJE CAMPO cl.e(L):CAMPO-localización
+2,5270,6188,lay  a tree.,en el que se encontraba un árbol.,ÁRBOL 0,ÁRBOL cl.e(5):ÁRBOL
+3,6552,9177,The weather was hot like in the summer.,Hacía muy buen tiempo como de verano.,CLIMA BUENO IGUAL VERANO ES.ASÍ,0 0 IGUAL B:IGUAL ES.ASÍ
+4,9239,9570,continues,Sigo.,G:prosigo,0
+5,10221,12413,A man climbed up the tree (with a ladder),Un hombre estaba subido a un árbol (con ayuda de una escalera),HOMBRE PERSONA ÁRBOL cl.e(2d):PERSONA-ascender+a-árbol,0 0 ÁRBOL cl.e(5):ÁRBOL
+6,12809,14972,this was a pear tree.,Era un peral.,QUÉ TIPO PERA,0 TIPO 0
+7,15118,16334,He began picking pears to pack into the sack he was carrying.,Comenzó a recoger peras para el saco que portaba.,cl.m(5d&amp;gt;5):coger+guardar-fruta,cl.e(B):SACO
+8,16445,17512,He had a beard and was wearing a wide-brimmed hat,Tenía barba y llevaba puesto un sombrero de ala ancha.,cl.d(Qa):sombrero-ala-ancha cl.d(5d):barba-forma,cl.d(Qa):sombrero-ala-ancha cl.d(5d):barba-forma
+9,17580,18521,(and) was plucking pears from different branches,Estaba cogiendo peras de distintas ramas,cl.m(5d&amp;gt;5):coger+guardar-fruta,cl.e(B):SACO
+10,18528,18970,The man was at the tree top ,Subido en lo alto del árbol,cl.e(2d):PERSONA-ascender+a-árbol,cl.e(5):ÁRBOL
+11,18977,20372,picking the pears.,cogía y cogía las peras.,cl.m(5d&amp;gt;5):coger+guardar-fruta,cl.e(B):SACO
+12,20454,21807,when a pear fell rolling outside the sack.,Una pera cayó rodando por fuera del saco.,UNO MANZ- PERA2 cl.e(Cc):FRUTA-caer+de-saco,B:cl.e(B):SACO B:cl.e(B):SACO B:cl.e(B):SACO B:cl.e(B):SACO
+13,22034,23209,The man continued picking pears and upon finishing,El hombre siguió recogiendo peras y al acabar,cl.m(A&amp;gt;5):coger+guardar-fruta LISTO(1M),B:cl.e(B):SACO B:cl.e(B):SACO
+14,23292,24414,he climbed down the tree,bajó del árbol.,cl.e(2d):PERSONA-descender+de-árbol LISTO(1M),cl.e(5):ÁRBOL B:cl.e(5):ÁRBOL
+15,24698,27176,(Under the tree) there was a line of three baskets,(Bajo el árbol) situadas en línea estaban tres cestas,CESTO TRES CESTO TRES,CESTO B:CESTO CESTO B:CESTO
+16,27389,29162,containing pears (that the man had emptied) from the sack,que contenían las peras (que el hombre echaba) del saco,cl.d(5d):saco-del-regazo AHORA HABER PERA cl.d(5d):cestas-llenas-de-peras,cl.d(5d):saco-del-regazo 0 0 0 cl.d(5d):cestas-llenas-de-peras
+17,29299,30706,He put the pears in the baskets.,Vació las peras en las cestas.,cl.m(Cc&amp;gt;5d):echar-fruta,cl.m(Cc&amp;gt;5d):echar-fruta
+18,30775,32328,He picked a pear and observed it carefully.,Tomó una pera y la observó bien.,UNO cl.m(5d):coger-fruta cl.m(5d):examinar-fruta,B:cl.m(Cc&amp;gt;5d):echar-fruta cl.m(5d):coger-fruta cl.m(5d):examinar-fruta
+19,33036,34244,It was the pear that had fallen earlier.,Era la pera que previamente había caído al suelo.,LO-DE-ANTES cl.e(Cc):FRUTA-caer-suelo INDX,0 cl.e(Bh):SUELO 0
+20,34333,36327,He took it in his hands and looked to see if it was clean,La tomó en sus manos y observó detenidamente si estaba limpia,COGER cl.m(5d):examinar-fruta PURO,0 cl.m(5d):examinar-fruta cl.m(5d):agarrar-fruta
+21,36363,38791,"""Ah!"" ""I (can) clean it with the handkerchief” (he thought)","""Ah!"" (se dijo) ""Con el pañuelo (puedo) limpiar la pera""",G:¡ah! PAÑOLETA cl.m(4d):frotar-fruta PURO,cl.m(5d):agarrar-pera PAÑOLETA cl.m(C):agarrar-fruta B:cl.m(C):agarrar-fruta
+22,38801,40065,and put it in the basket with care.,Y la depositó en el cesto con cuidado.,cl.m(4d):colocar-fruta PREPARAR LISTO 0,cl.m(C):colocar-fruta PREPARAR LISTO
+23,40176,41161,He saw that the baskets were getting full,Vio que las cestas estaban listas,MIRAR LISTO,B:ASÍ LISTO
+24,41241,42629,climbed back into the tree,subió de nuevo al árbol,AHORA OTRA-VEZ cl.e(2d):PERSONA-ascender+a-árbol,0 OTRA-VEZ cl.e(5):ÁRBOL
+25,42831,43572,(and) continued collecting pears.,siguió recogiendo peras.,cl.m(5d):coger+guardar-fruta,cl.e(B):SACO
+26,43988,49754,Then came another person a boy wearing a hat on a huge bike.,Entonces llegó otra persona un niño con sombrero pedaleando en una bicicleta enorme.,OTRO VENIR UNO HOMBRE PEQUEÑO2 CON SOMBRERO CON BICICLETA ENORME BICICLETA BICICLETA cl.m(A):agarrar-manillar,B:cl.e(B):SACO B:cl.e(B):SACO B:cl.e(B):SACO B:cl.e(B):SACO B:cl.e(B):SACO CON SOMBRERO CON BICICLETA B:BICICLETA BICICLETA BICICLETA cl.m(A):agarrar-manillar
+27,49928,50662,The man continued plucking pears.,El hombre seguía recogiendo peras.,cl.m(5d):coger+guardar-fruta,cl.e(B):SACO
+28,51077,53757,The child on the bike approached  pedalling at a good pace.,El niño de la bici se iba acercando pedaleando a buen ritmo.,cl.e(Xa):BICICLETA-aproximarse BICICLETA HOMBRE BICICLETA BICICLETA,cl.e(B):SACO BICICLETA B:BICICLETA BICICLETA BICICLETA
+29,53821,54749,He looked up the tree,Miró hacia lo alto del árbol,MIRAR ÁRBOL MIRAR,B:BICICLETA ÁRBOL B:ÁRBOL
+30,54761,56594,(and) saw a man.,(y vio que) allí había un hombre.,HABER HOMBRE INDX G:efectivamente,B:ÁRBOL B:ÁRBOL B:ÁRBOL B:ÁRBOL
+31,56765,57305,He looked down,Miró hacia abajo,MIRAR,B:ÁRBOL
+32,57316,59274,"""I want one of these pears from the basket"" (he thought).","""Quiero una pera de esas [de la cesta]"" (se dijo).",INDX QUERER INDX PERA2 INDX G:¿cómo-puedo-hacer?,B:ÁRBOL B:ÁRBOL B:ÁRBOL B:ÁRBOL B:ÁRBOL B:ÁRBOL
+33,59438,60438,He looked back at the man.,Volvió a mirar al hombre.,MIRAR,B:ÁRBOL
+34,60488,62073,"""just one"" (he thought)","""Una nada más"" (pensó)",INDX.LOC UNO B:UNO NO,B:ÁRBOL B:ÁRBOL cl.m(5d):coger-fruta B:cl.m(5d):coger-fruta
+35,62087,64527,"""to hell I prefer a basket.""","""Al cuerno prefiero una cesta.""",A-POR-TODAS UNO CESTO QUERER INDX,B:cl.m(5d):coger-fruta B:cl.m(5d):coger-fruta CESTO B:CESTO B:CESTO
+36,64579,66033,He looked (at the man at the tree top and decided).,Miró (al hombre en lo alto y se decidió).,MIRAR G:incumplimiento,B:CESTO B:CESTO
+37,66082,69091,Then he took the basket picked it up and placed it (on the handlebar),Entonces agarró la cesta la levantó y la colocó (en su bicicleta sobre el manillar),G:se-dispone-a-agarrar-cesta AHORA MISMO INDX cl.m(5d):colocar-cesta cl.m(Xc):colocar-cesta,G:se-dispone-a-agarrar-cesta 0 0 0 cl.m(5d):colocar-cesta cl.m(Xc):colocar-cesta
+38,69751,71574,After loading the basket on the bike ,Una vez cargada la cesta en su bicicleta ,BICICLETA cl.m(Xc):colocar-cesta-en+bicicleta,BICICLETA cl.e(Bl):BICICLETA
+39,71583,72020,he climbed on the bike,el niño se montó en ella.,cl.e(2b):PERSONA-ascender+a-bicicleta,B:cl.e(Bl):BICICLETA
+40,72153,73090,but could hardly manage to ride the bike,A duras penas conseguía manejar la bicicleta,cl.m(A):agarrar-manillar COSTAR cl.m(A):agarrar-manillar,cl.m(A):agarrar-manillar B:cl.m(A):agarrar-manillar cl.m(A):agarrar-manillar
+41,73105,73742,because (the handlebar) was heavy.,porque (su manillar) pesaba mucho.,IGUAL PESADO,IGUAL PESADO
+42,73775,75018,He continued pedalling with difficulty and continued on his way.,Siguió pedaleando con dificultad y en la bicicleta continuó su camino.,BICICLETA cl.e(Xa):BICICLETA-alejarse-suelo,BICICLETA cl.e(Bh):SUELO
+43,75288,76309,In the meantime the man in the tree was oblivious to everything,Mientras tanto el hombre en el árbol seguía ajeno a todo,HOMBRE cl.e(1):PERSONA-localización MENTE^NORMAL,B:cl.e(Bh):SUELO B:cl.e(Bh):SUELO MENTE^NORMAL
+44,76344,77960,and picking fruit,recogiendo fruta,cl.m(5d&amp;gt;5):coger+guardar-fruta,cl.e(B):SACO
+45,77968,78289,not concerned about anything,sin preocuparse,MENTE^NORMAL,MENTE^NORMAL
+46,78298,79116,all by himself,siguiendo a lo suyo,CONTINUAR G:a-su-manera,CONTINUAR 0
+47,79192,80718,The man kept (at his task which is what) saved the child (who) disappeared into the distance,El hombre siguió (a lo suyo fue lo que) salvó al niño (que) se alejó,HOMBRE PERSONA CONTINUAR SALVAR ALEJARSE,0 0 CONTINUAR SALVAR 0
+48,80752,82354,cycling the heavy bike with difficulty ,manejando con esfuerzo la pesada bicicleta ,BICICLETA FUERTE cl.m(A):agarrar-manillar,BICICLETA FUERTE cl.m(A):agarrar-manillar
+49,82375,83528,zig zagging along.,que zizagueante seguía su curso.,cl.e(Bl):BICICLETA-desplazarse-suelo cl.e(Xa):BICICLETA-desplazarse-suelo,cl.e(Bh):SUELO B:cl.e(Bh):SUELO
+50,83537,85377,It is hard cycling a bike around bends.,Realmente dar las curvas con la bici cargada cuesta.,cl.m(A):agarrar-manillar G:dubitación COSTAR cl.m(A):agarrar-manillar,cl.m(A):agarrar-manillar G:dubitación 0 cl.m(A):agarrar-manillar
+51,85402,87200,A girl happened to also pass by on a bike ,Casualmente pasaba por allí en bicicleta una niña ,CASUAL MUJER OTRO BICICLETA,B:cl.m(A):agarrar-manillar B:cl.m(A):agarrar-manillar B:cl.m(A):agarrar-manillar BICICLETA
+52,87205,88639,of a similar age to the boy.,de una edad similar a la del niño.,IGUAL2(1M) EDAD ALTURA-SEMEJANTE LOS-DOS,0 0 ALTURA-SEMEJANTE B:ALTURA-SEMEJANTE
+53,88878,89809,The (girl’s) bike was approaching.,La bici (de la niña) se aproximaba.,cl.e(Xa):BICICLETA-desplazarse,B:ALTURA-SEMEJANTE
+54,89815,90684,and the boy was still trying to manage his bike,y el niño ahí seguía tratando de manejar la suya,cl.m(A):agarrar-manillar,cl.m(A):agarrar-manillar
+55,90879,92455,The girl was cycling gracefully.,La niña pedaleaba con elegancia.,MUJER BICICLETA,0 BICICLETA
+56,92464,92998,(She was) a little pretentious,(era) un poco presumida,IGUAL PRESUMIDO,IGUAL 0
+57,93008,93361,and very pretty,y muy guapa,BONITO^MARAVILLA,0
+58,93367,93862,(and was) riding (her bike),(iba) pedaleando,BICICLETA,BICICLETA
+59,93965,94537,Both bikes crossed.,Ambas bicicletas se cruzaron.,cl.e(Xa):BICICLETA-aproximarse-bicicleta,cl.e(Xa):BICICLETA-aproximarse-bicicleta
+60,94654,95830,the boy continued pedalling spellbound,El chico sigue pedaleando como embobado,HOMBRE cl.m(A):agarrar-manillar BOBO cl.m(A):agarrar-manillar,0 cl.m(A):agarrar-manillar B:cl.m(A):agarrar-manillar cl.m(A):agarrar-manillar
+61,95902,96515,He looked at her spellbound.,La miraba como un bobo.,MIRAR BOBO,B:cl.m(A):agarrar-manillar B:cl.m(A):agarrar-manillar
+62,96614,96913,His hat fell (to the ground),Se le cayó el sombrero.,cl.d(Q&amp;gt;5):sombrero-caerse-hacia-atrás,cl.d(Lc&amp;gt;5):sombrero-caerse-hacia-atrás
+63,97046,97344,but he continued pedalling without taking his eyes off her,Siguió pedaleando sin apartar sus ojos de ella,cl.m(A):agarrar-manillar,cl.m(A):agarrar-manillar
+64,97620,98030,along the road,circulando por el camino,cl.e(Xa):BICICLETA-sobre-suelo,cl.e(Bh):SUELO
+65,98036,98744,when the bike collided with a stone,la bicicleta choca con una piedra,PIEDRA cl.e(Xa):BICICLETA-chocar-piedra,PIEDRA cl.e(5d):PIEDRA
+66,98746,99220,(and) he fell,(y) se cae,cl.e(Xa):BICICLETA-caer,B:cl.e(5d):PIEDRA
+67,99601,101640,The pears he was carrying in the basket on the handlebar rolled and scattered on the floor.,Las peras que llevaba en el cesto sobre el manillar salieron rodando dispersándose por todas partes.,PERA cl.d(A):manillar-de-bici CESTO cl.d(A&amp;gt;5):peras-expandirse,B:cl.e(5d):PIEDRA cl.d(A):manillar-de-bici CESTO cl.d(A&amp;gt;5):peras-expandirse
+68,102284,103876,and the girl continued (as if nothing had happened),Y la niña se fue (como si nada),AHORA INDX MUJER ALEJARSE,0 0 0 0
+69,103952,104646,(The boy got injured) when he fell,Al caerse (el niño se hizo daño),cl.e(2b):PERSONA-caer-suelo SUFRIR,cl.e(Bh):SUELO B:cl.e(Bh):SUELO
+70,104691,106946,"""I have hurt my knee badly!""-he said in pain and began to rub it.","""¡Qué daño me he hecho en la rodilla!""-se dijo dolorido y comenzó a frotársela.",DOLOR G:¡uuuy! DOLOR INDX G:frotarse-rodilla DOLOR FROTAR,B:cl.e(Bh):SUELO B:cl.e(Bh):SUELO B:cl.e(Bh):SUELO cl.c(1):PIERNA G:frotarse-rodilla cl.c(1):PIERNA B:cl.c(1):PIERNA
+71,107148,109296,He then saw three young boys,Casualmente vio tres jóvenes,CASUAL MIRAR TRES JOVEN TRES,B:cl.c(1):PIERNA B:cl.c(1):PIERNA B:cl.c(1):PIERNA B:cl.c(1):PIERNA B:cl.c(1):PIERNA
+72,109307,109700,approaching,(que) se acercaron.,cl.e(3):PERSONAS3-aproximarse,B:cl.c(1):PIERNA
+73,109795,112313,They had seen the whole scene ,Ellos habían visto toda la escena ,MIRAR TODO PELÍCULA PASADO,B:cl.c(1):PIERNA TODO 0 0
+74,112324,112775,(and had seen) him falling from the bike. ,(habían visto) como se había caído de la bicicleta. ,cl.e(Xa):BICICLETA-caer+de-suelo,cl.e(Bh):SUELO
+75,112789,113096,They had seen him,lo habían visto,MIRAR,0
+76,113101,113619,"""Look at him!"" (they thought)","""¡Mira tú!"" (pensaron)",MIRA-TÚ,0
+77,113744,115173,One of the youngsters carried a ball on a racket.,Uno de los jóvenes hacía botar una pelota sobre una raqueta.,HOMBRE PERSONA UNO cl.m(Xc):accionar-raqueta,0 0 0 0
+78,115275,116265,It was a spade type racket with a ball tied to it that bounced back and forth.,Era una raqueta tipo pala con una pelota atada que se hace botar sobre ella.,cl.d(1):raqueta VER cl.e(Cc):PELOTA-botar,cl.m(Xc):raqueta 0 cl.m(Xc):accionar-raqueta
+79,116356,117826,He was playing with it without much enthusiasm.,Iba jugando a eso sin mucho entusiasmo.,cl.m(Xc):accionar-raqueta,0
+80,117892,118310,What did the three do?,¿Qué hicieron los tres?,LOS-TRES,0
+81,118422,119055,(They) help(ed him).,Ayudar.,AYUDAR,AYUDAR
+82,119142,119621,Since the child had fallen ,Como el niño se había caído ,MOTIVO cl.e(Xa):BICICLETA-caer-suelo,B:AYUDAR cl.e(Bh):SUELO
+83,119628,119916,they helped him.,le ayudaron.,AYUDAR,0
+84,119983,120529,Two of them approached the boy,Dos de ellos se acercaron,cl.e(1):PERSONAS2-aproximarse,cl.e(1):PERSONAS2-aproximarse
+85,120535,121148, wondering what they could do., preguntándose qué podían hacer.,G:ayudaremos,G:ayudaremos
+86,121213,123197,They began to put back all the pears in the basket.,Se pusieron a meter de nuevo todas las peras en la cesta.,cl.m(5):echar-fruta PERA cl.m(A&amp;gt;5):echar-fruta cl.m(A&amp;gt;5d):echar-fruta-en+cesta cl.m(5d):echar-fruta,cl.m(5):echar-fruta B:cl.m(5):echar-fruta cl.m(5):echar-fruta cl.e(Xc):CESTA cl.m(A&amp;gt;5d):echar-fruta
+87,123248,124154,everything was back in place in the basket.,Ya estaba todo en su sitio en la cesta.,LISTO G:todo-preparado CESTO,LISTO G:todo-preparado CESTO
+88,124331,125014,The boy climbed on the bike,El niño se montó de nuevo en la bicicleta,cl.e(2b):PERSONA-ascender+a-bicicleta,cl.e(Bl):BICICLETA
+89,125024,125631,and thanked the youngsters,y dio las gracias a los jóvenes,HOMBRE GRACIAS,B:cl.e(Bl):BICICLETA GRACIAS
+90,125697,126953,He put the basket (on the handlebar).,Subió la cesta (sobre el manillar),hhh PERA cl.m(Xc):colocar-cesta cl.m(Xc):colocar-cesta,hhh 0 cl.m(Xc):colocar-cesta cl.m(Xc):colocar-cesta
+91,126961,128112,and cycled away,y la colocó,B:cl.m(Xc):colocar-cesta LISTO,B:cl.m(Xc):colocar-cesta LISTO
+92,128157,129383,The three youngsters walked away,Los tres jóvenes se alejaron,ALEJARSE TRES cl.e(3):PERSONAS3-alejarse,B:ASÍ B:ASÍ B:ASÍ
+93,129401,130888,While the boy cycled into the distance.,a la par que se alejaba el niño en su bicicleta.,cl.e(3):PERSONAS3-alejarse-bicicleta,cl.e(Xa):BICICLETA-alejarse-personas3
+94,130950,132337,The three children were walking two continued (and),Los tres niños caminaban dos prosiguieron (y),B:cl.e(3):PERSONAS3 B:cl.e(3):PERSONAS3 CAMINAR cl.e(2):PERSONAS2-alejarse,0 INDX 0 INDX
+95,132343,133541,one noticed,uno (lo) vio,UNO MIRAR,0 0
+96,133554,135161,the forgotten hat ,el sombrero olvidado,OLVIDAR SU(1M) SOMBRERO,0 0 SOMBRERO
+97,135170,135716,that had fallen to the ground,que había caído al suelo,cl.d(Q):sombrero-caído,cl.d(Q):sombrero-caído
+98,135974,136976,and he whistled to the boy.,y le silba.,INDX.PRO SILBAR,0 0
+99,137308,137857,The boy on the bicycle heard the whistle ,El niño de la bicicleta oyó el silbido ,BICICLETA OÍR,BICICLETA cl.e(Xa):BICICLETA
+100,137866,138924,and turned to see where it came from,y se giró para ver de donde provenía,MIRAR,B:cl.e(Xa):BICICLETA
+101,138977,139688,"""Wait!""","""Espera!""",ESPERAR2 ESPERAR2,B:cl.e(Xa):BICICLETA B:cl.e(Xa):BICICLETA
+102,139709,140409,He took the hat to the boy ,Se acercó con el sombrero ,cl.m(Q):agarrar-sombrero,cl.m(Q):agarrar-sombrero
+103,140430,141261,and handed it over. ,y se lo entregó. ,YA cl.m(Q):dar-sombrero,B:cl.m(Q):agarrar-sombrero cl.m(Q):dar-sombrero
+104,141609,146003,The boy gave him three pears in appreciation for having recovered his hat.,En agradecimiento a estos tres jóvenes por haber recuperado su sombrero el niño le entregó tres peras.,HOMBRE TRES LO-DE-ANTES COMPENSACIÓN GRACIAS SOMBRERO TRES PERA cl.m(5d):dar-fruta cl.m(5d):dar-fruta,0 0 0 COMPENSACIÓN GRACIAS SOMBRERO 0 0 cl.m(5d):dar-fruta cl.m(5d):dar-fruta
+105,146128,146765,Upon receiving the fruit the boy thanked him,Al recibir la fruta el chico le dio las gracias,cl.m(5d):agarrar-fruta GRACIAS(1M),cl.m(5d):agarrar-fruta B:cl.m(5d):agarrar-fruta
+106,146799,147152,"""Thank You he said""","""Gracias""",GRACIAS(1M),B:cl.m(5d):agarrar-fruta
+107,147256,147638,and left.,y se marchó,ALEJARSE,B:cl.m(5d):agarrar-fruta
+108,147704,148237,The boy on the bicycle also left,El niño de la bicicleta también se fue,INDX ALEJARSE,0 0
+109,148258,149037,One of the three boys who were walking ,Uno de los tres chicos que iban andando ,cl.e(3):PERSONAS3 cl.e(3):PERSONAS3-desplazarse,INDX 0
+110,149071,149765,distributed the pears between them.,repartía las peras con los otros.,REPARTIR,REPARTIR
+111,149821,150835,They continued walking.,Seguían caminando.,cl.e(3):PERSONAS3-desplazarse CONTINUAR,0 CONTINUAR
+112,150990,153294,In the meantime the man who was up in the tree climbed down.,Entretanto el hombre que estaba subido al árbol bajó de éste.,G:mmm OTRO HOMBRE cl.e(2d):PERSONA-ascender+a-árbol cl.e(2d):PERSONA-descender+de-árbol,0 0 0 cl.e(5):ÁRBOL cl.e(5):ÁRBOL
+113,153390,154733,loaded with pears  ,Cargado de peras  ,cl.m(4d):agarrar-delantal AHORA cl.m(4d):agarrar-delantal,cl.m(4d):agarrar-delantal B:cl.m(4d):agarrar-delantal cl.m(4d):agarrar-delantal
+114,154769,155190,He was surprised ,se quedó atónito ,MENTE-APAGADA(1M),B:cl.m(4d):agarrar-delantal
+115,155208,156276, to see that one of the three baskets,al ver que antes había tres cestas,MIRAR LO-DE-ANTES TRES,B:cl.m(4d):agarrar-delantal B:cl.m(4d):agarrar-delantal B:cl.m(4d):agarrar-delantal
+116,156368,157461,"had disappeared. ""It can't be"" he said.","y (una había) desaparecido. ""No puede ser"" se dijo.",DESAPARECER PODER3,DESAPARECER B:DESAPARECER
+117,157489,158594,He looked back (at the baskets),Volvió a mirar,B:PODER3 MIRAR,B:DESAPARECER B:DESAPARECER
+118,158647,160526,"""This is weird! Very confusing!"" He said unbelievingly","""¡Qué raro es todo esto! ¡Qué confuso! "" se dijo incrédulo",COMPLICADO POCO COMPLICADO,COMPLICADO B:COMPLICADO COMPLICADO
+119,160548,161587,learning on the tree trunk.,apoyándose en el tronco del árbol.,cl.e(2b):PERSONA-apoyarse-tronco,cl.e(B):TRONCO
+120,161850,163446,When the three boys approached ,A medida que se acercaban los tres chicos ,cl.e(3):PERSONAS3-aproximarse,B:cl.e(B):TRONCO
+121,163521,164731,he looked at them attentively,Los observó con atención,MIRAR,B:cl.e(B):TRONCO
+122,164745,165550,(and saw that) they had pears.,(pudo comprobar que) llevaban peras.,HABER cl.m(B):llevar-peras PERA,0 cl.m(B):llevar-peras 0
+123,165566,166140,They continued on their way,Siguieron su camino,TRES cl.e(3):PERSONAS3-desplazarse,0 0
+124,166156,167556,"""How strange!"" he thought ""this can’t be true."" ","""¡Qué extraño!"" pensó ""Sí que es raro"". ",MENTE-APAGADA RARO,MENTE-APAGADA 0
+125,167569,168405,(The youngsters) went away,(Los chicos) se alejaron,ALEJARSE G:¡qué-raro!,G:mano-en-cintura B:G:mano-en-cintura
+126,171063,171643,End.,Fin.,FIN,FIN

@@ -1,0 +1,41 @@
+ID,Start_time,End_time,English,Español,Dominant_Hand,Non_Dominant_Hand
+1,1400,4510,(There is) a meadow (among) the hills,(Hay) Un prado (entre) colinas,UNO cl.d(5):prado PAISAJE,0 cl.d(5):prado PAISAJE
+2,4565,5457,(with) a tree,(hay) un árbol,UNO ÁRBOL,0 ÁRBOL
+3,5472,5951,(towards which) a (person) is approaching,(hacia el que) viene una (persona),VENIR(B) UNO,B:ÁRBOL B:ÁRBOL
+4,5993,6572,walking,camina,CAMINAR(MP),CAMINAR(MP)
+5,6581,7149,(And) approaches (the tree).,(y) va (hasta el árbol).,IR,IR
+6,7241,10082,He leaves a few baskets on the floor,Deja unas cestas en el suelo,cl.d(C):cesta cl.d(1):cesta cl.m(Xc):colocar-cestas,cl.d(C):cesta cl.d(1):cesta cl.m(Xc):colocar-cestas
+7,10438,12595,(and begins to) collect pears,(y empieza a) recoger peras,PERA4(Q) COGER,0 cl.e(Bh):LOCALIZACIÓN
+8,12669,14119,depositing them in the [apron] pocket.,depositándolas en el regazo [del mandil].,cl.d(5):regazo ARROJAR,cl.d(5):regazo B:cl.d(5):regazo
+9,14262,16301,(He plucks pears) from the tree and deposits them in his apron pocket,(Coge las peras) del árbol y las deposita en el regazo,INDX.DEM ÁRBOL cl.m(A&amp;gt;5d):arrojar-peras,B:cl.d(5):regazo ÁRBOL cl.e(Bd):REGAZO
+10,16375,18993,then put the pears in the baskets,después las deja en las cestas.,DESPUÉS cl.m(Xc):colocar-cestas G.ADAPT,0 cl.m(Xc):colocar-cestas 0
+11,19023,22182,A person comes on a bicycle,Viene una persona en bicicleta,UNO BICICLETA VENIR(B),0 BICICLETA 0
+12,22212,23990, and places a basket on the bike, (que) sube una cesta a la bicicleta,BICICLETA cl.m(Xc):colocar-cesta,BICICLETA cl.m(Xc):colocar-cesta
+13,24046,26010,(puts) the basket on the bicycle handlebar,(pone) la cesta sobre el manillar de la bicicleta,cl.d(Cc):manillar BICICLETA cl.e(5d):CESTA-sobre-manillar,cl.d(Cc):manillar BICICLETA cl.e(Bh):BICICLETA
+14,26071,27450,places the basket on the bike,sube la cesta a la bicicleta.,cl.m(Xc):colocar-cesta,cl.m(Xc):colocar-cesta
+15,27606,28810,(and starts) pedalling,(Empieza a) pedalear,BICICLETA,BICICLETA
+16,28870,30552,He pedals away along a path,(se va) pedaleando por un camino,CAMINO BICICLETA,CAMINO BICICLETA
+17,30654,31900,moving into the distance.,se aleja.,cl.e(Bl):BICICLETA-alejarse,B:BICICLETA
+18,32092,35129,That bike and another bike cross each other,Esa bicicleta (y) otra bicicleta se acercan y se cruzan,INDX UNO BICICLETA OTRO BICICLETA cl.e(1):BICICLETA-aproximarse-bicicleta,0 0 BICICLETA B:BICICLETA BICICLETA cl.e(1):BICICLETA-aproximarse-bicicleta
+19,35165,35579,(There is) a problem,(cometen) un error,FALLO,FALLO
+20,35698,36498,(and) both bikes collide.,(y) ambas colisionan.,cl.e(1):BICICLETA-chocar-bicicleta,cl.e(1):BICICLETA-chocar-bicicleta
+21,36557,37859,The person falls off the bicycle,La persona se cae de la bicicleta,cl.e(2b):PERSONA-caer+de-bicicleta,cl.e(1):BICICLETA
+22,37955,39012,The bike (also) falls.,la bicicleta (también) se cae.,BICICLETA cl.e(2b):PERSONA-caer,BICICLETA cl.e(2b):BICICLETA-caer
+23,39027,39663,(The person is angry.),(La persona se muestra enfadado.),G(5)(2M):enfado,G(5)(2M):enfado
+24,39739,40767,"""The pears have fallen out of the basket!"" (he exclaims).","""¡Las peras se han caído del cesto!""( exclama).",PERA cl.e(A&amp;gt;5h):FRUTA-caer+de-cesta,0 cl.e(Cc&amp;gt;C):CESTA
+25,40785,42681,The pears are scattered on the floor,Las peras se habían esparcido por el suelo.,PERA4(Q) DIFUNDIR,B:cl.e(Cc&amp;gt;C):CESTA DIFUNDIR
+26,42713,44080,and spread all over.,Se esparcen (las peras).,ACABAR DIFUNDIR,ACABAR 0
+27,44106,45258,Then. the person that had fallen:,Después la persona que se había caído:,DESPUÉS cl.e(2b):PERSONA-caer,0 cl.e(2b):BICICLETA-caer
+28,45282,47329,"""my knee hurts"" (he says).","""¡(Cómo) me duele la rodilla!""",DOLOR INTENSO G:frotar-rodilla,0 0 0
+29,47388,49895,(he had hurt) his knee in the collision,(se había lastimado) la rodilla a causa de la colisión,MOTIVO cl.e(1):BICICLETA-chocar-bicicleta INDX,0 cl.e(1):BICICLETA-chocar-bicicleta 0
+30,49936,53627,"he lifts his trouser leg and rubs the knee: “How painful!"".","(la persona) arremanga la pernera y se frota la rodilla: ""Qué dolor"".",G:arremangar-pernera 0 G:tocar-rodilla,G:arremangar-pernera INTENSO G:tocar-rodilla
+31,54153,56050,A... A few children are approaching the place,Un... (unos) niños se acercan (a ella),UNO PEQUEÑO2 cl.e(5h):PERSONAS-aproximarse,0 0 cl.e(5h):PERSONAS-aproximarse
+32,56080,56731,to help him,(para) ayudarle,AYUDAR,AYUDAR
+33,56733,57386,collect (the pears).,a recoger (las peras).,COGER,0
+34,57419,61360,They put the pears (in the basket),Echan las peras (en el cesto),PERA4(Q) ARROJAR(2Msu),0 ARROJAR(2Msu)
+35,61385,63690,(and) place the basket (on the bicycle handlebar),(y) ponen el cesto (en el manillar de la bicicleta).,cl.m(Xc):colocar-cesta G(5):finalizar G(5):finalizar,cl.m(Xc):colocar-cesta 0 0
+36,63893,67557,The three children walk away,Los tres niños caminan,HOMBRE2 PEQUEÑO2 TRES CAMINAR,0 0 0 0
+37,67623,69699,(One of the) children is distributing three pears,(uno de los) niños reparte tres peras,PERA3 DAR(MP),0 DAR(MP)
+38,69763,70674,(and they continue) walking,(y siguen) caminado,CAMINAR,B:DAR(MP)
+39,70710,73380,on their way beyond.,se van por el camino hasta allá.,CAMINO HASTA INDX IR,CAMINO 0 0 IR
+40,73477,75435,and the story ends.,(Y) se acaba.,ACABAR G(5)(2M):final,ACABAR G(5)(2M):final

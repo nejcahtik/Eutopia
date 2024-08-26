@@ -1,0 +1,101 @@
+ID,Start_time,End_time,English,Español,Dominant_Hand,Non_Dominant_Hand
+1,669,3074,The house is on fire,La casa está ardiendo,CASA COCINAR,CASA COCINAR
+2,9939,14823,The mother covers the boy with a blanket,La madre tapa al niño con una manta,MADRE HOMBRE ACOSTARSE cl.m(Q):tapar+con-manta,MADRE 0 ACOSTARSE cl.m(Q):tapar+con-manta
+3,18314,22261,The men searched for the women,Los hombres buscaron a las mujeres,HOMBRE SEGUIR.MASA MUJER BUSCAR(2Msu),0 SEGUIR.MASA 0 BUSCAR(2Msu)
+4,28994,33005,The girl is laughing,La niña se está riendo,MUJER PEQUEÑO2 REÍR,0 0 REÍR
+5,36392,39892,It is raining,Está lloviendo,LLOVER AGUA,LLOVER 0
+6,47937,54824,The girl sends flowers to her grandmother,La chica envía flores a la abuela,MUJER JOVEN FLOR REGALAR ABUELO MUJER,0 0 0 REGALAR 0 0
+7,60223,65233,The man is growing potatoes,El hombre está cultivando patatas,HOMBRE PERSONA ARAR PATATA(M-DE),0 0 ARAR PATATA(M-DE)
+8,70535,72955,The man hunts,El hombre caza,HOMBRE CAZAR,0 CAZAR
+9,76619,79723,The horse is galloping,El caballo está corriendo,CABALLO cl.e(2b):PERSONA-ascender+a-caballo CABALLO,CABALLO cl.e(Bl):CABALLO CABALLO
+10,84130,87460,The boy is crying,El niño está llorando,HOMBRE PEQUEÑO2 LLORAR(2Msu),0 0 LLORAR(2Msu)
+11,91869,96608,The woman cuts the bread with a knife,La mujer corta el pan con un cuchillo,MUJER PERSONA cl.d(Qa&amp;gt;Q):barra-forma cl.m(B):cuchillo-cortar-pan,0 0 cl.d(Qa&amp;gt;Q):barra-forma cl.e(C):PAN
+12,107812,114960,The girl talks to the boy about her dog,La chica le habla al chico de su perro,MUJER PERSONA EXPLICAR HOMBRE PERSONA TEMA PERRO,0 0 EXPLICAR 0 0 TEMA 0
+13,121359,126323,The women grind grain in the mortar,Las mujeres muelen el grano en el mortero,MUJER PERSONA cl.m(5d):echar-grano-en+mortero cl.m(A):moler-grano-en+mortero,0 0 cl.e(C):MORTERO B:cl.e(C):MORTERO
+14,144373,148574,The man pushes the woman and she fell into the water,El hombre empuja a la mujer y (esta) se cae al agua,HOMBRE PERSONA EMPUJAR MUJER cl.e(2b):PERSONA-caer+de-suelo AGUA,0 0 EMPUJAR 0 cl.e(Bh):SUELO 0
+15,153193,160149,The boy showed the photo to the teacher,El profesor les enseñó las fotos a los chicos (*?*),PROFESOR EDUCAR cl.e(5h):PERSONAS-filas HOMBRE PEQUEÑO2 JOVEN FOTOGRAFÍA,0 EDUCAR cl.e(5h):PERSONAS-filas 0 0 JOVEN FOTOGRAFÍA
+16,168562,171426,The man is sick,El hombre está enfermo,HOMBRE PERSONA ENFERMO,0 0 ENFERMO
+17,176199,181362,Women are shouting at the boys/girls,Las mujeres les gritan a los niñ@s,MUJER PERSONA(2Msu) GRITAR(2M) PEQUEÑO2(2M) HOMBRE MUJER,0 PERSONA(2Msu) GRITAR(2M) PEQUEÑO2(2M) 0 0
+18,189937,193223,The boy likes the toy,Al niño le gusta el juguete,HOMBRE PEQUEÑO2 GUSTAR JUGAR(CT),0 0 0 JUGAR(CT)
+19,196812,203164,The bear hears the man (approach),El oso oyó (llegar) al hombre,OSO ESCUCHAR cl.e(1):PERSONA-aproximarse HOMBRE MUJE- HOMBRE PERSONA,OSO 0 0 0 0 0 0
+20,211199,216184,The men made a wooden house,Los hombres hicieron una casa de madera,HOMBRE PERSONA MANUAL MADERA CASA ARREGLAR CONSTRUIR,0 0 MANUAL MADERA CASA ARREGLAR CONSTRUIR
+21,220789,226136,The woman tells a joke to the man,La mujer cuenta un chiste al hombre,MUJER PERSONA INFORMAR REÍR HOMBRE,0 0 INFORMAR REÍR 0
+22,234494,239028,The girls/boys sit on the floor,Los niñ@s se sientan en el suelo,HOMBRE MUJER PEQUEÑO2(2M) SENTAR cl.e(2d):PERSONAS-sentar+círculo,0 0 PEQUEÑO2(2M) SENTAR cl.e(2d):PERSONAS-sentar+círculo
+23,245017,252721,The horse and man are approaching the tree and the man ties the horse with a rope,El caballo y el hombre se acercan al árbol y el hombre lo ata con una cuerda,ÁRBOL(1M) CABALLO cl.e(Hd):CABALLO-aproximarse-árbol HOMBRE cl.e(1):PERSONA-aproximarse-árbol ATAR CUERDA,0 CABALLO cl.e(5):ÁRBOL B:cl.e(5):ÁRBOL B:cl.e(5):ÁRBOL ATAR CUERDA
+24,261782,264662,The water is boiling,El agua está hirviendo,AGUA HERVIR,0 0
+25,268221,272858,The boys and girls are sitting on the bench,Los niños y las niñas se sientan en un banco,HOMBRE MUJER PEQUEÑO2(2M) SENTAR cl.e(2d):PERSONAS-sentar+fila,0 0 PEQUEÑO2(2M) SENTAR cl.e(2d):PERSONAS-sentar+fila
+26,294915,300744,They don't tell me anything about myself,Ellos de mí no me dicen nada,INDX.PRO:3pl TEMA INDX.PRO:1sg DECIR NADA,0 TEMA 0 0 NADA
+27,307142,312880,The boy tells the girl,El chico le cuenta a la chica,HOMBRE PERSONA INFORMAR EXPLICAR MUJER PERSONA,0 0 INFORMAR EXPLICAR 0 0
+28,329948,336517,The youngster is with the elderly.,El joven se encuentra con los mayores.,HOMBRE JOVEN ENCONTRARSE HOMBRE PERSONA MAYOR,0 0 ENCONTRARSE 0 0 MAYOR
+29,347063,349563,My arm hurts,Me duele el brazo,BRAZO DOLOR,BRAZO 0
+30,354471,358971,The men helped me,Los hombres me ayudaron,HOMBRE PERSONA AYUDAR INDX.PRO:1sg,0 0 AYUDAR 0
+31,362449,366880,The man is looking at the woman,El hombre mira a la mujer,HOMBRE MIRAR MUJER,0 0 0
+32,374017,379380,The bear sees the man,El oso ve al hombre,OSO MIRAR HOMBRE cl.e(1):PERSONA,OSO 0 0 0
+33,384789,391862,The women are following the men,Las mujeres siguen a los hombres,MUJER JOVEN PERSONA 0 HOMBRE cl.e(5):PERSONAS-seguir-personas,0 0 0 cl.e(5):PERSONAS B:cl.e(5):PERSONAS cl.e(5):PERSONAS
+34,404795,409449,The man fears the bear he sees,El hombre teme al oso (que ve),HOMBRE MIEDO OSO(1M) MIRAR,0 0 0 0
+35,415335,421053,The women are looking for the men,Las mujeres buscan a los hombres,MUJER PERSONA BUSCAR(2Msu) HOMBRE,0 0 BUSCAR(2Msu) 0
+36,430494,435971,I touched the snake got scared and beat it.,Toqué la serpiente me asusté y la apaleé.,SERPIENTE TOCAR G:¡ah! cl.m(Xc):golpear+con-palo,0 TOCAR G:¡ah! 0
+37,441494,444468,The woman went to a place,La mujer fue a un lugar,MUJER IR cl.d(1):lugar,0 IR 0
+38,452426,455473,The man is shaving his beard,El hombre se afeita la barba,BARBA HOMBRE AFEITAR,BARBA 0 0
+39,458697,460817,The girl jumped,La chica saltó,MUJER SALTAR,0 SALTAR
+40,469311,474776,The men made wooden houses,Los hombres construyen casas de madera,HOMBRE PERSONA(2Msu) MANUAL CONSTRUIR CASA MADERA,0 PERSONA(2Msu) MANUAL CONTRUIR CASA MADERA
+41,480639,485939,The girl looks at the boy,La chica mira al chico,MUJER cl.e(1):PERSONA B:cl.e(1):PERSONA B:cl.e(1):PERSONA MIRAR,0 0 HOMBRE cl.e(1):PERSONA B:cl.e(1):PERSONA
+42,503156,509976,The man hides the frog so that the mother does not see it,El hombre esconde la rana para que la madre no la vea,HOMBRE RANA cl.m(Bg):acariciar-rana ESCONDER MIRAR MADRE NO,0 RANA cl.m(B):sostener-rana B:cl.m(B):sostener-rana B:cl.m(B):sostener-rana B:cl.m(B):sostener-rana B:cl.m(B):sostener-rana
+43,517961,522611,The boys gave us the books,Los niños nos dieron los libros,HOMBRE PEQUEÑO2(2M) REVISTA DAR(2M) INDX.PRO:3pl,0 PEQUEÑO2(2M) REVISTA DAR(2M) 0
+44,528318,531658,I'm coughing,Estoy tosiendo,TOSER,0
+45,536578,541448,The women clean the table,Las mujeres limpian la mesa,MUJER PERSONA MESA LIMPIAR cl.m(A):limpiar-mesa,0 0 MESA B:MESA B:MESA
+46,549859,554540,The man throws the stone through the window,El hombre lanza la pelota por la ventana,cl.d(1):ventana VENTANA HOMBRE INDX PELOTA ARROJAR cl.e(1):TRAIECTORIA+PELOTA-caer-ventana,cl.d(1):ventana VENTANA B:VENTANA B:VENTANA PELOTA 0 cl.e(Bh):VENTANA
+47,559940,564210,I didn't tell them anything ?,No les dije nada ?,INDX.PRO:1sg INDX.PRO:3pl INDX.PRO:1sg DECIR NADA,0 0 0 0 NADA
+48,570866,574963,The men (search and) find the boys,Los hombres (buscan y) encuentran a los chicos,HOMBRE PERSONA BUSCAR(2Msu) ENCONTRARSE HOMBRE PERSONA,0 0 BUSCAR(2Msu) ENCONTRARSE 0 0
+49,584425,589655,The man brings flowers for the woman,El hombre le trae flores a la mujer,HOMBRE PERSONA FLOR cl.m(5d):dar-ramo MUJER,0 0 0 cl.m(5d):dar-ramo 0
+50,598144,602857,The man took his friend’s money,El hombre le coge el dinero a su amigo,HOMBRE cl.e(1):PERSONA AMIGO cl.e(1):PERSONA DINERO COGER,0 0 AMIGO cl.e(1):PERSONA B:cl.e(1):PERSONA B:cl.e(1):PERSONA
+51,612013,616673,The mother is thinking about the woman.,La madre piensa en la mujer,MADRE PENSAR(2Msu) PERSONA MUJER,0 PENSAR(2Msu) 0 0
+52,625370,628280,The boy is feeling cold,El niño tiene frío,HOMBRE PEQUEÑO2 FRÍO,0 0 FRÍO
+53,635452,640492,The parents thought of a name and named her Ana,Los padres pensaron un nombre y le pusieron Ana,PADRE^MADRE PENSAR(2Msu) NOMBRE DAR(2M) DT:ANA,0 PENSAR(2Msu) NOMBRE DAR(2M) 0
+54,648144,653044,The man asks his parents for money,El hombre pide dinero a sus padres,HOMBRE PERSONA PEDIR DIN- PADRE^MADRE DINERO,0 0 PEDIR B:PEDIR B:PEDIR 0
+55,665081,669529,The woman asks them to fill the water bottle,La mujer pide que se llene la botella de agua,MUJER PERSONA PEDIR BOTELLA AGUA LLENAR(MP),0 0 PEDIR BOTELLA 0 LLENAR(MP)
+56,677132,680929,The men carried the boxes to the market,Los hombres llevaron las cajas al mercado,MERCADO HOMBRE PERSONA HABITACIÓN LLEVAR,MERCADO 0 0 HABITACIÓN LLEVAR
+57,687631,691121,The mother helps the daughter dress,La madre ayuda a la hija a vestirse,MADRE AYUDAR HIJO ROPA,0 AYUDAR HIJO ROPA
+58,700005,703575,The monkey wants a banana,El mono quiere un plátano,MONO QUERER PLÁTANO,MONO 0 PLÁTANO
+59,708903,713373,The women are cooking meat,Las mujeres cocinaron carne,MUJER PERSONA COCINAR CARNE cl.m(A&amp;gt;5d):echar-carne-en+recipiente,0 0 COCINAR CARNE cl.e(C):RECIPIENTE
+60,720513,723773,I help the men,Yo ayudo a los hombres,INDX.PRO:1sg PERSONA HOMBRE INDX.PRO:1sg AYUDAR,0 0 0 0 AYUDAR
+61,731130,736650,The woman teaches the girl,La mujer enseña a la chica,UNO PERSONA MUJER EDUCAR PERSONA MUJER JOVEN,0 0 0 EDUCAR 0 0 0
+62,754942,758632,I am putting the bottle on the table,Pongo la botella encima de la mesa,MESA(M-AB) BOTELLA cl.m(C):colocar-botella-sobre+mesa INDX.PRO:1sg,MESA(M-AB) BOTELLA cl.e(Bh):MESA 0
+63,763809,766259,The ship is sinking,El barco se hunde,cl.e:BARCO-descender,cl.e:BARCO-descender
+64,771874,774747,The little girl is sad,La niña está triste,MUJER PEQUEÑO2 TRISTE,0 0 0
+65,780465,784674,The man hits the snake with a stick,El hombre golpea la serpiente con un palo,HOMBRE PERSONA cl.m(Xc):sostener-palo cl.e(2p):SERPIENTE cl.m(Xc):golpear+con-palo,0 0 cl.d(La):palo 0 0
+66,793465,795473,The soil is dry,El suelo está seco,SUELO SECO,SUELO SECO
+67,800690,805977,The girl teaches sign language to the woman,La chica le enseña lengua de signos a la mujer,MUJER PERSONA JOVEN EDUCAR UNO MUJER PERSONA SIGNAR,0 0 0 EDUCAR 0 0 0 SIGNAR
+68,813892,817932,The man abandoned the village,El hombre abandona el pueblo,HOMBRE PERSONA PUEBLO ABANDONAR,0 0 0 ABANDONAR
+69,823253,831763,The farmer loaded the straw on the truck,El agricultor cargó la paja en el camión,ARAR COCHE cl.e(Bh):CAMIÓN-desplazarse-suelo LLEVAR cl.d(La&amp;gt;Lc):paja LLEVAR,ARAR COCHE cl.e(Bh):SUELO LLEVAR cl.d(La&amp;gt;Lc):paja LLEVAR
+70,838836,844126,The mother approached the boy and hugs him,La madre se acerca al niño y lo abraza,MADRE ENCONTRARSE(OP-PA) MUJE- HOMBRE PEQUEÑO2 ABRAZAR,0 ENCONTRARSE(OP-PA) 0 0 0 ABRAZAR
+71,847011,849191,The boy is playing,El niño juega,HOMBRE PEQUEÑO2 JUGAR,0 0 JUGAR
+72,858268,863298,The man hits the woman with a stick,El hombre golpea a la mujer con un palo,HOMBRE PERSONA cl.m(Xc):sostener-palo cl.m(Xc):golpear+con-palo MUJER PERSONA,0 0 cl.d(La&amp;gt;Lc):palo 0 0 0
+73,866845,872225,The mother bathes the boy,La madre baña al niño,MADRE AYUDAR HOMBRE PEQUEÑO2(2M) BAÑAR BAÑAR BAÑAR BAÑAR,0 AYUDAR 0 PEQUEÑO2(2M) BAÑAR BAÑAR BAÑAR BAÑAR
+74,879954,884564,The man climbs up the tree,El hombre trepa por el árbol,HOMBRE PERSONA 0 cl.e(2d):PERSONA-ascender+por-árbol,0 0 ÁRBOL(1M) cl.e(5):ÁRBOL
+75,890910,895885,The man takes the letter sent by his friend ?,El hombre coge la carta que le envía su amigo ?,HOMBRE PERSONA cl.m(5d&amp;gt;Q):coger-carta AMIGO ENVIAR,0 0 cl.m(5d&amp;gt;Q):coger-carta AMIGO ENVIAR
+76,905088,910547,The bear attacks and the man is scared,El oso ataca y el hombre se asusta,OSO cl.c(5d):garras-atacar HOMBRE G:hombre-asustarse ASUSTAR(2M),OSO cl.c(5d):garras-atacar 0 G:hombre-asustarse ASUSTAR(2M)
+77,914798,917477,The man is screaming,El hombre está gritando,HOMBRE PERSONA GRITAR(2M),0 0 GRITAR(2M)
+78,934087,939627,The man hit his enemy with a stick,El hombre le dio un garrotazo a su enemigo,HOMBRE PERSONA cl.m(A):agarrar-garrote cl.m(A):levantar-garrote ENEMIGO cl.m(Xc):golpear+con-garrote,0 0 cl.d(C):garrote 0 ENEMIGO 0
+79,944995,947823,The ball starts rolling,La pelota rueda / echa a rodar,PELOTA cl.m(5d):empujar-pelota RODAR,PELOTA cl.m(5d):empujar-pelota RODAR
+80,953645,956625,The boy falls.,El chico se cae,HOMBRE PERSONA CAER,0 0 CAER
+81,959278,963228,The man devours the fruit,El hombre se atiborra de fruta,HOMBRE PERSONA COMER2(2Msu) FRUTA,0 0 COMER2(2Msu) 0
+82,969542,972434,The man sings,El hombre canta,HOMBRE PERSONA CANTAR,0 0 0
+83,976855,984025,The man meets the woman,El hombre conoce a la mujer,HOMBRE PERSONA CONOCER INDX.AUX MUJER,0 0 0 0 0
+84,991619,995259,The woman knows the man,La mujer conoce al hombre,MUJER PERSONA INDX.AUX CONOCER HOMBRE,0 0 0 0 0
+85,1000450,1004790,The man hears the bear,El hombre oye al oso,HOMBRE PERSONA ESCUCHAR OSO,0 0 0 OSO
+86,1013948,1018948,The men follow the women,Los hombres siguen a las mujeres,HOMBRE GRUPO SEGUIR.MASA GRUPO MUJER,0 GRUPO SEGUIR.MASA GRUPO 0
+87,1031896,1036237,The man breaks the branch off the tree,El hombre arranca la rama del árbol,0 HOMBRE cl.e(1):PERSONA-aproximarse-árbol cl.m(5d&amp;gt;A):arrancar-rama,ÁRBOL(1M) cl.e(5):ÁRBOL B:cl.e(5):ÁRBOL B:cl.e(5):ÁRBOL
+88,1045039,1048209,(I) blinked,(Yo) parpadeo,PÁRPADO2 cl.c(C):PÁRPADOS-parpadear,PÁRPADO2 cl.c(C):PÁRPADOS-parpadear
+89,1059523,1063543,The man picks up the glass and pours water,El hombre coge el vaso y vierte el agua,HOMBRE cl.m(C):coger-vaso VASO AGUA cl.m(C):vaciar-vaso,0 0 VASO B:VASO cl.m(C):vaciar-vaso
+90,1080904,1086544,The man throws the stone at the window and it breaks,El hombre rompió la ventana arrojándole una piedra,PERSONA HOMBRE PIEDRA ARROJAR cl.d(1):ventana VENTANA ARROJAR GRIETA,0 0 PIEDRA 0 cl.d(1):ventana VENTANA 0 GRIETA
+91,1090440,1094260,The snake dies,La serpiente se muere,SERPIENTE(MP) cl.e:SERPIENTE-caer,SERPIENTE(MP) B:SERPIENTE(MP)
+92,1101453,1107255,The old people live in the city,Los viejos viven en la ciudad,CIUDAD cl.e(Xa):LUGAR G:pensar ABUELO VIVIR HORRIBLE,CIUDAD cl.e(Xa):LUGAR G:pensar 0 VIVIR HORRIBLE
+93,1112929,1119911,The thief stole the woman’s money,El ladrón le roba dinero a la señora,cl.e(1):PERSONA-desplazarse MUJER SEÑOR cl.e(1):PERSONA-desplazarse cl.e(1):PERSONA ANTIFAZ(L)(1M) ANTIFAZ(1M) ROBAR DINERO,0 0 0 0 0 0 0 0 0
+94,1127518,1132008,The man sees the bear,El hombre ve al oso,HOMBRE PERSONA MIRAR OSO,0 0 0 OSO
+95,1137783,1143043,We gave the boys books,Nosotros les damos libros a los niños,INDX.PRO:1pl REVISTA DAR(2M) PEQUEÑO2 HOMBRE MUJER,0 REVISTA DAR(2M) PEQUEÑO2 0 0
+96,1150553,1154520,The woman tore the page from a book,La mujer arranca la página de un libro,UNO MUJER PERSONA hhh REVISTA cl.m(Q):arrancar-página,0 0 0 0 REVISTA B:REVISTA
+97,1162112,1167932,The man gives flowers to the woman,El hombre le da flores a la mujer,MUJER PERSONA HOMBRE cl.e(1):PERSONA-aproximarse FLOR cl.m(5d):recibir-ramo,0 0 0 0 0 cl.m(5d):recibir-ramo
+98,1175702,1179032,The boy is hungry,El niño tiene hambre,HOMBRE PEQUEÑO2 HAMBRE,0 0 0
+99,1184038,1188908,The bear hears the man come,El oso oye al hombre venir,OSO ESCUCHAR HOMBRE cl.e(1):PERSONA-aproximarse,OSO 0 0 0
+100,1197301,1202134,The girl is thinking about her mother,La chica está pensando en su madre,MUJER PERSONA PENSAR(2Msu) MADRE,0 0 PENSAR(2Msu) 0

@@ -1,0 +1,58 @@
+ID,Start_time,End_time,English,Español,Dominant_Hand,Non_Dominant_Hand
+1,1191,2821,(There is) a room,(Hay) una habitación,UNO HABITACIÓN,0 HABITACIÓN
+2,2821,5475,with a window that opens vertically.,con una ventana de las que se abren verticalmente.,VENTANA cl.m(Xc):abrir-ventana,VENTANA cl.m(Xc):abrir-ventana
+3,5475,9624,(There is) a boy with a glass jar,(Hay) un niño con un frasco de cristal,UNO HOMBRE2 UNO PEQUEÑO2 CON cl.d(c):frasco-forma CRISTAL2 cl.d(c):frasco-forma,0 0 0 0 CON cl.d(c):frasco-forma B:cl.d(c):frasco-forma cl.d(c):frasco-forma
+4,9624,10610,a dog,un perro,PERRO cl.c(Bg):patas,0 cl.c(Bg):patas
+5,10610,12991,There is a frog inside the jar.,dentro del frasco hay unha rana.,INDX.LOC cl.d(c):frasco-forma INDX.LOC:dentro HABER RANA(M-DE),0 cl.d(c):frasco-forma B:cl.d(c):frasco-forma B:cl.d(c):frasco-forma RANA(M-DE)
+6,12991,16063,a bed in the bedroom.,una cama en el dormitorio.,UNO DORMIR HABITACIÓN DORMIR cl.e(2p):PERSONAS2-tumbadas ACABAR,0 0 HABITACIÓN 0 cl.e(2p):PERSONAS2-tumbadas ACABAR
+7,16063,17454,the dog then goes to bed,Después el perro se va a la cama.,DESPUÉS PERRO cl.e(2d):PERRO-ascender+a,0 0 0
+8,17454,18698,The boy is tired,El niño está cansado,HOMBRE2 CANSADO,0 CANSADO
+9,18698,19709,and goes to bed,y se va a la cama,cl.e(2d):PERRO-ascender+de-localización,cl.e(2d):LOCALIZACIÓN
+10,19709,21553,The boy is asleep,El niño está dormido,HOMBRE2 DORMIR QUEDAR,0 0 QUEDAR
+11,21553,22431,The dog had jumped on the bed,el perro se había subido,PERRO cl.c(Q):patas-saltar,0 cl.c(Q):patas-saltar
+12,22431,24041,and is asleep with the boy.,(y) está dormido con el niño.,CON DORMIR QUEDAR,CON 0 QUEDAR
+13,24041,26591,The frog observes the situation,La rana observa la situación,RANA(M-DE) B:RANA(M-DE),RANA(M-DE) B:RANA(M-DE)
+14,26591,27279,It jumps out of the bottle,salta del frasco,cl.e(2d):RANA-saltar+de-frasco,cl.e(Bh):FRASCO
+15,27279,27893,and leaves.,y se va,cl.e(2d):RANA-alejarse-frasco,B:cl.e(Bh):FRASCO
+16,27893,29109,The dog looks (at the jar),El perro mira (el frasco):,PERRO MIRAR(MP),0 MIRAR(MP)
+17,29109,29954,(The frog) has disappeared,había desaparecido,DESAPARECER,DESAPARECER
+18,29954,30451,The frog had jumped out of the jar,la rana había saltado del frasco,cl.e(2d):RANA-saltar+de-frasco,cl.e(Bh):FRASCO
+19,30451,31350,and had disappeared.,(y) había desaparecido.,DESAPARECER,DESAPARECER
+20,31350,32933,The boy and the dog call out (to the frog),El niño y el perro la llaman,HOMBRE2 PERRO LLAMAR(MP),0 0 LLAMAR(MP)
+21,32940,33737,(the frog) does not (answer),(la rana) no (responde),NO,B:LLAMAR(MP)
+22,33737,34538,They call out to it. ,la llaman ,LLAMAR(MP),LLAMAR(MP)
+23,34538,35424,It had disappeared from there.,había desaparecido de allí.,INDX DESAPARECER,0 DESAPARECER
+24,35424,36815,Where is the frog?,¿Dónde (está) la rana?,RANA(M-DE) DÓNDE,RANA(M-DE) 0
+25,36815,38154,The boy gets out of the bed,El niño baja de cama,HOMBRE2 cl.e(2d):PERSONA-descender+de-cama,0 cl.e(Bh):CAMA
+26,38154,38825,and goes [near the window],se acerca [a la ventana],cl.e(2b):PERSONA-alejarse-cama,B:cl.e(Bh):CAMA
+27,38825,40617,(and looks through) the window,(y mira por la) ventana,VENTANA B:VENTANA,VENTANA B:VENTANA
+28,40617,41926,and so does the dog,El perro también hace lo mismo (que el niño),PERRO TAMBIÉN2 COPIAR,0 TAMBIÉN2 COPIAR
+29,41926,43086,It puts its snout,mete la cabeza,MENTE cl.c(Q):CABEZA-entrar-frasco,cl.e(C):FRASCO B:cl.e(C):FRASCO
+30,43089,44620,the dog sticks its snout in the jar,el perro mete la cabeza en el frasco,cl.d(C):frasco-forma PERRO cl.c(Q):CABEZA-entrar-frasco,cl.d(C):frasco-forma cl.e(C):FRASCO B:cl.e(C):FRASCO
+31,44620,46219,and it gets stuck,y se le queda dentro.,cl.c(Q):CABEZA-moverse,cl.e(C):FRASCO-en-cabeza
+32,46219,47900,The dog (goes over) to the window,El perro (se asoma por la) ventana,PERRO VENTANA,0 0
+33,47900,48486,"""It has disappeared"" (it thought)","""Ha desaparecido"" (piensa)",DESAPARECER,DESAPARECER
+34,48486,48998,supporting itself on the window,apoyado en la ventana,cl.c(Bd):pata-sobre-ventana,cl.e(Bh):VENTANA
+35,48998,52745,The boy (is looking out) the window,El perro sin querer cae de la ventana con el frasco [puesto],PERRO FALLO cl.e(2d):PERRO-caer+de-VENTANA cl.d(C):frasco-forma cl.d(C):frasco-forma CON,0 FALLO cl.e(Bh):VENTANA cl.d(C):frasco-forma cl.d(C):frasco-forma CON
+36,52745,53668,The boy comes down,El niño (está mirando por la) ventana,HOMBRE2 VENTANA,0 VENTANA
+37,53671,54816,[The frog] is not there.,el niño baja,cl.e(2d)PERSONA-descender,B:VENTANA
+38,54816,55496,The dog and the boy search for it,[la rana] no está.,DESAPARECER,DESAPARECER
+39,55496,56941,Where is this frog?,El perro y el niño buscan,PERRO HOMBRE2 BUSCAR(2Msu),0 0 BUSCAR(2Msu)
+40,56941,58776,They look for it there,dónde está la rana,RANA(M-DE) DÓNDE G:no-saber,RANA(M-DE) B:RANA(M-DE) G:no-saber
+41,58776,59718,A goat runs,buscan por allí,cl.e(2d):PERSONA-desplazarse ACABAR(1M),0 0
+42,59718,61341,and the boy clings to the goat,Aparece una cabra trotando,UNO CABRA2 cl.c(2d):PATAS-desplazarse,0 CABRA2 cl.c(2d):PATAS-desplazarse
+43,61341,63143,The boy was scared when seizing the goat,y el niño se agarra a la cabra,HOMBRE2 cl.c(2d):PATAS-desplazarse CABRA2 cl.m(5&amp;gt;A):coger-persona,0 cl.c(2d):PATAS-desplazarse 0 cl.m(5&amp;gt;A):coger-persona
+44,63143,64375,They run,el niño iba asustado agarrado por la cabra,HOMBRE2 cl.e(2d):CABRA-bajo-persona,0 cl.e(2d):CABRA-bajo-persona
+45,64375,64830,(There is a) river,van corriendo,cl.e(2d):CABRA-correr-suelo,cl.e(Bh):SUELO
+46,64830,65718,They slow down,(hay un) río,CAMINO INDX,CAMINO 0
+47,65718,66085,The goat nods,frenan,cl.e:CABRA-chocar-suelo,cl.e:SUELO
+48,66085,66799,The boy and the dog fall,la cabra cabecea,MENTE cl.c(1I):CABEZA-levantarse,0 0
+49,66799,68968,and swim,El niño y el perro caen,HOMBRE2 PERRO DOS cl.e(2):PERSONA+PERRO-caer+de-suelo,0 0 0 cl.e(Bh):SUELO
+50,68968,70385,(The dog) is drowning,(el niño) nada,NADAR,NADAR
+51,70385,71436,they swim,(el perro) se está ahogando,AGOBIAR,0
+52,71436,72130,The boy saves the dog:,(el niño va) nadando con el perro,NADAR,NADAR
+53,72130,73749,and he helps it out,(hasta que) el niño saca al perro,HOMBRE2 cl.m(A):agarrar-perro,0 cl.m(A):agarrar-perro
+54,73749,76254,they leave,El perro se acerca nadando,PERRO cl.c(B):patas-desplazarse NADAR,0 cl.c(B):patas-desplazarse NADAR
+55,76254,77716,They jump,y él lo saca,cl.m(A):agarrar-perro DEJAR(1M),cl.m(A):agarrar-perro B:cl.m(A):agarrar-perro
+56,77716,81581,and leave.,Una serpiente se acerca a ellos,UNO SERPIENTE(H) cl.e(1):SERPIENTE-aproximarse-localización cl.c(5d):patas-desplazarse cl.e(2):SERPIENTE-aproximarse-localización,0 0 cl.e(Bh):LOCALIZACIÓN cl.c(5d):patas-desplazarse cl.e(Bh):LOCALIZACIÓN
+57,81581,82134,and (the story) ends.,Se van,cl.e(2d):ENTIDAD-desplazarse,cl.e(2d):ENTIDAD-desplazarse

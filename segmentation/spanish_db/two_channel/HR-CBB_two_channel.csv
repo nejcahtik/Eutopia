@@ -1,0 +1,58 @@
+ID,Start_time,End_time,English,Español,Dominant_Hand,Non_Dominant_Hand
+1,1333,4142,(There is) a boy... a boy [linguistic correction],(Hay un) niño... un niño [corrección lingüística],HOMBRE HOMBRE PEQUEÑO2,0 0 0
+2,4302,5134,(a) dog,(un) perro,INDX:primero PERRO,B.L(1) B.L(1)
+3,5244,8148,(and a) jar (with a) frog within,(y un) frasco (con una) rana dentro.,cl.d(5d):frasco-forma INDX 0 cl.e(2d):RANA-saltar+de-localización,cl.d(5d):frasco-forma cl.e(C):FRASCO cl.e(B):LOCALIZACIÓN 0
+4,8214,8708,(The boy and the dog) look at (the frog excited).,(El niño y el perro) miran (la rana emocionados),MIRAR(2M),MIRAR(2M)
+5,8710,10522,The three (seem to be) very happy.,los tres (están muy) contentos.,CONTENTO LOS-TRES CONTENTO,B:MIRAR(2M) B:MIRAR(2M) B:MIRAR(2M)
+6,10544,12052,After that,Después va(n),DESPUÉS PREPARAR,0 PREPARAR
+7,12086,15191,the dog (and) the boy go to bed.,el perro (y) el niño van a ir a la cama.,PERRO HOMBRE MARCHAR PREPARAR CAMA,0 0 MARCHAR PREPARAR CAMA
+8,15202,15886,They sleep.,Se duermen.,DORMIR(MP),DORMIR(MP)
+9,15910,17148,(The boy) was surely oblivious (of what was happening while sleeping),(El niño) seguramente ignoraba (lo que estaba pasando mientras dormía),G(Cc&amp;gt;5):posiblemente MENTE^NORMAL(1M),B:DORMIR(MP) B:DORMIR(MP)
+10,17185,18033,when he woke up...,al despertarse...,G(5):despertar,B:DORMIR(MP)
+11,18112,19142,(the frog) had disappeared,(La rana) ha desaparecido,DESAPARECER,DESAPARECER
+12,19167,20091,It went out (through the window),ha salido (por la ventana),cl.e(2d):RANA-saltar+de-localización,cl.e(1):LOCALIZACIÓN
+13,20136,21165,(and it) has gone.,(y se) ha marchado.,MARCHAR,MARCHAR
+14,21284,21624,"""Oh!"" (the boy was upset).","""¡Oh!""( se disgusta el niño.)",G(5)(2M):disgusto,G(5)(2M):disgusto
+15,21673,22686,(The boy) gets sad.,(El niño) se entristece.,DEPRESIÓN,DEPRESIÓN
+16,22748,24380,(The dog) jumps out,El perro salta fuera,cl.e(2b):PERRO PERRO cl.e(2d):PERRO-saltar+de-localización,0 0 cl.e(2):LOCALIZACIÓN
+17,24750,25863,(and) stick its snout [in the jar],(y) mete la cabeza [en el frasco],cl.e(2d):PERRO-entrar-frasco,cl.e(C):FRASCO
+18,25885,26229,its snout gets stuck (in the jar),(que) se le encaja en la cabeza,cl.e(5):FRASCO-descenderdes:frasco-encajarse-en-cabeza,cl.e(5):FRASCO-descender
+19,26260,27208,and it asphyxiates.,y le asfixia.,G(C):ahogarse,G(C):ahogarse
+20,27268,28092,Its snout has got stuck in the jar,Se le había encajado el frasco en la cabeza,cl.e(5):FRASCO-descender,B:G(C):ahogarse
+21,28192,29130,(and) it can(’t breathe).,(y no) podía (respirar).,PODER2,B:G(C):ahogarse
+22,29300,31327,(the boy) jumped next,Después (el niño) salta,DESPUÉS cl.e(2d):PERSONA-saltar+de-localización,0 cl.e(1):LOCALIZACIÓN
+23,31393,33046,I believe (through the) window,creo (que por la) ventana,VENTANA MÁS-O-MENOS(1M) VENTANA,VENTANA B:VENTANA VENTANA
+24,33066,34592,[by himself.] The boy the window...,[Para si misma.] El niño la ventana...,HOMBRE VENTANA,B:VENTANA VENTANA
+25,34638,35318,The dog jumps out the window,El perro sale por la ventana,PERRO cl.e(2d):PERRO-descender+de,B:VENTANA B:VENTANA
+26,35418,36601,The boy runs,el niño corre,HOMBRE cl.c(2d):PATAS-correr,B:VENTANA cl.c(2d):PATAS-correr
+27,36792,37330,and jumps out the window,salta por la ventana,cl.e(1):TRAIECTORIA-caer,B:cl.c(2d):PATAS-correr
+28,37349,38948,(and) removes the jar from the dog’s snout,(y) le quita el frasco de la cabeza al perro.,cl.m(5d):quitar-frasco,cl.m(5d):quitar-frasco
+29,38959,40855,They then search for the frog,Después buscan la rana,DESPUÉS BUSCAR(2Msu),B:cl.m(5d):quitar-frasco BUSCAR(2Msu)
+30,40985,42027,"""Frog!"" (says the boy.)","""¡Rana!""( grita el niño.)",G(C):vocear,G(C):vocear
+31,42054,42577,"""What is that?"" (thought the boy).","""¿Qué es eso?"" (piensa el niño).",B:G(C):vocear,B:G(C):vocear
+32,42586,43415,(above him) was an expanding swarm of insects,(Encima de él) se expandía una bandada de insectos,DIFUNDIR,DIFUNDIR
+33,43532,45519,(They were) flies that had spread (through the air).,(eran) moscas que se habían propagado (por el aire).,MOSCA(2Msu) cl.d(5):moscas-expandirse G(5)(2M):incomprensión,MOSCA(2Msu) cl.d(5):moscas-expandirse G(5)(2M):incomprensión
+34,45651,47448,The boy searches (but the frog) is not there.,El niño busca (pero la rana) no está.,BUSCAR HABER-NO(2M) G(5):interrogativo,0 HABER-NO(2M) B:HABER-NO(2M)
+35,47572,48677,"The dog: ""That that.""","El perro: ""Eso eso"".",hhh PERRO INDX.DEM,hhh 0 0
+36,48732,50805,Did you know of a hive with bees inside?,¿Sabes un panal (que tiene) abejas dentro?,SABER cl.d(5d):panal-forma ABEJA INDX,0 cl.d(5d):panal-forma B:cl.d(5d):panal-forma cl.e(C):PANAL
+37,50816,51013,(The dog gets near),(El perro se acerca),B:INDX,B:cl.e(C):PANAL
+38,51035,52368,once again the swarm gets out of the hive,(y otra vez lo) mismo el enjambre sale de la colmena,MISMO DIFUNDIR,B:cl.e(C):PANAL DIFUNDIR
+39,52417,53231,and then.,(y) ya.,ACABAR,ACABAR
+40,53256,54554,(They continue) searching.,(Siguen) buscando.,BUSCAR(2Msu),BUSCAR(2Msu)
+41,54597,57283,The dog looks into (a sort of) mound,El perro se mete en un(a especie de) montículo,PERRO cl.e(2d):PERRO-entrar-montículo cl.d(5):montículo-forma cl.e(2d):PERRO-entrar-montículo,B:BUSCAR(2Msu) cl.e(2d):MONTÍCULO cl.d(5):montículo-forma cl.e(C):MONTÍCULO
+42,57384,58622,It is not (there),(allí) no está.,HABER-NO(MP) G(B):ilativo,HABER-NO(MP) G(B):ilativo
+43,58784,60863,The boy helped a goat?,El niño ayuda a ¿una cabra?,INDX HOMBRE AYUDAR CABRA2,0 0 AYUDAR 0
+44,60904,61262,No?,¿No?,B:CABRA2,NO
+45,61288,62359,(Well it should be) a goat.,(Bueno debía de ser) una cabra.,CABRA2 B:CABRA2,B:NO B:NO
+46,62422,63222,(The boy) climbed (on the goat’s back),(El niño) se monta (en la cabra),cl.e(2b):PERSONA-ascender+a-cabra,cl.e(1):CABRA
+47,63266,64063,(and) rode uncontrollably,cabalgan descontroladamente,cl.e(2b):PERSONA-montar-cabra,cl.e(1):CABRA-correr
+48,64123,65987,(until the boy) fell down a ravine.,(hasta que el niño) sale despedido y cae por un barranco.,cl.e(2b):PERSONA-caer,cl.e(B):LOCALIZACIÓN
+49,66352,68386,"After that the boy: ""Oh!""","Después el niño: ""¡Oh!""",DESPUÉS INDX G(Bd)(2M):sorpresa,0 0 G(Bd)(2M):sorpresa
+50,68687,69271,after they fell i.e. (the boy and the dog),Al caer (el niño y el perro),cl.e(2b):PERSONA-caer,cl.e(2b):PERRO-caer
+51,69387,72828,They see there (is) a frog couple (seated) together,ya lo ven ahí (está) Una pareja [de ranas] las dos juntas,VER YA G(5):ahí hhh NOVIO LOS-DOS CON,B:cl.e(2b):PERRO-caer B:cl.e(2b):PERRO-caer B:cl.e(2b):PERRO-caer 0 NOVIO B:NOVIO CON
+52,72966,74935,(and) their offspring in a row.,(y) su descendencia en hilera.,NACER(2Msu) cl.d(Cc&amp;gt;5):ranas-fila,NACER(2Msu) B:NACER(2Msu)
+53,75081,76430,"After that they both (the boy and the dog) ""Finally!"" ","Después los dos( el niño y el perro): ""¡Por fin!"" ",DESPUÉS LOS-DOS POR-FIN,B:NACER(2Msu) B:NACER(2Msu) B:NACER(2Msu)
+54,76457,77660,(The frogs) gave them a frog,(Las ranas) les cedieron una ranita,REGALAR cl.d(Ba):rana-tamaño,REGALAR cl.m(Ba):sostener-rana
+55,77673,78127,(and the boy) took it in his hand.,(y el niño) la cogió con la mano.,B:cl.d(Ba):rana-tamaño,cl.m(Ba):coger-rana
+56,78147,78917,That’s it.,Nada más.,G(5):acabar,B:cl.m(Ba):coger-rana
+57,79124,80904,I summarized (it)...,Yo (lo) resumí...,INDX CORTO G(5)(2M):exculparse,0 CORTO G(5)(2M):exculparse

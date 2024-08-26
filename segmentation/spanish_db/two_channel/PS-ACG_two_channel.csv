@@ -1,0 +1,75 @@
+ID,Start_time,End_time,English,Español,Dominant_Hand,Non_Dominant_Hand
+1,232,1697,It begins at first (with),Primero empieza (con),EMPEZAR- UNO EMPEZAR,EMPEZAR- 0 EMPEZAR
+2,1697,4753,a man (and) a ladder on a tree,(un) hombre (y) una escalera en un árbol,HOMBRE cl.e(2d):ESCALERA-en-árbol ÁRBOL,0 cl.e(5):ÁRBOL ÁRBOL
+3,4804,6165,(The ladder) is resting on the tree,(la escalera está) apoyada en el árbol,cl.e(2d):ESCALERA-en-árbol cl.e(2):ESCALERA-en-árbol,cl.e(5):ÁRBOL cl.e(5):ÁRBOL
+4,6165,6824,The man had climbed the ladder,el hombre había subido la escalera,cl.e(2b):PERSONA-ascender+a-árbol,B:cl.e(5):ÁRBOL
+5,6824,7423,(and) he is at the top of the ladder.,(y) está en la cima de la escalera.,cl.e(2b):PERSONA-sobre-árbol,B:cl.e(5):ÁRBOL
+6,7423,9303,picking pears,Ahí coge peras,INDX PERA3(L-MEJ) cl.m(5d&amp;gt;A):coger-peras,B:cl.e(5):ÁRBOL B:cl.e(5):ÁRBOL B:cl.e(5):ÁRBOL
+7,9324,10426, and depositing them in his apron., y las guarda en el mandil.,cl.m(5d):guardar-peras cl.m(5d):coger+guardar-peras,B:cl.e(5):ÁRBOL cl.m(5d):coger+guardar-peras
+8,10522,11603,He climbs down the tree,Baja del árbol,cl.e(2b):PERSONA-descender,0
+9,11603,12397,and empties the pears,y echa las peras,cl.m(Cc&amp;gt;5d):arrojar-peras,cl.m(Cc&amp;gt;5d):arrojar-peras
+10,12397,14064,empties the pears from the apron.,echa las peras del mandil.,cl.m(Cc&amp;gt;5d):arrojar-peras cl.m(Cc&amp;gt;5d):arrojar-peras,cl.m(Cc&amp;gt;5d):arrojar-peras cl.m(Cc&amp;gt;5d):arrojar-peras
+11,14067,15650,Climbs up the tree again.,Sube otra vez al árbol.,cl.e(2d):PERSONA-ascender+por-árbol,cl.e(B):ÁRBOL
+12,15842,19396,A man comes along later with a goat,Más tarde vienen (un) hombre junto con (una) cabra,TARDE2 VENIR(B) HOMBRE CON CABRA2,TARDE2 0 0 CON 0
+13,19441,20279,They approach (the tree),se acercan,cl.e:PERSONA+CABRA-aproximarse,0
+14,20309,23485,and come [near and then walk away] the man and the goat,pasan [se acercan y se alejan] el hombre y la cabra,cl.m(Cc):agarrar-correa,0
+15,23496,25474,into the distance.,(hasta) desaparecer.,G:acabar-desaparecer,G:acabar-desaparecer
+16,25850,30653,A child on a bicycle comes next,Más tarde se acerca (un) niño con (una) bicicleta,TARDE2 HOMBRE CON BICICLETA cl.e(B):BICICLETA-aproximarse,TARDE2 0 CON BICICLETA 0
+17,30657,33251,The boy looks at the baskets and then at the man in the tree,El niño ve aquello [las cestas] ve (al hombre en el árbol),B:cl.e(B):BICICLETA-aproximarse HOMBRE INDX B:INDX,0 0 0 0
+18,33251,35173,The man was unaware (of whatever was happening),el hombre ignoraba (lo que estaba pasando),HOMBRE MENTE^NORMAL,0 MENTE^NORMAL
+19,35173,36283,(and the boy decided),(y el niño se decició),INDX,0
+20,36283,40399,to put... put the basket of pears on,puso... puso el cesto de peras (encima),cl.m:coger-cesta MANZANA- PERA3(L-MEJ) CESTO cl.m(A):colocar-cesto,cl.m:coger-cesta 0 0 CESTO cl.m(A):colocar-cesto
+21,40399,41692,err..,eh...,hhh,hhh
+22,41692,44587,puts the basket on the bicycle,pone la cesta sobre la bicicleta,BICICLETA hhh cl.e(5):ZONA-sobre-bicicleta cl.e(5d):CESTA-sobre-bicicleta,BICICLETA hhh cl.e(5):BICICLETA B:cl.e(5):BICICLETA
+23,44661,45532,(The boy cycles away on) the bike,(El niño se va en la) bicicleta,BICICLETA,BICICLETA
+24,45609,47700,A girl appears,Aparece una niña,MUJER cl.e(1):PERSONA,0 0
+25,47700,48858,on her bike.,(que) se acerca en bicicleta.,BICICLETA cl.e(1):BICICLETA-acercarse-bicicleta,BICICLETA cl.e(1):BICICLETA-acercarse-bicicleta
+26,49084,50300,The boy is stunned (and gazes at her),El niño se (queda) pasmado (mirándola),HOMBRE ADMIRAR,0 0
+27,50300,51617,(and) his hat falls to the floor,(y) se le cae el sombrero,SOMBRERO(Xc)(1M) cl.m(Xc):sombrero-caer,0 0
+28,51617,52813,He is spellbound and looks back,Él iba embobado mirando hacia atrás,INDX cl.m(A):agarrar-manillar,0 cl.m(A):agarrar-manillar
+29,52813,53559,(and) his hat falls to the floor,(y) se le cae el sombrero,SOMBRERO(Xc)(1M) cl:sombrero-caer,0 0
+30,53559,54084,He is spellbound and looks back,iba embobado mirando hacia atrás,cl.m(A):agarrar-manillar,cl.m(A):agarrar-manillar
+31,54084,55915,and hits a stone,chocó con una piedra,PIEDRA cl.e(B):BICICLETA-chocar-piedra,PIEDRA cl.e(B):PIEDRA
+32,55915,57123,(and) falls.,(y) cayó.,cl.e(B):BICICLETA-caer,0
+33,57399,58789,(and the pears) get scattered on the floor,(Las peras) se desparramaron.,cl.d(5):peras-esparcirse,cl.d(5):peras-esparcirse
+34,58789,61405,Three children happen to pass by,Casualmente había allí tres niños,CASUAL HOMBRE TRES INDX.LOC HABER,0 0 0 0 0
+35,61471,62055,who saw (what had happened),(que) lo vieron,VER,0
+36,62055,63968,(and decided) to help,(y decidieron) ayudarle,B:VER AYUDAR,0 AYUDAR
+37,63968,64935,They helped him.,le ayudaron.,AYUDAR,AYUDAR
+38,64935,68508,They put the pears (in the basket),echan las peras (en el cesto),ARROJAR(2Msu) PERA3(L-MEJ) ARROJAR(2Msu),ARROJAR(2Msu) 0 0
+39,68508,69018,They have just [filled the basket,acaban [de llenar el cesto],ACABAR(1M),0
+40,69156,71371,place it [on the bike],colocan la cesta.,INDX cl.m(5d):colocar-cesta,0 cl.m(5d):colocar-cesta
+41,71480,73796,The boy gives one of the children,El niño le regala a uno de los niños,HOMBRE REGALAR HOMBRE PERSONA- UNO,0 REGALAR 0 0 0
+42,73796,75012,two pears,le regala dos peras,REGALAR PERA3(L-MEJ) DOS,REGALAR 0
+43,75023,76172,He gives him two pears,le da las dos peras,cl.e:peras-dos-dar,0
+44,76380,76946,(and leaves),(se va),G:irse,0
+45,76946,77927,The child [on the bicycle] also leaves,el niño [de la bicicleta] se marcha,HOMBRE ALEJARSE,0 0
+46,77938,78494,(The child) [with the two pears also] leaves,(el niño) [de las dos peras] se marcha,MARCHAR,MARCHAR
+47,78494,79051,That’s it,y nada más,ACABAR,ACABAR
+48,79051,79918,(Ah) the child [gives him] two pears ,(Ah) El niño [le da] dos peras ,INDX PERA3 DOS,0 0 0
+49,79918,81620,because he picked up the hat,porque cogió el sombrero,MOTIVO SOMBRERO(Xc) COGER,0 SOMBRERO(Xc) 0
+50,81620,82432,and gave it to him.,(y) se lo dio.,DAR,0
+51,82432,82770,He realizes,Se da cuenta,MENTE,0
+52,82773,84738,the child thinks,el niño lo piensa,HOMBRE G HOMBRE B:HOMBRE,0 0 0 0
+53,84791,86598,they helped me to gather [the pears] that’s it,antes me ayudaron a coger [las peras] y nada,PASADO AYUDAR COGER(2Msu) NADA,0 AYUDAR COGER(2Msu) NADA
+54,86648,88118,They then gave me the hat,después me dieron el sombrero,DESPUÉS SOMBRERO(Xc)(1M) DAR(2M),0 0 DAR(2M)
+55,88122,88905,He gives them (two pears),les da (las peras),DAR,0
+56,88920,90802,He gives them two pears because of the hat.,les regala las peras por lo de el sombrero.,REGALAR PERA3(L-MEJ) MOTIVO SOMBRERO(Xc)(1M),REGALAR 0 0 0
+57,90999,92149,And then...,Entonces...,ESPERAR2,0
+58,92184,93482,and the story ends.,se acaba.,FIN,FIN
+59,93499,94841,The child escapes,El niño escapa,HOMBRE ESCAPAR,0 0
+60,94841,96609,The child on the bicycle leaves,El niño de la bicicleta se va,MARCHAR2- HOMBRE BICICLETA MARCHAR2,MARCHAR2- 0 BICICLETA MARCHAR2
+61,96703,98758,The three [children] pass ,Los tres [niños] pasan,TRES cl.e(3):PERSONAS3-desplazarse,0 0
+62,98786,100335,the man plucking the pears,El hombre cogiendo peras,HOMBRE PERA3(L-MEJ) cl.m(5d):coger-peras,0 0 cl.m(5d):coger-peras
+63,100335,100968,who continued (plucking),continuaba,CONTINUAR,CONTINUAR
+64,100968,102128,Climbs down from the top [of the tree],baja de la cima [del árbol],cl.e(2b):PERSONA-localización cl.e(1):TRAIECTORIA-descender G,0 0 0
+65,102184,103300,and waits there.,(y) allí (está) esperando.,INDX.LOC ESPERAR,0 ESPERAR
+66,103355,105996,The three pass by.,Los tres pasan.,TRES cl.e(3):PERSONAS3-desplazarse,0 0
+67,106078,108084,(but) before that the man had noticed,(Pero) antes el hombre vio,ANTES(1M) HOMBRE VER(2M),0 0 VER(2M)
+68,108084,110885,that there were three baskets of pears there,(que) ahí había tres cestas de peras,INDX.LOC CESTO PERA3(L-MEJ) TRES,0 CESTO B:CESTO B:CESTO
+69,110902,113181,(There are only) two now...,(y ahora hay) dos.,B:TRES DOS B.L(2) B.L(2),0 0 INDX:uno INDX:dos
+70,113216,114244,And they were full,(Están) llenos,DENTRO- LLENO,DENTRO- LLENO
+71,114244,115189,One is missing,falta uno,UNO VACÍO,0 VACÍO
+72,115189,116178,One was missing (where could it be?),le faltaba otro (dónde estaría),NECESITAR OTRO G:interrogativo,0 0 0
+73,116206,118624,(He stayed there) concerned (and thinking).,(se quedó allí) preocupado (pensando),G:expresión-hombre PROBLEMA,0 PROBLEMA
+74,118624,119940,(and the story) ends.,(y) se acaba.,ACABAR,ACABAR

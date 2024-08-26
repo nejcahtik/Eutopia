@@ -1,0 +1,217 @@
+ID,Start_time,End_time,English,Español,Dominant_Hand,Non_Dominant_Hand
+1,71,3880,"""The three pigs and the wolf"".","""Los tres cerdos y el lobo"".",TÍTULO TRES CERDO OTRO UNO LOBO,TÍTULO 0 0 0 0 LOBO
+2,3975,5090,I’m going to tell (this story).,Voy a contar.,INDX.PRO:1sg EXPLICAR,0 EXPLICAR
+3,6677,8262,(There are) three pigs,(Hay) tres cerdos,TRES HERMANO- CERDO TRES,0 HERMANO- 0 0
+4,8331,10866,The two... three of them are siblings.,los dos... los tres (son) hermanos.,LOS-DOS LOS-TRES TAMBIÉN HERMANO LOS-TRES,0 0 0 HERMANO 0
+5,10996,12851,Each one has a different character.,Cada uno (tiene) un carácter diferente.,CADA-UNO TIPO DIFERENTE,0 TIPO DIFERENTE
+6,13460,15825,The first loves to play,Al primero le encanta jugar,INDX:primero ENCANTAR JUGAR(CT),B.L(1) ENCANTAR JUGAR(CT)
+7,15892,17130,The second also (likes) playing,al segundo también (le gusta) jugar,INDX:segundo TAMBIÉN JUGAR,B.L(2) B.L(2) JUGAR
+8,17269,18637,and the third is serious,y el tercero (es) serio,INDX:tercero UNO TRISTE,B.L(3) B.L(3) B.L(3)
+9,18654,20194,focused on work.,centrado en trabajar.,MENTE^CONCENTRAR TRABAJAR G(B):vale,MENTE^CONCENTRAR TRABAJAR B:TRABAJAR
+10,20321,21386,Let me explain.,Explico.,INDX.PRO:1sg EXPLICAR,0 EXPLICAR
+11,21581,23761,Another (personality is) the wolf which wants to eat (them),Otro (personaje es) un lobo que quiere comer(los),OTRO LOBO 0 0 MENTE^OBJETIVO COMER,0 0 LOBO MENTE^OBJETIVO 0 0
+12,23791,24391,eat them,comerlos,MORDER,0
+13,24431,26681,It wants to eat the three pigs all three of them.,quiere comer a los tres cerdos a todos quiere (comer).,QUERER TRES CERDO COMER TODO QUERER G(B):vale,0 0 0 0 TODO 0 0
+14,27206,28588,I am going to explain.,Empiezo a explicar.,EMPEZAR INDX EXPLICAR,EMPEZAR 0 EXPLICAR
+15,28863,30658,A person... No sorry.,Una persona... No perdón.,UNO PERSONA PERDÓN,0 0 PERDÓN
+16,30784,37048,A pig is building what? a house how do he does that? with bundles of straw.,Un cerdo (está) haciendo (¿qué?) una casa( ¿cómo la hacía?) con manojos de paja.,UNO CERDO SECCIÓN(1M) ARREGLAR OBJETIVO CUÁL CASA CÓMO LIGERO MADERA PALO,0 0 0 ARREGLAR OBJETIVO CUÁL CASA 0 LIGERO MADERA PALO
+17,37099,37659,It is working (fast),Trabaja (rápido),ARREGLAR,ARREGLAR
+18,37672,40428,to finish the house quickly.,para acabar la casa rápidamente.,PORQUE RÁPIDO INSTANTE CASA(M-AB) YA,PORQUE RÁPIDO INSTANTE CASA(M-AB) B:CASA(M-AB)
+19,41125,41971,(The pig) has just finished,(El cerdo) acaba la obra,INDX ARREGLAR LISTO,0 ARREGLAR LISTO
+20,42024,42761,and leaves/goes.,(y) sale/va.,INDX CAMINAR,0 CAMINAR
+21,42791,43429,The pig calls:,El cerdo llama:,CERDO LLAMAR,0 0
+22,43448,44850,"""Look brother I won ","""Mira hermano (soy) el primero ",VER HERMANO PRIMERO,0 HERMANO B:HERMANO
+23,44859,46237,"The house of straw bundles is already finished.""","la casa de manojos (de paja) ya (está) acabada.""",CASA PALO YA LISTO,CASA PALO 0 LISTO
+24,46354,47051,The brother is surprised: Oh! ,"(El hermano se sorprende:) ""Oh!"" ",HOMBRE- (CNM),0 (CNM)
+25,47176,50871,Another pig the second one is also working (on a house) a wooden house.,Otro cerdo el segundo también trabaja (en una casa) de madera.,OTRO CERDO B.L(2) TAMBIÉN ARREGLAR CÓMO MADERA,0 0 INDX:segundo 0 ARREGLAR 0 MADERA
+26,50918,53198,And works quite a bit.,Trabaja bastante.,ARREGLAR SECCIÓN- BASTANTE ARREGLAR,ARREGLAR B:ARREGLAR B:ARREGLAR ARREGLAR
+27,53222,54421,The house is finished.,La casa (está) acabada.,YA CASA LISTO,0 CASA LISTO
+28,54455,55689,"""Look the two (houses have been built) the same"" (said the pig with the wooden house).","""Mira las dos (casas han sido hechas) igual"" (dijo el cerdo de la casa de madera).",VER LOS-DOS IGUAL VER LISTO,B:LISTO B:LISTO IGUAL 0 LISTO
+29,55719,58252,Let’s see how  the third and final pig (is building its) house.,A ver cómo (está haciendo) la casa el tercer y último cerdo.,VER ÚLTIMO B.L(3) INDX CÓMO CASA CÓMO,0 ÚLTIMO INDX:tercero 0 0 CASA 0
+30,58256,59002,(It is making it) with bricks,(Está haciéndola) de ladrillos,CONSTRUIR,CONSTRUIR
+31,59145,61420,It is taking a long time (to build the house).,(está) tardando mucho tiempo (en hacer la casa).,G(5):mucho HORA DURAR,G:mucho HORA 0
+32,61472,62349,"""Brother","""Hermano",INDX LLAMAR INDX,0 0 0
+33,62373,63743,"You are working (very hard)"" said the pig.","(estás) trabajando (muy duro)"" (le dijo el cerdo).",G:demasiado TRABAJAR,G:demasiado TRABAJAR
+34,63981,65406,"The pig (responds): ""I know I know.","El cerdo (le responde): ""Lo sé lo sé.",HOMBRE- CERDO SABER SABER INDX,0 0 0 0 0
+35,65442,66451,"Stop it will be safe"".","tranquilo así (es) segura.""",TRANQUILO ES.ASÍ(1M) ES.SEGURO,TRANQUILO B:TRANQUILO ES.SEGURO
+36,66501,67841,He (continues) working,(Y sigue) trabajando.,CONSTRUIR,CONSTRUIR
+37,67881,69849,The two (siblings) continue talking,Los dos (hermanos) prosiguen hablando,LOS-DOS CÓMO CONTINUAR CONTACTO,0 0 CONTINUAR CONTACTO
+38,69862,70841,and playing.,y jugando.,JUGAR,JUGAR
+39,71027,71298,And as they move away,Al alejarse,ALEJARSE,0
+40,71301,73256,by chance the wolf hears them.,por casualidad el lobo les oye.,CASUAL LOBO ESCUCHAR,0 LOBO 0
+41,73295,73770,(The wolf) comes nearer (quietly),(El lobo) se acerca (sigilosamente),cl.c(1):PATAS-andar,cl.c(1):PATAS-andar
+42,73783,75604,It sees them,los ve,INDX.PRO:1sg MIRAR,B:cl.c(1):PATAS-andar B:cl.c(1):PATAS-andar
+43,75632,75955,It prepares itself:,se prepara:,PREPARAR,PREPARAR
+44,75967,76382,to take a step,da un paso,cl.c(B):pies-andar,cl.c(B):pies-andar
+45,76400,77217,(but) makes noise,(pero) hace ruido,SONIDO(2M),SONIDO(2M)
+46,77254,79459,and the two (pigs) the same ones as before which were playing hear (the noise).,(y) los dos (cerdos) los mismos de antes que (estaban) jugando lo oyen.,DOS MISMO LO-DE-ANTES DOS JUGAR(CT) ESCUCHAR(2M),0 0 0 0 JUGAR(CT) ESCUCHAR(2M)
+47,79469,79917,"""Warning!: ","""¡Aviso: ",G AVISAR,B:ESCUCHAR(2M) B:ESCUCHAR(2M)
+48,79922,80593,the wolf is here,está aquí el lobo,INDX HABER PERRO,B:ESCUCHAR(2M) B:ESCUCHAR(2M) B:ESCUCHAR(2M)
+49,80603,81522," The wolf comes!"" (the pigs scream)."," viene el lobo!"" (gritan los cerdos).",VENIR LOBO YA,B:ESCUCHAR(2M) LOBO 0
+50,81531,82035,They escape each running away on its own,Se van (corriendo cada uno por su lado),ALEJARSE(2Msu),ALEJARSE(2Msu)
+51,82052,82788,They escape each running away on its own,los dos se van (corriendo cada uno por su lado),DOS ALEJARSE(2M),B:ALEJARSE(2Msu) ALEJARSE(2M)
+52,82793,86168,(One) to the house of b... bundles of straw and enters,(uno) a la casa de m... manojos de paja entra,OBJETIVO CASA MADERA PALO DENTRO YA,OBJETIVO CASA MADERA PALO DENTRO 0
+53,86247,88255,another enters the wooden house,otro entra en la casa de madera,OTRO CASA MADERA DENTRO,0 CASA MADERA DENTRO
+54,88280,90246,and the third in the one built with bricks enters (also at home).,y el otro (el que estaba) construía con ladrillos entra (también en su casa).,OTRO CONSTRUIR LISTO AHORA DENTRO,0 CONSTRUIR LISTO 0 DENTRO
+55,90311,91945,The wolf approaches quietly,El lobo se acerca,INDX LOBO cl.c(1):PATAS-andar,0 0 cl.c(1):PATAS-andar
+56,91960,93401,"""Hello"" (says joker).","""Hola""( dice guasón).",G:mímica-lobo SALUDO,G:mímica-lobo 0
+57,93809,95654,One of the (terrified) pigs look out the window.,Uno de los cerdos mira (aterrorizado) por la ventana.,INDX CERDO UNO VENTANA cl.m(A):apoyarse-ventana,0 0 0 VENTANA cl.m(A):apoyarse-ventana
+58,95668,97666,"""Hey the wolf is coming"" (it thought).","""Uf viene el lobo""( piensa).",VENIR LOBO(1M) INTENSO,B:cl.m(A):apoyarse-ventana B:cl.m(A):apoyarse-ventana B:cl.m(A):apoyarse-ventana
+59,97739,98526,and warns:,advierte:,AVISAR,0
+60,98548,100646,I will huff 'n puff with ease,"""Soplaré y con facilidad",FÁCIL LOBO SOPLAR,0 LOBO 0
+61,100686,101548,"and bring (your) house down"".","volaré (tu) casa"".",cl.e:CASA-desintegrarse,cl.e:CASA-desintegrarse
+62,101825,102631,"""No (I don’t think so"" says) the pig.","""No (creo)"" (le dice) el cerdo.",CERDO (CNM),0 (CNM)
+63,102662,103359,"""Yes yes"" (answers the wolf convincingly.)","""Sí sí"" (responde convencido el lobo).",(CNM),(CNM)
+64,103375,104279,(The wolf) gets ready,(El lobo) se prepara:,AHORA MÁS-O-MENOS PREPARAR(1M),0 0 0
+65,104294,105795,The wolf moves back.,el lobo retrocede.,LOBO cl.c(1):PATAS-retroceder,LOBO cl.c(1):PATAS-retroceder
+66,106034,106992,"""the house is there"" (it calculates).","""Ahí (está) la casa"" (calcula el lobo).",INDX cl.e:CASA,0 cl.e:CASA
+67,107008,107869,(The wolf) takes a deep breath,(El lobo) respira (profundamente),RESPIRAR,0
+68,107880,108856,(and after) filling its chest (with air),(y un vez que) llena el pecho (de aire),cl.d(5d):pecho-hinchar,cl.d(5d):pecho-hinchar
+69,108949,109787,blows (strongly).,sopla (intensamente).,SOPLAR,0
+70,109817,110928,The house is shaken.,La casa se tambalea.,cl.e:CASA-moverse,cl.e:CASA-moverse
+71,111122,113183,The pig watches in desperation,El cerdo lo presencia (desesperado),CERDO cl.m(5):vibrar-ventana,0 cl.m(5):vibrar-ventana
+72,113371,114075,The bales of hay are thrown about,los manojos (empiezan a) salir despedidos,cl.e(1):PALOS-ascender,cl.e(1):PALOS-ascender
+73,114160,115283,and the house is torn down.,(y) la casa se despedaza.,cl.e:CASA-desintegrarse,cl.e:CASA-desintegrarse
+74,115428,117591,stunned the pig flees,(Atónito) el cerdo huye,G(5):desesperación cl.e(2b):PERSONA-sobre-suelo cl.e(A&amp;gt;5):POLVAREDA-alejarse-suelo,G(5):desesperación cl.e(Bh):SUELO B:cl.e(Bh):SUELO
+75,117650,118039,and runs to,(y) corriendo,cl.c(1):PATAS-correr,cl.c(1):PATAS-correr
+76,118165,120092,the wooden house,va a la casa de madera,OBJETIVO IR MADERA CASA,OBJETIVO IR MADERA CASA
+77,120128,121472,where its brother had entered.,en la que (su) hermano (ya había) entrado.,LO-DE-ANTES HERMANO INDX DENTRO,0 HERMANO 0 DENTRO
+78,121537,122174,(Pig) enters.,(El cerdito) entra.,DENTRO YA,DENTRO 0
+79,122215,122531,"""Brother","""Hermano",AVISAR,0
+80,122544,123724,My house has been blown down,mi casa se ha roto,INDX.PRO:1sg PROPIO CASA ROMPER,0 0 CASA ROMPER
+81,123777,124257,down,ha volado,cl.e:CASA-desintegrarse,cl.e:CASA-desintegrarse
+82,124296,125259,by the wolf.,por el soplido del lobo.,MOTIVO LOBO SOPLAR,0 LOBO 0
+83,125292,128384,"""Blown down? Really?"" (it asked the brother puzzled).","""¿Por un soplido? ¿En serio?"" (Le pregunta extrañado) el hermano.",HERMANO B:HERMANO SOPLAR(2M) MIRA-TÚ,HERMANO B:HERMANO SOPLAR(2M) 0
+84,128479,129525,"""Yes now it is coming (to your house)"".","""Sí ahora le toca (a esta casa).""",(CNM) AHORA TURNO,(CNM) 0 0
+85,129544,130415,The (brother): Relax,"El (hermano): ""Tranquilo",INDX TRANQUILO,0 TRANQUILO
+86,130422,131284,One can hardly (pull down) a wooden house,difícilmente (podrá tirar) una casa de madera,MADERA DIFÍCIL,MADERA 0
+87,131311,132620," It is solid""."," es sólida.""",CASA FUERTE,CASA FUERTE
+88,132936,133967,The (wolf) moves back.,El (lobo) continúa,INDX CONTINUAR,0 CONTINUAR
+89,134013,134687,The wolf continues.,el lobo continúa.,LOBO CONTINUAR,LOBO CONTINUAR
+90,134725,135302,It walks (tracking the area).,Camina (rastreando la zona).,cl.c(1):PATAS-andar,cl.c(1):PATAS-andar
+91,135417,135619,"""There","""Ahí",MIRAR,0
+92,135623,136579,There is a wooden house,hay una casa de madera,HABER CASA MADERA,HABER CASA MADERA
+93,136631,137848,"There is the second house"" thought the wolf.","ahí (está) la segunda casa"" (pensó el lobo).",MIRAR B.L(2) INDX cl.e:CASA,0 INDX:segundo B:INDX:segundo cl.e:CASA
+94,137884,138544,It goes near (the house),Se acerca (a la casa),AHORA cl.c(1):PATAS-andar,0 cl.c(1):PATAS-andar
+95,138572,139119,(and jokingly says): Hello!,"(y dice burlesco:) ""Hola"".",SALUDO,0
+96,139186,141551,The two (terrified) pigs look out the window.,Los dos cerdos miraban (espantados) por la ventana,VENTANA LOS-DOS CERDO cl.m(5):apoyarse-ventana,VENTANA 0 0 cl.m(5):apoyarse-ventana
+97,141570,142329,They look at each other,se miran mutuamente.,MIRAR(2M),MIRAR(2M)
+98,142329,142780,,,MIRAR(2M),MIRAR(2M)
+99,142970,143631,"""Wait"" (said) the wolf to them.","""Esperad"" (les dice el lobo.",LOBO ESPERAR2,LOBO 0
+100,143639,144458,(The wolf) moves back.,(El lobo) retrocede,cl.c(1):PATAS-retroceder,cl.c(1):PATAS-retroceder
+101,144473,144904,It is prepared,(está) preparado,PREPARAR,PREPARAR
+102,144951,145827,breathes (deeply),respira (profundamente),RESPIRAR,0
+103,145841,146589,(until) its lungs are full (of air),(hasta) llenar el pecho (de aire),cl.d(5):pecho-hinchar,cl.d(5):pecho-hinchar
+104,146601,146823,and blows (the air) out,(y) descarga (el aire),cl.d(5):pecho-deshinchar,cl.d(5):pecho-deshinchar
+105,146833,147281,blows.,sopla.,SOPLAR(2M),SOPLAR(2M)
+106,147314,148278,The house is shaken.,La casa se tambalea.,cl.e:CASA-moverse,0
+107,148313,149641,"""Almost.. Its tough tough","""Cas.. Cuesta cuesta",CASA- COSTAR COSTAR,CASA- 0 0
+108,149676,150255,I have blown,he soplado,SOPLAR,0
+109,150303,151274,"and it has (only) been shaken"" (thought the wolf).","(y sólo) se ha tambaleado""( pensó el lobo).",cl.e:CASA-moverse,cl.e:CASA-moverse
+110,151293,152809,I will do it a second time.,Lo haré unha segunda vez.,OTRA-VEZ B.L(2),OTRA-VEZ INDX:segundo
+111,152840,154463,(The wolf) takes a (deep) breath,(El lobo) respira (profundamente),RESPIRAR- DOBLE cl.d(5&amp;gt;5d):aire-respirar,0 0 cl.d(5&amp;gt;5d):aire-respirar
+112,154515,155114,(and after) filling its lungs (with air),(y un vez que) llena el pecho (de aire),cl.d:pecho-hinchar,cl.d:pecho-hinchar
+113,155161,155690,blows (strongly).,sopla (intensamente).,SOPLAR(2M),SOPLAR(2M)
+114,155711,156062,The house is shaken.,La casa se tambalea,cl.e:CASA-moverse,cl.e:CASA-moverse
+115,156069,156672,until it breaks apart.,hasta despedazarse.,cl.e:CASA-desintegrarse,cl.e:CASA-desintegrarse
+116,156694,157491,The wooden poles fly off.,Los palos de madera salen volando.,MADERA cl.e(1):PALOS-ascender,MADERA cl.e(1):PALOS-ascender
+117,157512,159058,The two pigs (witness) that the house is breaking apart,Los dos cerdos (presencian desconcertados que la casa) se deshace,DOS CERDO cl.e(1):PALOS-ascender,0 CERDO cl.e(1):PALOS-ascender
+118,159098,159543,(until there stands) an empty space.,(hasta quedar el espacio) vacío.,VACÍO,VACÍO
+119,159751,160663,(The two pigs desperately) run,(Los dos cerdos desesperados) corren,G(5):desesperación CORRER(5),G(5):desesperación CORRER(5)
+120,160680,161629,and flee.,(y) huyen.,cl.e(2):PERSONAS2-alejarse-suelo,cl.e(Bh):SUELO
+121,161836,162871,The wolf (stays) calm:,El lobo (está) tranquilo:,LOBO TRANQUILO,LOBO TRANQUILO
+122,162954,164263,"""Now for the last and third house (to fall) for sure.","""Ahora la última y tercera casa seguro (que cae) ",AHORA ÚLTIMO B.L(3) ES.SEGURO(1M),0 ÚLTIMO INDX:tercero B:INDX
+123,164272,165178,"The one made with bricks"".","esa de ladrillos"".",INDX CONSTRUIR MIRAR,0 CONSTRUIR 0
+124,165187,166270,The two (pigs) enter (the third house).,Los dos (cerdos) entran (en la tercera casa).,LOS-DOS DENTRO,0 DENTRO
+125,166510,167047,"""Brother brother!""","""¡Hermano hermano!""",AVISAR AVISAR,0 0
+126,167073,168099,"(The brother who was) building: ""What?""","(El hermano que estaba) construyendo: ""¿Qué?""",CONSTRUIR QUÉ,CONSTRUIR 0
+127,168376,168973,"""Brother","""Hermano",AVISAR,0
+128,169008,169513,Look.,mira,VER,0
+129,169579,173253,"The two houses of your two brothers his and mine have disappeared"" (they say nervously).","se han esfumado las dos casas de los dos hermanos la suya y la segunda la mía"" (le dice nervioso el cerdito).",HERMANO DOS INDX SEGUNDO PROPIO LOS-DOS HERMANO CASA DESAPARECER,HERMANO 0 0 0 0 0 HERMANO CASA DESAPARECER
+130,173332,174818,"because the wolf has blown"" (them said the pig nervously).","porque el lobo les ha soplado"" (dijo nervioso el  cerdo).",PORQUE LOBO SOPLAR(2M),PORQUE LOBO SOPLAR(2M)
+131,175397,176341,"The third (brother): ""I know","El tercer (hermano: ""Ya) sé",hhh B.L(3) SABER,0 INDX:tercero 0
+132,176355,178543,Calm down this  house is impossible (to break),(pero) tranquilos aquí (es) imposible,TRANQUILO INDX IMPOSIBLE(M-RE),TRANQUILO 0 IMPOSIBLE(M-RE)
+133,178594,179975,"The construction is solid"" (said the third pig).","la construcción es sólida"" (dijo el tercer cerdo).",CONSTRUIR PIEDRA,CONSTRUIR PIEDRA
+134,180215,181928,"""Are you sure?"" (asked) the brother.","""¿(Estás) seguro?""( le pregunta) el hermano.",INDX HERMANO ES.SEGURO(1M),0 HERMANO 0
+135,181978,182801,"""Do you know why?","""¿Tú sabes por qué?",MOTIVO INDX.PRO:2sg SABER,0 0 0
+136,182835,184777,I have worked for very long on this house,he trabajado durante tanto tiempo en (esta) construcción?,INDX.PRO:1sg TRABAJAR HORA CONSTRUIR,0 TRABAJAR HORA CONSTRUIR
+137,184825,185599,to (make the house) safe.,Para que (la casa sea) segura.,MOTIVO ES.SEGURO,0 ES.SEGURO
+138,185647,186303,Now it is finished,Ahora (está) acabada,AHORA LISTO,0 LISTO
+139,186331,187706,"Well almost finished"" (says the third pig).","(está) casí acabada la casa""( replica el tercer cerdo).",CASI cl.e:CASA LISTO,0 cl.e:CASA LISTO
+140,188444,190388,You (built) yours too fast - the two brothers- ,Por (ser) tan rápidos -los dos hermanos- ,MOTIVO INDX LOS-DOS HERMANO RÁPIDO,0 0 0 HERMANO RÁPIDO
+141,190403,191936,That is why (your homes are) weak.,por (eso sus casas son) débiles.,MOTIVO DÉBIL,0 DÉBIL
+142,192019,193376,"The two brothers (stay) silent: ""Aha","Los dos hermanos (se quedan) en silencio: ""Ajá",LOS-DOS HERMANO SILENCIO MIRA-TÚ,0 HERMANO 0 0
+143,193425,193951,Are you sure?,¿(estás) seguro?,ES.SEGURO(1M),0
+144,194034,194547,"(The wolf) is coming!""",Viene (el lobo),AHORA VENIR,0 0
+145,194562,195023,"(The wolf) is coming!""","viene (el lobo).""",AHORA VENIR,0 0
+146,195048,195856,The wolf comes nearer (quietly),El lobo se acerca,LOBO(1M) cl.c(B):pies-andar,0 cl.c(B):pies-anda
+147,195885,196800,"""There is the house","""(Ahí está) la casa",VER CASA,0 CASA
+148,196832,197555,How beautiful!,qué bonita,BONITO,B:CASA
+149,197576,198482,"It is a strong house"" (thought the wolf).","es una casa robusta""( piensa el lobo).",CASA(M-AB) DURO2,CASA(M-AB) DURO2
+150,198816,199433,It approaches (the house),Va (a la casa),cl.c(1):PATAS-andar,cl.c(1):PATAS-andar
+151,199447,199890,"""Hello” (says the wolf mockingly).","""hola""(se mofa el lobo.)",SALUDO,0
+152,199933,201296,The three pigs approach the window.,Los tres cerdos se aproximan a la ventana.,VENTANA cl.e(3):PERSONAS3-aproximarse,VENTANA B:VENTANA
+153,201340,203538,The two brothers are trembling with fear,Los dos hermanos tiemblan de miedo,DOS HERMANO G(1d):miedo cl.c(1):PATAS-temblar MIEDO cl.c(1):PATAS-temblar,0 HERMANO 0 cl.c(1):PATAS-temblar 0 cl.c(1):PATAS-temblar
+154,203555,204463,They both look at (the third brother).,miran (al tercer hermano) los dos.,MIRAR(2M) DOS,MIRAR(2M) 0
+155,204485,206283,"The last brother the third one says: ""Relax"".","El último hermano el tercero: ""Tranquilos.""",HERMANO ÚLTIMO(1M) B.L(3) TRANQUILO,HERMANO B:HERMANO INDX:tercero TRANQUILO
+156,206305,207625,Look through the window,Mira por la ventana impasible.,CARA TRANQUILO MIRAR,B:TRANQUILO TRANQUILO G:esperar
+157,207870,208907,"""I’m going to prepare myself wait"".","""(Me voy a) preparar esperad.""",AHORA PREPARAR(1M) AHORA cl.c(1):PATAS ESPERAR2,0 0 0 cl.c(1):PATAS B:cl.c(1):PATAS
+158,208933,210014,The wolf moves back.,El lobo retrocede,LOBO cl.c(1):PATAS-retroceder,LOBO cl.c(1):PATAS-retroceder
+159,210117,210745,It is ready,(ya está) preparado.,AHORA PREPARAR(1M),B:cl.c(1):PATAS-retroceder B:cl.c(1):PATAS-retroceder
+160,210770,211587,(The wolf) fills its lungs (with air),(El lobo) llena el pecho (de aire),"cl.d(5):pecho-hinchar
+","cl.d(5):pecho-hinchar
+"
+161,211613,212169,and blows.,y sopla.,SOPLAR(2M),SOPLAR(2M)
+162,212215,212677,The house does not move,La casa no se mueve,cl.e:CASA,cl.e:CASA
+163,212684,213032,It is solid.,es sólida,DURO,B:cl.e:CASA
+164,213042,213247,and does not move.,y no se mueve.,cl.e:CASA,B:cl.e:CASA
+165,213259,214580,There is no movement inside the house,(En) la casa (no hay) ningún movimiento,MISMO INDX cl.e:CASA-moverse NINGUNO,B:cl.e:CASA B:cl.e:CASA cl.e:CASA-moverse NINGUNO
+166,214649,215223,It stays upright.,(permanece) estable.,cl.e:CASA,cl.e:CASA
+167,215610,216567,"""I don't understand","""No lo entiendo",LOBO MENTE^APAGAR,LOBO MENTE^APAGAR
+168,216619,217443,"I('ll try) again"" (thinks the wolf).","(lo intentaré) otra vez"" (piensa el lobo).",OTRA-VEZ,OTRA-VEZ
+169,217448,218631,(The wolf) moves back.,(El lobo) retrocede,G:respirar cl.c(1):PATAS-retroceder,G:respirar cl.c(1):PATAS-retroceder
+170,218665,219418,breathes twice,respira el doble,RESPIRAR DOBLE,0 0
+171,219452,220180,until the lungs are full of air,llena el pecho de aire,"cl.d(5):pecho-hinchar
+","cl.d(5):pecho-hinchar
+"
+172,220231,220405,and blows.,(y) sopla,SOPLAR(2M),SOPLAR(2M)
+173,220422,220725,The mass of air impinges on the house.,la masa de aire incide sobre la casa.,"cl.d(5):aire-contra-casa
+","cl.d(5):aire-contra-casa
+"
+174,220733,221216,(The wolf) continues blowing,(El lobo) sopla,cl.d(5):flujo-aire,cl.d(5):suelo
+175,221265,222047,(but) the house (just) vibrates,(pero) la casa (apenas) vibra,cl.e:CASA-moverse,cl.e:CASA-moverse
+176,222057,223315, Nothing (happens), no (pasa nada).,cl.e:CASA,cl.e:CASA
+177,223533,224553,"""I'll try for the third time"" (thinks) the wolf.","""Soplaré por tercera vez""(piensa) el lobo.",LOBO B.L(3),LOBO INDX:tercero
+178,224596,225283,It breathes in once more,Una vez más respira,OTRA-VEZ RESPIRAR,OTRA-VEZ RESPIRAR
+179,225402,226039,and blows.,sopla,SOPLAR,0
+180,226059,227233,It turns red from the effort,se pone rojo del esfuerzo,INTENTAR ROJO RUBOR,INTENTAR B:INTENTAR B:INTENTAR
+181,227251,227632,and after blowing out all the air,(y) al acabársele el aire,cl.d(5):flujo-aire,B:INTENTAR
+182,227653,228810,its jaw gets dislocated.,se le desencaja la mandíbula.,CARA cl.e(Xa):MANDÍBULA-descender,0 0
+183,229874,230402,The house had not moved.,La casa no se había movido.,cl.e:CASA,cl.e:CASA
+184,230434,231327,"""How (can that be? thinks the unbelieving wolf).","""¿Cómo (puede ser? piensa incrédulo el lobo).",G:incredulidad CÓMO,G:incredulidad 0
+185,231387,232401,This is impossible,Es imposible,IMPOSIBLE hhh,IMPOSIBLE 0
+186,232522,233677,The house is solid.,la casa (es) sólida.,CASA PIEDRA,CASA PIEDRA
+187,233802,234963,(The wolf takes) a look (at the house),(El lobo echa) un vistazo (a la casa),G:concentración MIRAR,G:concentración 0
+188,234993,235904,and sees (something at the top).,(en la parte superior) ve (algo).,B:MIRAR MIRAR,0 0
+189,235988,236293,(The wolf has) an idea,(El lobo tiene) una idea,MENTE,0
+190,236360,237494,On the roof is a chimney,en el tejado hay una chimenea,CASA cl.d(B):chimenea-sobre-casa HABER,CASA cl.e:CASA B:cl.e:CASA
+191,237543,238175,that is billowing smoke.,que echa humo.,cl.d(5d):humo cl.e(5d):CHIMENEA,B:cl.e:CASA B:cl.e:CASA
+192,238229,239245,"""I will take advantage of the chimney"" (thinks the wolf).","""Aprovecharé la chimenea""( piensa el lobo).",INDX APROVECHAR,B:cl.e:CASA B:cl.e:CASA
+193,239278,240375,The wolf climbs on the roof.,El lobo sube al tejado trepando.,TREPAR cl.e(2d):PERSONA-ascender+a-casa,TREPAR cl.e:CASA
+194,240817,243102,"The three brothers... the two: ""Look Up Up Up Up!""","Los tres hermanos... los dos: ""¡MIra arriba arriba!""",VER TRES HERMANO hhh DOS VER INDX INDX,0 0 HERMANO 0 0 0 0 0
+195,243170,243974,"The (third brother): ""Relax","El (tercer hermano): ""Tranquilos",INDX TRANQUILO,0 TRANQUILO
+196,243992,244528,"Come.""","venid.""",VENIR2,0
+197,244710,246171,Lights a fire.,(El cerdo) pone una olla en la chimenea,cl.m(Xc):colocar-olla SABER COCINAR,cl.m(Xc):colocar-olla 0 COCINAR
+198,246179,248075,The wolf ignores (this),la olla la había llenado de agua,cl.d(5d):olla-grande AGUA cl.m(A):botella-echar-agua LLENAR,cl.d(5d):olla-grande B:cl.d(5d):olla-grande B:cl.d(5d):olla-grande B:cl.d(5d):olla-grande
+199,248098,249172,and climbs on the roof,(la pone) al fuego.,COCINAR,COCINAR
+200,250048,250711,and goes down the chimney,El lobo ignoraba (esto),LOBO MENTE^NORMAL,LOBO MENTE^NORMAL
+201,250806,251165,"(thinking): ""I will now go down easily through here"".",(y) sube al tejado,cl.e(2d):PERSONA-ascender+a-tejado,cl.e(B):TEJADO
+202,251189,251765,The wolf is at the mouth of the chimney,(y) se mete por la chimenea,cl.e(2d):PERSONA-entrar-chimenea,cl.e(C):CHIMENEA
+203,251826,252932,It begins to descend,"(mientras piensa:) ""Ahora descenderé fácilmente (por aquí)"".",FÁCIL cl.e(2b):LOBO-descender+por-chimenea,B:cl.e(C):CHIMENEA B:cl.e(C):CHIMENEA
+204,253082,253647,"and to get to the bottom... ""Burning hot!"" (shouts the wolf).",El lobo está en la boca de la chimenea,cl.e(2d):PERSONA-sobre-chimenea,B:cl.e(C):CHIMENEA
+205,253663,254137,and quickly goes up the fireplace,empieza a descender,G(5_2M):descender-por-interior-chimenea,G:descender-por-interior-chimenea
+206,254156,255640,and escapes steaming.,"(y) al llegar al fondo... ""¡Quema!"" (grita el lobo).",cl.e(2d):PERSONA-descender+por-chimenea LLAMA,cl.e(C):CHIMENEA B:cl.e(C):CHIMENEA
+207,255698,256717,"The third (brother): ""Are you guys OK?""",asciende (rápidamente) por la chimenea,cl.e(2d):PERSONA-ascender+por-chimenea,B:cl.e(C):CHIMENEA
+208,256743,257697,"The two men: ""were right ",(y) escapa humeante.,cl.e:HUMO-alejarse-localización,cl.e(B):LOCALIZACIÓN
+209,258071,259949,"the house is safe.""","El tercer (hermano): ""¿Ya (estáis) tranquilos?""",TRES YA VER TRANQUILO G,0 0 0 TRANQUILO 0
+210,259971,261663,End.,"Los dos hombres: ""(Tenías) razón ",HOMBRE DOS VERDAD,0 0 0

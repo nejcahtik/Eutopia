@@ -1,0 +1,15 @@
+segmentation/spanish_db/video/
+data_SSL/videos/
+data_SSL/videos_t/
+data_SSL/augmented_videos/
+data_SSL/augmented_videos_t/
+contrastive_learning/pose/
+sign_segmentation_katrina/
+mmskeleton/
+dgs_corpus/
+data_SSL/pose_landmarks/
+data_SSL/poses/
+data_SSL/poses_t/
+data_SSL/pose_landmarks/
+data/**
+!data/**/

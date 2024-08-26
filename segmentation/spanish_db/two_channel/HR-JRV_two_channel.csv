@@ -1,0 +1,95 @@
+ID,Start_time,End_time,English,Español,Dominant_Hand,Non_Dominant_Hand
+1,842,3720,[In the story there is] a child whose sign is this [hair-child],[En la historia hay] Un niño su signo es este [pelo-niño],HOMBRE PEQUEÑO2 SIGNO SN:NIÑO,0 0 0 0
+2,3752,6872,A dog whose sign is this [dog-ear],un perro su signo es este [oreja-de-perro],OTRO PERRO SIGNO SN:PERRO,0 0 0 0
+3,6911,9857,And a frog whose sign is this [sack-vowel-of-frog].,y una rana su signo es este [saco-vocal-de-rana].,OTRO ANIMAL RANA SIGNO SN:RANA,0 ANIMAL RANA 0 0
+4,10005,12087,The child (was in) his room,El niño (estaba en) su habitación,HABITACIÓN SU SN:NIÑO,HABITACIÓN SU 0
+5,12087,14650,(and it) was night,(y) era denoche,FECHA SITUACIÓN NOCHE,FECHA SITUACIÓN NOCHE
+6,14710,15881,(They were) in bed both of them,(Estaban) en cama los dos,CAMA LOS-DOS,CAMA B:CAMA
+7,15881,18059, with a glass jar (in which was) a frog [its sign], con un frasco de cristal (en el que estaba) la rana [su signo],CRISTAL cl.d(C):frasco INDX SN:RANA,0 cl.d(C):frasco cl.e(C):FRASCO B:cl.e(C):FRASCO
+8,18587,21658,The two (were) looking (at the jar),Los dos (estaban) mirando (el frasco),SN:NIÑO cl.e(1):PERSONA PERRO MIRAR(2M) MIRAR,B:cl.e(C):FRASCO B:cl.e(C):FRASCO B:cl.e(C):FRASCO MIRAR(2M) cl.e(C):FRASCO
+9,21684,24202,and the frog looked at (them),y la rana los miraba (a ellos),SN:RANA MIRAR SN:RANA,B:cl.e(C):FRASCO 0 0
+10,24229,27052,They got into bed and fell asleep. ,Se metieron en cama y se durmieron. ,MISMO HORA.RELOJ ACOSTARSE DORMIR(MP),0 HORA.RELOJ ACOSTARSE DORMIR(MP)
+11,27112,29339,The frog pulled itself out the mouth of the jar,La rana se asomó por la boca del frasco,INDX SN:RANA cl.e(2d):RANA-salir-frasco,0 0 cl.e(C):FRASCO
+12,29349,30281,stretched its legs to get out,estiró sus patas para salir de él,cl.c(X):PATAS-andar,cl.c(X):PATAS-andar
+13,30288,31662,and left.,y se fue.,ALEJARSE,0
+14,31678,34034,The child and the dog slept until sunrise,El niño y el perro durmieron hasta que salió el sol,INDX DORMIR(MP) HASTA DÍA,0 DORMIR(MP) HASTA DÍA
+15,34081,35446,They woke up with the frog in mind,Despertaron con la rana en mente,DESPERTAR MENTE^OBJETIVO SN:RANA,DESPERTAR MENTE^OBJETIVO B:MENTE^OBJETIVO
+16,35452,36196,(but) when they got up,(pero) al levantarse,G:niño-se-levanta,G:niño-se-levanta
+17,36203,37102,The glass jar was empty:,en el frasco de cristal no había nada:,"cl.d(C):frasco
+ CRISTAL DESAPARECER",cl.d(C):frasco 0 DESAPARECER
+18,37105,38170,"""How can that be?""","""¿Cómo puede ser?""",cl.e(C):FRASCO G:incomprensión MENTE-APAGADA,cl.e(C):FRASCO B:cl.e(C):FRASCO MENTE-APAGADA
+19,38433,42087,The dog [dog-ear] looked searched and rummaged everywhere,El perro [oreja-de-perro] miró buscó y rebuscó por todas partes,PERRO SN:PERRO MIRAR BUSCAR BUSCAR(2Msu) cl.e(1):PERRO-desplazarse BUSCAR(2Msu),B:MENTE-APAGADA B:MENTE-APAGADA B:MENTE-APAGADA B:MENTE-APAGADA BUSCAR(2Msu) cl.e(1):PERRO-desplazarse BUSCAR(2Msu)
+20,42105,43110,Looked under the bed and,pasó por debajo de cama e,CAMA cl.e(1):PERRO-desplazarse+bajo-cama,CAMA cl.e(1I):CAMA
+21,43129,45042,even looked inside a boot.,incluso miró en el interior de una bota.,HASTA BOTA cl.m(A):levantar-bota,HASTA BOTA cl.m(A):levantar-bota
+22,45139,46077,Where could it be?,¿Dónde estará?,BUSCAR(2Msu) G:interrogativo 0,BUSCAR(2Msu) 0 G:interrogativo
+23,46079,47233,They also called out to it (where could it be?),también la llamaron (¿dónde estará),MISMO LLAMAR G:interrogativo,B:G:interrogativo B:G:interrogativo G:interrogativo
+24,47260,49096,The boy opened the window,El niño abrió la ventana,VENTANA cl.e(L):VENTANA-ascender cl.m(A):subir-ventana,VENTANA cl.e(L):VENTANA-ascender cl.m(A):subir-ventana
+25,49110,50637,And he called out frog.,y llamó a gritos a la rana.,VENTANA GRITAR2 LLAMAR,VENTANA B:VENTANA B:VENTANA
+26,50798,53731,The dog who had his snout in the jar jumped out of the window.,El perro que había metido la cabeza en el frasco saltó por la ventana.,PERRO INDX cl.e(Hd):PERRO-entrar-frasco cl.e(C):FRASCO-descender cl.e(Q):CABEZA-salir-ventana,B:VENTANA B:VENTANA cl.e(B):FRASCO cl.e(C):FRASCO-descender cl.e(B):VENTANA
+27,53772,55530,The boy (who was) looking for (the frog) and calling (the frog) felt a (big) rumble.,El niño (estaba) buscando y llamando (a la rana) sintió un (gran) estruendo.,BUSCAR GRITAR2 SONIDO,B:cl.e(B):VENTANA B:cl.e(B):VENTANA B:cl.e(B):VENTANA
+28,55600,57201,"""It was the dog when it jumped out the window"" (he said) and (also) jumped out.","""Ha sido el perro al saltar por la ventana"" (se dijo) y bajó él (también).",cl.e(2d):PERRO-descender+de-ventana INDX cl.e(2d):PERRO-descender+de-ventana,B:cl.e(B):VENTANA B:cl.e(B):VENTANA B:cl.e(B):VENTANA
+29,57207,57978,Lifted the animal in his arms,Cogió en brazos al animal,cl.m(Bd):coger-perro,cl.m(Bd):coger-perro
+30,57984,58599,and it licked his face,y este le lamió la cara,cl.c(B):LENGUA-lamer,B:cl.m(Bd):coger-perro
+31,58610,59996,because the glass jar had shattered on the floor.,porque el cristal se había despedazado por el suelo.,MOTIVO CRISTAL GRIETA ROMPER cl.d(5h):esparcirse-añicos,B:cl.m(Bd):coger-perro B:cl.m(Bd):coger-perro B:cl.m(Bd):coger-perro ROMPER B:ROMPER
+32,60003,60373,He took it in his arms,Lo cogio en brazos,cl.m(Bd):coger-perro,cl.m(Bd):coger-perro
+33,60377,60972,and it licked his face,el perro le lamió la cara,cl.c(B):LENGUA-lamer,B:cl.m(Bd):coger-perro
+34,61014,61972,and they began to walk,y se pusieron a caminar,CAMINAR(MP),CAMINAR(MP)
+35,61986,63070,calling out to the frog.,llamando a la rana.,GRITAR2,B:CAMINAR(MP)
+36,63087,67530,(They arrived) to a forest with many trees and there was a wasp hive in one of them.,(Llegaron) a un bosque en el que (había) muchos árboles en uno de ellos pendía una colmena de avispas.,PAISAJE UNO ÁRBOL cl.d(5h):copas-árboles UNO ÁRBOL cl.e(Q):COLMENA-en-árbol HABER AVISPA,PAISAJE 0 ÁRBOL cl.d(5h):copas-árboles 0 ÁRBOL cl.e(5):ÁRBOL B:cl.e(5):ÁRBOL AVISPA
+37,68070,68714,The child called out (to the frog),El niño llamaba (a la rana),GRITAR2,0
+38,68724,70437,and the dog meanwhile was walking through the forest.,y el perro mientras andaba por el bosque.,SN:PERRO MIENTRAS cl.e(Hd):PERRO-desplazarse+de-suelo,0 0 cl.e(Bh):SUELO
+39,70444,71574,"""Frog! You Frog!""","""¡Rana! ¡Rana!""",GRITAR2,0
+40,71609,72185,searching among the grass it discovered something,Buscando entre la hierba descubrió algo,cl.m(5h):rebuscar-en+hierba INDX,cl.m(5h):rebuscar-en+hierba 0
+41,72211,75180,"A hidden burrow. It approached the burrow and called: Frog!""","una madriguera escondida. Se acercó llamó: ""¿Rana?""",cl.d(1):madriguera-forma cl.d(5):hierba-sobre-madriguera cl.d(1):madriguera-forma LLAMAR GRITAR2,cl.e(C):MADRIGUERA B:cl.e(C):MADRIGUERA B:cl.e(C):MADRIGUERA B:cl.e(C):MADRIGUERA B:cl.e(C):MADRIGUERA
+42,75255,77177,and from inside came out a smelly rodent.,y de su interior salió un roedor maloliente.,RATÓN G:repugnancia OLER^MAL-OLOR INDX RATÓN,B:cl.e(C):MADRIGUERA B:cl.e(C):MADRIGUERA B:cl.e(C):MADRIGUERA B:cl.e(C):MADRIGUERA B:cl.e(C):MADRIGUERA
+43,77203,81482,while the dog jumped trying to reach the hive.,Mientras el perro saltaba intentando alcanzar la colmena.,INDX MIENTRAS SN:PERRO cl.e(Hd):PERRO-saltar+sobre-suelo MENTE^OBJETIVO AVISPA cl.e(Hd):PERRO-saltar-localización,B:cl.e(C):MADRIGUERA B:cl.e(C):MADRIGUERA B:cl.e(C):MADRIGUERA cl.e(Bh):SUELO MENTE^OBJETIVO AVISPA cl.e(B):LOCALIZACIÓN
+44,81574,83101,The boy continued searching.,El niño seguía con la búsqueda.,SN:NIÑO CONTINUAR BUSCAR,0 CONTINUAR B:CONTINUAR
+45,83119,85145,There was a dark hole in a tree ,En un árbol había un agujero oscuro ,INDX ÁRBOL cl.d(1):hueco-forma OSCURO,B:CONTINUAR ÁRBOL cl.d(C):hueco-en-tronco OSCURO
+46,85172,85458,The boy,el niño,cl.m(5):apoyarse-en+tronco,cl.m(5):apoyarse-en+tronco
+47,85461,85954,climbed up,se subió,cl.e(2b):PERSONA-ascender+por-tronco,cl.e(B):TRONCO
+48,85973,86748,and looked inside.,y miró en su interior.,cl.m(5):apoyarse-en+tronco,cl.m(5):apoyarse-en+tronco
+49,86781,89393,An owl a nocturnal bird with large eyes flew out the hole and scared him,Del agujero salió un buho un ave nocturna de grandes ojos y lo asustó,ASUSTAR cl.e(Q):CABEZA+ANIMAL-ascender RAPAZ^VOLAR cl.d(Xa):ojos-grandes NOCHE,B:cl.m(5):apoyarse-en+tronco B:cl.m(5):apoyarse-en+tronco RAPAZ^VOLAR cl.d(Xa):ojos-grandes NOCHE
+50,89493,90479,The boy fell backwards.,El niño cayó hacia atrás.,cl.e(2d):PERSONA-caer+de-tronco cl.e(2b):PERSONA-caer-suelo,cl.e(Bh):TRONCO cl.e(Bh):SUELO
+51,90484,94364,at that moment the dog was chased by a swarm of wasps,En ese momento el perro era perseguido por un enjambre de avispas,INDX MISMO HORA.RELOJ INDX SN:PERRO cl.d(Cc&amp;gt;5):perro-huir AVISPA(1M) cl.d(5):enjambre-desplazarse,0 0 HORA.RELOJ B:HORA.RELOJ B:HORA.RELOJ B:HORA.RELOJ B:HORA.RELOJ cl.d(5):enjambre-desplazarse
+52,94430,96064,and the dog ran away.,y el perro se alejó corriendo.,SN:PERRO cl.c(B):garras-correr ALEJARSE,0 cl.c(B):garras-correr 0
+53,96114,97006,"""Complicated"" (thought) the child which had fallen","""Qué complicado"" (pensó) el niño que había caído",cl.e(2d):PERSONA-caer-suelo COMPLICADO,cl.e(Bh):SUELO COMPLICADO
+54,97018,97544,They continued on their way,(Siguieron) caminando,CAMINAR(MP),CAMINAR(MP)
+55,97553,98617,searching,y buscando,BUSCAR(2Msu),BUSCAR(2Msu)
+56,98955,100959,The child climbed up on a stone,El niño se subió a una piedra,INDX PIEDRA cl.d(5d):piedra 0 cl.e(2d):PERSONA-ascender+a-piedra,0 PIEDRA 0 cl.d(5d):piedra cl.e(5d):PIEDRA
+57,100979,103133,behind which were some branches.,detrás de la que había una especie de ramas.,hhh cl.d(1):ramas,hhh cl.d(1):ramas
+58,103145,105162,He touched them and they began to move.,Al agarrarse a ellas (notó) que se movían.,cl.m(5&amp;gt;A):agarrar-ramas MOVER cl.m(A):agarrar-ramas,cl.m(5&amp;gt;A):agarrar-ramas MOVER cl.m(A):agarrar-ramas
+59,105192,106809,He was standing on something that was also moving (without knowing what it was),Montó sus piernas en algo que también se movía (sin saber de qué se trataba),cl.e(2b):PERSONA-sobre-entidad cl.m(A):agarrar-ramas G:¿Qué es?,cl.e(1):ENTIDAD cl.m(A):agarrar-ramas B:cl.m(A):agarrar-ramas
+60,106818,107769,and when he was relaxed an animal emerged.,y en un momento en el que se relajó emergió un animal.,G:niño-relajarse cl.e(2b):PERSONA-sobre-entidad,G:niño-relajarse cl.e(1):ENTIDAD-ascender
+61,107782,108927,What a fright! it was a deer,Qué susto ¡era un ciervo,ASUSTAR(2M) cl.d(4):cornamenta-forma,ASUSTAR(2M) cl.d(4):cornamenta-forma
+62,108937,109740,and he had stood on its back!,y él estaba en su lomo!,cl.e(1):PERSONA-sobre-ciervo G:estupefacción,cl.m(A):agarrar-cuernos B:cl.m(A):agarrar-cuernos
+63,109756,111195,I could not understand how (this was possible),No podía comprender cómo (era posible),SN:NIÑO MENTE^APAGAR cl.m(A):agarrar-cuernos MOTIVO cl.m(A):agarrar-cuernos,B:cl.m(A):agarrar-cuernos MENTE^APAGAR cl.m(A):agarrar-cuernos B:cl.m(A):agarrar-cuernos cl.m(A):agarrar-cuernos
+64,111286,112177,The dog barked,El perro ladraba,PERRO LADRAR(MP),B:cl.m(A):agarrar-cuernos LADRAR(MP)
+65,112382,113706,while the child galloped on the back of the deer,mientras el niño galopaba a lomos del ciervo,SN:NIÑO cl.e(2d):PERSONA-botar-ciervo cl.c(A):pezuñas-correr,0 cl.e(Bh):CIERVO cl.c(A):pezuñas-correr
+66,113757,114746,at full speed,a toda velocidad,cl.m(A):agarrar-cuernos,cl.m(A):agarrar-cuernos
+67,114755,115579,until the ruminant stopped,hasta que el rumiante paró,cl.m(A):agarrar-cuernos,cl.m(A):agarrar-cuernos
+68,115598,116433,and the boy flew out.,y salió despedido.,cl.e(2b):PERSONA-caer+de-ciervo,cl.e(Bh):CIERVO
+69,116667,118148,The dog which was barking was likewise thrown,El can ladrando salió igualmente despedido,PERRO LADRAR cl.e(2d):PERRO-caer,B:cl.e(Bh):CIERVO B:cl.e(Bh):CIERVO cl.e(Bh):CIERVO
+70,118155,120160,The two rushed,Los dos se precipitaron,LOS-DOS cl.e(2d):PERSONA-caer-con+perro,B:cl.e(Bh):CIERVO cl.e(2d):PERRO-caer-con+persona
+71,120207,121914,and fell into the water.,y cayeron al agua.,"AGUA cl.e(2d):PERSONA-caer-con+perro cl.d(A&amp;gt;5):onda-acuática
+",B:cl.e(2d):PERRO-caer-con+persona cl.e(2d):PERRO-caer-con+persona cl.d(5h):onda-acuática
+72,121919,124050,"When in the water (he said) ""What a fright!""","Ya en el agua (se dijo) ""¡Qué susto!""",AGUA cl.d(5):agua-superficie ASUSTAR G:alivio,B:cl.d(5h):onda-acuática cl.d(5):agua-superficie B:cl.d(5):agua-superficie B:cl.d(5):agua-superficie
+73,124331,125777,The dog barks,El perro jadeando...,PERRO G:perro,B:B:cl.d(5):agua-superficie G:perro
+74,125807,129288,"""Shh! I've heard the frog it is there."" ","""¡Shh! He oído a la rana está aí."" ",ESCUCHAR INDX G:pausa SILENCIO ESCUCHAR HABER SN:RANA INDX,B:G:perro G:pausa B:G:pausa B:G:pausa B:G:pausa B:G:pausa B:G:pausa B:G:pausa
+75,129307,129826,He placed his hands (on the ground),Apoyó sus manos,cl.m(5):apoyarse-árbol,cl.m(5):apoyarse-árbol
+76,130084,132374,There was a fallen tree,había un árbol caído,ÁRBOL EMPUJAR cl.e(1):ÁRBOL-caído,ÁRBOL EMPUJAR cl.e(Bh):SUELO
+77,132875,133575,He placed his hands,apoyó sus manos,SN:NIÑO cl.m(5):apoyarse-en+tronco,0 cl.m(5):apoyarse-en+tronco
+78,133581,134267,and he peered over the top.,y se asomó por encima.,cl.e(2d):PERSONA-ascender+a-tronco,cl.e(Bh):TRONCO
+79,134277,136237,The dog also peered,El perro también se asomó,TAMBIÉN SN:PERRO cl.e(2d):PERRO-ascender+a-tronco,B:cl.e(Bh):TRONCO B:cl.e(Bh):TRONCO cl.e(Bh):TRONCO
+80,136242,137189,supporting its feet on the trunk.,apoyando sus patas en el tronco.,cl.m(Bd):apoyarse-en+tronco,cl.m(Bd):apoyarse-en+tronco
+81,137198,137524,The child searched for the frog from there.,Desde allí el niño buscó la rana.,cl.e(2d):PERSONA-asomarse,B:cl.m(Bd):apoyarse-en+tronco
+82,137534,140409,"""Oh!"" Amazing! The two our frog and another they are a couple are wedded.","""¡Oh!"" ¡Asombroso! Las dos nuestra rana y otra son pareja son novias.",INDX MENTE-APAGADA(1M) LOS-DOS SN:RANA LOS-DOS PAREJA NOVIO,B:cl.m(Bd):apoyarse-en+tronco B:cl.m(Bd):apoyarse-en+tronco B::cl.m(Bd):apoyarse-en+tronco 0 0 0 NOVIO
+83,140414,141227,Surprising.,Sorprendente.,G:sorpresa MENTE-APAGADA(1M),G:sorpresa 0
+84,141253,142315,"How beautiful!""","Qué bonito.""",INDX BONITO2,cl.m(5d):apoyarse-en+tronco 0
+85,142320,144964,Incredible (they have had) many offspring,Increíble (han tenido) muchas crías,SORPRESA NACER cl.e(5):RANAS-fila MENTE-APAGADA,SORPRESA NACER cl.e(5):RANAS-fila MENTE-APAGADA
+86,144979,146130,(All) jumping.,(Todas) dando saltos.,cl.e(Hd):RANAS-saltar RANA,cl.e(Hd):RANAS-saltar 0
+87,146133,147122,"""Beautiful.""","""Qué hermoso.""",G:niño-observa BONITO,cl.m(5):apoyarse-en+tronco B:cl.m(5):apoyarse-en+tronco
+88,147133,148986,The boy picked his frog in his hand ,El niño cogió su rana en mano ,INDX cl.m(5d):coger-rana INDX cl.m(5d):coger-rana,B:cl.m(5):apoyarse-en+tronco cl.m(5d):coger-rana B:cl.m(5d):coger-rana cl.m(5d):coger-rana
+89,148989,149879,and was walking away (but),y se alejaba (pero),ALEJARSE G:cambio-de-parecer,cl.m(5d):agarrar-rana B:cl.m(5d):agarrar-rana
+90,149886,151510,he returned again,volvió de nuevo,INDX OTRA-VEZ VOLVER,B:cl.m(5d):agarrar-rana OTRA-VEZ VOLVER
+91,151514,152797,returned the frog,devolvió la rana,DAR(2M),DAR(2M)
+92,152904,153968,and said goodbye.,y (les) dijo adiós.,DECIR SALUDO,B:DAR(2M) B:DAR(2M)

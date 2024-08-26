@@ -1,0 +1,90 @@
+ID,Start_time,End_time,English,Español,Dominant_Hand,Non_Dominant_Hand
+1,422,4333,Once upon a time (there was) a boy in bed.,Una vez (estaba) un niño en su cama.,PASADO HOMBRE PEQUEÑO2 DÓNDE CAMA SU,0 0 0 0 CAMA SU
+2,4402,7698,What (was he doing)? Looking at a jar.,¿Cómo (estaba)? Contemplando un frasco.,CÓMO MIRAR(MP) cl.d(5d):frasco,0 MIRAR(MP) cl.d(5d):frasco
+3,7713,9514,Next to him (was) his dog.,Al lado (estaba) su perro.,TAMBIÉN AL-LADO PERRO,0 0 0
+4,9551,11701,This boy was in bed,Este niño estaba en la cama,INDX HOMBRE QUEDAR CAMA,0 0 QUEDAR CAMA
+5,11720,12298,covered with a blanket,se tapó con la manta,MANTA,MANTA
+6,12304,13302,and fell asleep.,y se durmió.,DORMIR,B:MANTA
+7,13312,16104,in front of him (was) a jar with a frog (inside).,Enfrente (había) un frasco con una rana.,cl.e(1):LOCALIZACIÓN cl.d(5d):frasco RANA(M-DE),B:MANTA cl.d(5d):frasco RANA(M-DE)
+8,16449,23913,Then in the morning the boy sat at the foot of the bed looked at the jar...,Después por la mañana el niño se volvió a los pies de la cama miró el frasco...,DESPUÉS DÍA CAMA HOMBRE MIRAR- cl.e(2b):PERSONA-acostada-cama MIRAR cl.d(5d):frasco-forma,0 DÍA CAMA B:CAMA 0 cl.e(Bh):CAMA B:cl.e(Bh):CAMA cl.d(5d):frasco-forma
+9,23929,27644,"""incredible the frog had disappeared"" (thought the boy).","""Increíble ha desaparecido la rana no está"" (pensó el niño).",MENTE^APAGAR DESAPARECER HABER-NO RANA(M-DE),MENTE^APAGAR DESAPARECER B:DESAPARECER RANA(M-DE)
+10,30846,35511,The boy and the dog searched all over,El niño y el perro buscaron (y buscaron).,HOMBRE PEQUEÑO2 PERRO BUSCAR(2Msu),0 0 0 BUSCAR(2Msu)
+11,35519,38750,The frog had disappeared from the jar.,La rana había desaparecido del frasco en el que estaba.,"cl.d(5d):frasco
+ PASADO LO-DE-ANTES DENTRO RANA(M-DE) DESAPARECER","cl.d(5d):frasco
+ B:cl.d(5d):frasco B:cl.d(5d):frasco B:cl.d(5d):frasco RANA(M-DE) DESAPARECER"
+12,38760,40645,They looked for it everywhere,Buscaron.,BUSCAR(2Msu),BUSCAR(2Msu)
+13,40657,42385,They looked through the window,Miraron por la ventana,VENTANA MIRAR,VENTANA B:VENTANA
+14,42400,46633,The dog sniffed at the jar,el perro con el hocico metido en el frasco.,"PERRO CÓMO cl.d(5d):frasco
+ cl.e(C):FRASCO-en-cabeza","B:VENTANA B:VENTANA cl.d(5d):frasco
+ cl.e(C):FRASCO-en-cabeza"
+15,49290,51009,The boy did not trust (the dog): ,El niño desconfió (del perro): ,HOMBRE PEQUEÑO2 DESCONFIAR,0 0 0
+16,51017,53389,"""It (must have been) you you dog you.","""(Has sido) tú perro tú.",INDX.PRO:2sg PERRO INDX.PRO:2sg,0 0 0
+17,53401,55681," You took the jar."""," tú has cogido del frasco.""",G:abrazar-frasco INDX.PRO:2sg COGER,G:abrazar-frasco B:G:abrazar-frasco B:G:abrazar-frasco
+18,56637,59611,At last! The boy and the dog began to walk,¡En fin! El niño y el perro echaron a andar...,G:qué-se-le-va-a-hacer HOMBRE PEQUEÑO2 PERRO CAMINAR(MP),G:qué-se-le-va-a-hacer 0 0 0 CAMINAR(MP)
+19,59622,61763,Wait wait.,Espera espera... ,B:CAMINAR(MP),ESPERAR2
+20,61770,64455,They walked through the forest ,Caminaron por el bosque ,CAMINAR(MP) MIRAR- cl.e(5):ÁRBOL-aproximarse,CAMINAR(MP) 0 cl.e(5):ÁRBOL-aproximarse
+21,64470,65681,Looking for (the frog).,buscando (la rana).,BUSCAR(2Msu),BUSCAR(2Msu)
+22,65742,67775,"(The boy called out) ""Frog!""","(El niño voceaba:) ""¡Rana!""",VOCEAR(2M) RANA(M-DE) NOMBRE,VOCEAR(2M) RANA(M-DE) NOMBRE
+23,67782,69121,and loudly,gritaba,GRITAR(2M),GRITAR(2M)
+24,69130,70328,"""Come come!""","""¡ven ven!""",VENIR2 VENIR2,0 0
+25,71095,72231,What can we do!,¡Qué se le va a hacer!,G:qué-se-le-va-a-hacer,G:qué-se-le-va-a-hacer
+26,72481,76254,the boy continued searching (he looked) inside a burrow.,Después el niño siguió buscando( miró) en una madriguera.,DESPUÉS HOMBRE PEQUEÑO2 CONTINUAR BUSCAR(2Msu) cl.d(1):madriguera-forma,0 0 0 CONTINUAR BUSCAR(2Msu) cl.e(C):MADRIGUERA-localización
+27,76283,77665,But with no luck.,Buscaba sin resultado.,BUSCAR(2Msu) CONSEGUIR-NO,BUSCAR(2Msu) CONSEGUIR-NO
+28,77694,83486,The dog saw a hive in a tree.,El perro vio una colmena en un árbol.,PERRO MIRAR(MP) ÁRBOL QUÉ cl.d(5d):forma-colmena ES.ASÍ ABEJA COLMENA2,0 MIRAR(MP) ÁRBOL B:ÁRBOL cl.d(5d):forma-colmena ES.ASÍ 0 0
+29,83507,86352,upright on its hind legs he played (with it).,Erguido sobre las patas traseras jugaba (con ella).,TREPAR JUGAR TREPAR PERRO,TREPAR JUGAR TREPAR 0
+30,88510,91891,The boy continued the search (through the forest).,El niño prosiguió la búsqueda (por el bosque).,HOMBRE cl.e(2d):PERSONA-desplazarse CONTINUAR BUSCAR(2Msu),0 0 CONTINUAR BUSCAR(2Msu)
+31,91914,95192,went around a wide tree trunk at its bottom,Rodeó un árbol de tronco ancho en su parte inferior,cl.d(5h):forma-árbol ÁRBOL 0 cl.e(2d):PERSONA-rodear-árbol,cl.d(5h):forma-árbol 0 ÁRBOL B:ÁRBOL
+32,95208,97272,Looked inside the space between the branches,exploró el interior de un hueco (que había entre sus) ramas,cl.e(1):RAMA SEPARAR MIRAR MIRAR MIRAR,cl.e(1):RAMA SEPARAR B:SEPARAR 0 0
+33,97272,98904,but nothing,pero no la encontró,CONSEGUIR-NO,CONSEGUIR-NO
+34,100147,108583,Later in that tree (do you know what happened wit)h the dog and the bee hive? a swarm began to emerge from the hive.,Después en aquel árbol (¿sabes que pasó con) el perro y la colmena de abejas? (De la colmena) empezó a salir un enjambre.,DESPUÉS INDX.DEM ÁRBOL YA LO-DE-ANTES PERRO INDX.DEM COLMENA COLMENA2 ABEJA CÓMO cl.e(A):ENJAMBRE-en-colmena cl.d(5h):enjambre-desplazarse,0 0 ÁRBOL 0 0 0 0 COLMENA B:COLMENA 0 0 cl.e(C):COLMENA cl.d(5h):enjambre-desplazarse
+35,108597,109588,The bees were flying (towards the dog),Las abejas volaban (hacia el perro),"ABEJA cl.d(5h):enjambre-perseguir-perro
+",0 cl.d(5h):enjambre-perseguir-perro
+36,109600,111177,and the dog ran (desperately),y el perro corría (desesperado),PERRO cl.c(1):PATAS-correr,B:cl.d(5h):enjambre-perseguir-perro cl.c(1):PATAS-correr
+37,111204,113715,The swarm went away (chasing the dog).,el enjambre se alejó (persiguiendo al perro).,ABEJA cl.d(5h):enjambre-desplazarse,0 cl.d(5h):enjambre-desplazarse
+38,116092,118349,A bird appeared above the boy. ,Sobre el niño apareció un ave. ,HOMBRE PERSONA B:PERSONA,0 0 cl.d(5h):ave-sobre-niño
+39,118357,119488,(The boy) was searching in a stone,(El niño) buscaba en una piedra,cl.d(5h):forma-piedra BUSCAR(2Msu),cl.d(5h):forma-piedra BUSCAR(2Msu)
+40,119510,121196,and the bird was flying (above him).,y el pájaro volaba (encima de él).,PICO VOLAR,PICO VOLAR
+41,121300,122026,(The boy) looked up,(El niño) miró hacia arriba,MIRAR,0
+42,122093,123553,It was an owl.,era un búho.,RAPAZ^VOLAR,RAPAZ^VOLAR
+43,123594,124893,(The boy) looks at it (surprised),(el niño) lo miró (extrañado).,MIRAR,0
+44,126403,129124,The boy climbed on to an oblong stone,El niño se subió a una piedra oblonga,cl.d(5h):forma-piedra PIEDRA HOMBRE PEQUEÑO2 cl.e(2b):PERSONA-ascender+a-piedra,cl.d(5h):forma-piedra PIEDRA 0 0 cl.e(Bh):PIEDRA
+45,129201,131947,and continued as before calling (to the frog):,y siguió igual que antes llamando a gritos (a la rana):,GRITAR(2Msu) LLAMAR MISMO CONTINUAR,GRITAR(2Msu) 0 0 CONTINUAR
+46,131959,132962,"""Frog where are you?""","""Rana ¿dónde (estás)?""",RANA(M-DE) DÓNDE,RANA(M-DE) 0
+47,132965,134202,and loudly,gritaba.,GRITAR,0
+48,135006,142958,What (happened) after that? (There appeared) a deer and the boy climbed onto the deer’s back.,¿Después qué (pasó)? (Apareció) un ciervo y se montó en el el niño se subió a lomos de él.,DESPUÉS QUÉ CIERVO cl.e(2b):PERSONA-montar-ciervo HOMBRE cl.e(2b):PERSONA-montar-ciervo,0 0 CIERVO cl.e(Xa):CIERVO Bcl.e(Xa):CIERVO cl.e(Xa):CIERVO
+49,142968,146383,(Do you know) how? The boy [lay] with his back on the deer,¿(Sabes) cómo? El niño [estaba] de espaldas sobre el ciervo,hhh CIERVO CÓMO HOMBRE cl.e(2b):PERSONA-sobre-ciervo,0 CIERVO cl.e(Bh):CIERVO R:cl.e(Bh):CIERVO R:cl.e(Bh):CIERVO
+50,146392,148857,and the deer began running with the boy on top of it.,y el ciervo empezó a cabalgar con el niño a cuestas.,cl.e(2b):PERSONA-sobre-ciervo,cl.e(Bh):CIERVO-correr
+51,149143,150912,the deer slipped,Después el ciervo se tambaleó,DESPUÉS CIERVO G:ciervo-tambaleándose,0 CIERVO G:ciervo-tambaleándose
+52,150928,154169,the boy was thrown to the ground,el niño salió despedido,cl.e(2b):PERSONA-caer+de-ciervo HOMBRE PEQUEÑO,cl.e(Bh):CIERVO 0 PEQUEÑO
+53,155261,160594,and fell into a puddle of water.,y cayó en un charco de agua.,DÓNDE AGUA cl.d(1):charco-forma cl.e(2b):PERSONA-caer-charco,0 0 cl.d(1):charco-forma cl.e(Bh):CHARCO
+54,165397,169227,(The boy) pulled his head out of the water,Después (el niño) sacó la cabeza fuera del agua,DESPUÉS BEBER cl.e(1):PERSONA cl.e(A):CABEZA-descender+ascender,0 0 0 0
+55,169246,171770,with the dog on his neck,con el perro en el pescuezo,PERRO cl.e(2b):PERRO-caer-nuca,0 0
+56,171778,174108,smiling and staring into the distance.,sonriente y con la mirada perdida.,MIRAR SONREÍR,0 SONREÍR
+57,175312,176296,"""Dog look...""","""Perro mira...""",PERRO MIRAR-,0 0
+58,176299,177581,The boy said (to the dog):,El niño le dijo (al perro):,HOMBRE PEQUEÑO2 RESPONDER,0 0 RESPONDER
+59,177597,179022,"""Dog silence wait...""","""Perro silencio espera...",PERRO SILENCIO SILENCIO,0 0 ESPERAR2
+60,179038,180729,Behind the tree trunk,Detrás del tronco,cl.d(C):tronco-forma INDX,cl.d(C):tronco-forma B:cl.d(C):tronco-forma
+61,180749,182605,"Wait shh!""","espera ¡shh!""",ESPERAR2 SILENCIO,0 0
+62,183301,186826,The boy climbed up the trunk,El niño subió al tronco,ÁRBOL cl.d(5d):tronco-forma HOMBRE cl.e(2b):PERSONA-sobre-tronco,ÁRBOL cl.d(5d):tronco-forma 0 cl.e(Bh):TRONCO
+63,186829,188519,he peered to look (behind the trunk).,se asómó para mirar (detrás del tronco).,cl.m(4d):apoyarse-tronco MIRAR,cl.m(4d):apoyarse-tronco B:cl.m(4d):apoyarse-tronco
+64,190586,191125,"""Shh!","""¡Shh!",SILENCIO,0
+65,191129,191749,Let me see,A ver,VER,0
+66,191781,192644,Dog wait,perro espera,PERRO ESPERAR2,0 0
+67,192654,193157,"I'm going to look.""","voy a mirar.""",VER,0
+68,193168,194373,(The boy) got nearer.,(El niño) se asomó,cl.m(4d):apoyarse-tronco,cl.m(4d):apoyarse-tronco
+69,194378,196300,The dog also approached,el perro se asomó,PERRO cl.e(Qa):CABEZA+PERRO-asomarse,B:cl.m(4d):apoyarse-tronco B:cl.m(4d):apoyarse-tronco
+70,196324,197876,"and they both looked. ""Geez.""","y miraron. ""Caray.""",MIRAR MIRA-TÚ,B:cl.m(4d):apoyarse-tronco 0
+71,197938,198795,(From the bottom someone asked) what is up there?,(Desde abajo se preguntaron) ¿Qué es eso (de ahí arriba)?,INDX QUÉ,0 0
+72,198822,199860,(from the top someone asked) what is down there?,(Desde arriba se preguntaron) ¿Qué es eso (de ahí abajo)?,INDX QUÉ 0,INDX 0 B:INDX
+73,199903,202862,(There were) two frogs together with their heads stuck together.,(Eran) dos ranas juntas con sus cabecitas pegadas.,RANA(M-DE) DOS CON cl.e(A):CABEZA+RANA-aproximada-cabeza+rana,RANA(M-DE) 0 CON cl.e(A):CABEZA+RANA-aproximada-cabeza+rana
+74,204731,206882,The boy and the dog rejoiced,El niño y el perro se alegraron,HOMBRE PEQUEÑO2 PERRO CONTENTO,0 0 0 0
+75,206903,207753,And they sat on the trunk,y se sentaron en el tronco,cl.d(C):tronco-forma SENTAR,cl.d(C):tronco-forma SENTAR
+76,207757,210045,to contemplate and admire (that scene).,a contemplar y admirar (aquella escena).,MIRAR ADMIRAR,0 0
+77,212490,213728,The boy (said to the dog):,El niño (le dijo al perro):,HOMBRE,0
+78,213761,215540,"""Dog come on ","""Perro vamos ",PERRO VENIR2,0 0
+79,215567,217764,(They have) progeny (It is) their family,(tienen) hijos (es) su familia,HIJO FAMILIA SU,HIJO FAMILIA SU
+80,217770,218212,"Let them alone.""","dejémoslos.""",G:déjalo,G:déjalo
+81,218217,221945,The boy and the dog said goodbye,El niño y el perro se despidieron.,HOMBRE PERSONA PEQUEÑO PERRO SALUDO,0 0 PEQUEÑO 0 0
+82,221951,224031,The frog saw (them leave),La rana viendo (como se marchaban),RANA(M-DE) MIRAR(MP),RANA(M-DE) MIRAR(MP)
+83,224041,224628,and said goodbye.,se despidió.,SALUDO,0
+84,226156,227064,and the story ends.,Acabé.,G:acabar,G:acabar

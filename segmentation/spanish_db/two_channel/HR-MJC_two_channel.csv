@@ -1,0 +1,157 @@
+ID,Start_time,End_time,English,Español,Dominant_Hand,Non_Dominant_Hand
+1,256,1266,Can we start?,¿Empezamos?,EMPEZAR,EMPEZAR
+2,1496,2316,Do you want me to?,¿Quieres,QUERER,0
+3,2316,4526,Tell you a past story?,(que te) cuente (una) historia pasada?,INFORMAR PASADO(2Msu) HISTORIA,INFORMAR PASADO(2Msu) HISTORIA
+4,4526,7346,A child whose sign is this,Un niño (su signo es) éste,INDX HOMBRE PERSONA SN:niño,0 0 0 0
+5,7346,9296,A frog whose sign is this,(una) rana (su) signo (es) éste,RANA SIGNO SN:rana,RANA 0 0
+6,9296,11706,And a dog whose sign is this,(y un) perro (su signo es) éste.,PERRO SN:perro,0 0
+7,12016,15806,Then the child [with this sign] is facing the frog [whose sign is],Entonces el niño [su signo] (está) mirando la rana [su signo],ENTONCES HOMBRE PEQUEÑO2 SN:niño MIRAR RANA SN:rana,ENTONCES 0 0 0 0 RANA 0
+8,15806,17406,which is in a glass jar,(que está) dentro de un frasco de cristal,DENTRO CRISTAL2 cl.d(B):frasco-forma,DENTRO 0 cl.d(B):frasco-forma
+9,17406,19186,The dog (which is near) is also looking,El perro (al lado también está) mirando,PERRO SN:perro MIRAR,0 0 0
+10,19196,20136,and playing (with the frog),(y) jugando (con la rana),JUGAR,JUGAR
+11,20136,21256,the bed is behind them,(tiene) la cama detrás,CAMA cl.e:CAMA-localización,CAMA cl.e:CAMA-localización
+12,21256,22646,and playing (with the frog),(está) jugando (con la rana).,JUGAR,JUGAR
+13,22806,23536,It is night,(Es) de noche,NOCHE,NOCHE
+14,23536,26230,There is a glass window in front,hay enfrente unha ventana de cristales,VENTANA MIRAR cl.d(4):ventana-forma,VENTANA 0 cl.d(4):ventana-forma
+15,26230,26905,that is open,que está abierta,cl.e(B):VENTANA-ascender,cl.e(Bh):VENTANA
+16,26905,28780,(and one can see) the sun set,(y se ve) el sol caer,ANOCHECER,ANOCHECER
+17,28836,31006,The boy has gone to bed,El niño se ha metido en cama,HOMBRE PEQUEÑO2 ACOSTARSE,0 0 ACOSTARSE
+18,31006,32676,and the dog (sleeps) at the foot of the bed,(y) el perro (duerme) a los pies de la cama,PERRO cl.e(2d):PERRO-sobre-cama,B:ACOSTARSE cl.e(Bh):CAMA
+19,32736,34706,The sun has risen,Ha salido el sol,YA AMANECER SOL,0 AMANECER 0
+20,34846,35890,(The child goes to) see (the frog),(El niño se dirige a) ver (la rana),MIRAR,0
+21,35890,37946,(But) the frog has disappeared,(pero) la rana ha desaparecido,PERRO- RANA DESAPARECER,0 RANA DESAPARECER
+22,37986,40596,"(The child asks) ""Where is it?""","(El niño) ""¿Dónde (está)?""",MIRAR DÓNDE G(5)(2M):interrogativo,B:DESAPARECER 0 G(5)(2M):interrogativo
+23,40596,41837,(The child begins to) worry ,(El niño empieza a) preocuparse,PROBLEMA,PROBLEMA
+24,41956,44916,(That) the frog would bite her at night ,La rana antes por la noche pícara ella,RANA ANTES2 NOCHE G(X)(2M):maquinación,RANA ANTES2 NOCHE G(X)(2M):maquinación
+25,44916,46996,(since) the bottle (it was in) had no lid on it,(como) el frasco de cristal (en el que estaba) no tenía tapa,CRISTAL2 cl.d(B):forma-frasco cl.m(5d):abrir-tapa NADA(1M),0 cl.d(B):forma-frasco B:cl.d(B):forma-frasco B:cl.d(B):forma-frasco
+26,46996,47776,The frog looked out,se asomó,cl.e(2d):asomarse-frasco,cl.e(B):FRASCO
+27,47776,48276,stretched a leg to the ground,estiró una anca hasta el suelo,cl.c(X):PATA-estirar,cl.c(X):PATA
+28,48276,49096,And walked stealthily,caminó sigilosa,cl.c(X):PATAS-andar,cl.c(X):PATAS-andar
+29,49096,49696,and disappeared.,(y) desapareció.,DESAPARECER(1M),0
+30,49806,51178,Then what is the matter?,Entonces ¿cuál (es) la cuestión?,ENTONCES PROBLEMA QUÉ,ENTONCES PROBLEMA 0
+31,51178,53537,The child is looking for it,El niño busca dónde está,SN:niño BUSCAR(2Msu) DÓNDE,0 BUSCAR(2Msu) 0
+32,53537,54079,looking for it,busca,BUSCAR(2Msu),BUSCAR(2Msu)
+33,54079,54997,He calls out (to it),(la) llama,GRITAR2,0
+34,54997,55422,looking for it,busca...,BUSCAR(2Msu),BUSCAR(2Msu)
+35,55546,56486,The dog sniffs the jar,El perro se mete en el frasco,PERRO MIRAR- cl.e(2d):PERRO-entrar-frasco,0 0 cl.e(B):FRASCO
+36,56496,57071,to smell it,(para) olerlo,OLER2,B:cl.e(B):FRASCO
+37,57071,57679,It is sniffing the jar ,está oliendo el frasco,cl.e(2d):PERRO+FRASCO-desplazarse,cl.e(B):PERRO+FRASCO-desplazarse
+38,57679,58320,and it is stuck,y se le queda atorado,cl.e(C):FRASCO-en-cabeza,cl.e(C):FRASCO-en-cabeza
+39,58320,59219,with its snout inside,con la cabeza dentro,cl.c(A):cabeza-entrar-frasco,cl.e(C):FRASCO
+40,59221,59772,What a disappointment,qué chasco,IRREVERSIBLE,B:cl.e(C):FRASCO
+41,59775,60597,It remains there with its snout in the jar.,se queda aí con la cabeza en el frasco.,cl.e(C):FRASCO-en-cabeza,cl.e(C):FRASCO-en-cabeza
+42,60886,62195,The child continues the search,El niño busca,HOMBRE SN:niño BUSCAR(2Msu),0 0 BUSCAR(2Msu)
+43,62195,63060,Looks inside a boot,mira en una bota,BOTA MIRAR,BOTA 0
+44,63060,63441,looking for it,busca,BUSCAR,0
+45,63441,63793,It is not there,(allí) no (está),NO,0
+46,63794,64710,Looks under the bed,Va por debajo de la cama,CAMA cl.e(1):TRAIECTORIA-desplazarse-cama,CAMA cl.e(Bh):CAMA
+47,64710,65020,"""Not there""","""no (está)""",NO,0
+48,65020,66299,searches everywhere,busca (por todas partes),BUSCAR(2Msu),BUSCAR(2Msu)
+49,66304,67154,in the window,En la ventana,MIRAR VENTANA,0 VENTANA
+50,67154,68342,It surely must be there,seguro (que está) ahí,INDX ES.SEGURO,0 ES.SEGURO
+51,68342,68973,(approaches and) looks out the window,(Se acerca y) mira por la ventana,MIRAR VENTANA,0 VENTANA
+52,68973,69870,Calls out (to the frog),llama (a la rana),GRITAR2,0
+53,69981,71188,The dog is (next to the child),El perro está (al lado del niño),PERRO MIRAR,0 0
+54,71188,72259,It falls out the window,cae por la ventana,cl.e(2d):PERRO-caer+de-ventana,cl.e(Bh):VENTANA
+55,72259,72966,And the bottle with the snout falls to the ground,y el frasco de la cabeza cae al suelo,cl.e(C):FRASCO-descender,cl.e(C):FRASCO-descender
+56,72966,73652,and breaks into pieces,y se rompe en añicos,cl.d(A&amp;gt;5):frasco-desintegrarse,cl.d(A&amp;gt;5):frasco-desintegrarse
+57,73652,74488,The dog rejoices,él se alegra,INDX CONTENTO,0 0
+58,74488,76594,The child jumps out the window,El niño salta por la ventana,INDX HOMBRE SN:niño cl.e(2d):PERSONA-saltar+de-ventana,0 0 0 cl.e(Bh):VENTANA
+59,76594,77177,takes the dog in his arms,coge al perro en brazos,cl.m(C):coger-perro,cl.m(C):coger-perro
+60,77177,78216,and it licks his face,que le lame la cara,cl.c(B):LENGUA-lamer,cl.m(C):sostener-perro
+61,78216,79102,(The boy is) angry,(El niño está) enojado,RABIA,B:cl.m(C):sostener-perro
+62,79102,80327,thinking of the frog,pensando en la rana,MENTE^OBJETIVO RANA,MENTE^OBJETIVO RANA
+63,80327,80759,thinking about,pensando en,MENTE^OBJETIVO,MENTE^OBJETIVO
+64,80759,82206,Find where it is,buscar dónde (está),BUSCAR(2Msu) DÓNDE,BUSCAR(2Msu) 0
+65,82231,83631,The dog is looking for it,El perro (está) buscando,INDX? SN:perro BUSCAR(2Msu),0 0 BUSCAR(2Msu)
+66,83631,84270,Looking for it,va buscando,cl.e(2d):PERRO-desplazarse,0
+67,84270,85277,The boy goes with the dog,el niño va con el perro,SN:niño cl.e(1):PERRO-desplazarse+con-persona,0 cl.e(1):PERSONA-desplazarse+con-perro
+68,85277,86495,The dog and the boy are walking.,van el perro y el niño.,cl.e(2d):PERRO-desplazarse+con-persona,cl.e(1):PERSONA-desplazarse+con-perro
+69,86734,87313,They are searching.,Miran,MIRAR,0
+70,87313,87735,while on the go,mientras se desplazan,cl.e(2d):PERRO-desplazarse+con-persona,cl.e(1):PERSONA-desplazarse+con-perro
+71,87735,88288,Where (could the frog be)?,dónde [puede estar la rana],DÓNDE,0
+72,88288,89963,Then the boy looks up high,Entonces el niño ve en lo alto,ENTONCES SN:niño MIRAR,ENTONCES 0 0
+73,89968,91182,"""It is in this tree","""(Está) en este árbol",ÁRBOL INDX,ÁRBOL 0
+74,91182,91588,I sensed it.,lo intuyo.,OLER,0
+75,91588,91890,I've heard it,Lo he escuchado,ESCUCHAR(2),0
+76,91890,92473,I think so.,"me parece.""",PARECER(2M),PARECER(2M)
+77,92473,93473,sees a burrow (on the ground),(En el suelo) ve una madriguera,MIRAR cl.d(1):madriguera-forma,0 cl.e(C):MADRIGUERA
+78,93473,93938,and screams within her,grita dentro de ella,cl.e(C):MADRIGUERA,cl.e(C):MADRIGUERA
+79,93938,94931,An animal comes out of the burrow and slams her face,un animal sale de su interior y se estampa en su cara,cl.e(5d&amp;gt;Cc):ANIMAL-ascender-madriguera,cl.e(C):MADRIGUERA
+80,94941,95498,(What a disappointment),(qué chasco).,G(5)(2M):chasco,G(5)(2M):chasco
+81,95498,96409,The animal goes,El animal se va,cl.e(2d):ANIMAL-chocar cl.e(2d):ANIMAL,cl.e(C):MADRIGUERA cl.e(C):MADRIGUERA
+82,96409,97102,Leaper with its rodent teeth,saltarín con sus dientes de roedor,INDX cl.e(2d):ANIMAL-ascender-madriguera,0 cl.e(B):MADRIGUERA
+83,97102,98466,moves into the distance.,se aleja,cl.e(2d):ANIMAL-alejarse-madriguera G(5):allá-va,cl.e(B):MADRIGUERA 0
+84,98466,100734,The dog sees a hive at the tree top,El perro ve una colmena (que hay en la copa de un) árbol,PERRO MIRAR ÁRBOL COLMENA,0 0 ÁRBOL COLMENA
+85,100734,102523,with wasps swirling around,con avispas volando alrededor,cl.e(Lc):AVISPAS-volar VOLAR cl.e(Lc):AVISPAS-volar,cl.e(Lc):AVISPAS-volar VOLAR cl.e(Lc):AVISPAS-volar
+86,102523,103341,they sting!,¡(que) pican!,cl.e(Lc):AVISPA-chocar-brazo G(5):dolor,cl.c:brazo 0
+87,103341,104276,and swirl around,vuelan alrededor,cl.e(Lc):AVISPAS-volar,cl.e(Lc):AVISPAS-volar
+88,104306,105191,The dog gets up,El perro,INDX PERRO cl.c(Bg):orejas,0 0 cl.c(Bg):orejas
+89,105191,105498,sees [something] (at the top),ve [algo] (en lo alto),MIRAR,0
+90,105498,105806,on two legs,está sobre las dos patas,BUSCAR,0
+91,105806,108636,It slams the hive with one leg ,con una pata le da le da a la colmena con la pata ,cl.c(5d):patas-moverse cl.m(5d):tocar-colmena cl.e(5d):colmena cl.m(5d):tocar-colmena cl.c(5d):patas-moverse,cl.c(5d):patas-moverse cl.m(5d):pata cl.e(5d):colmena B:cl.e(5d):COLMENA cl.c(5d):patas-moverse
+92,108666,109681,And the child,(Por otro lado) el niño,MIRAR SN:niño,0 0
+93,109681,112255, sees a hole in a tree trunk , ve un hueco en el tronco de un árbol,MIRAR cl.d(1):círculo-forma ÁRBOL cl.e(5):ÁRBOL,0 cl.e(B):CÍRCULO ÁRBOL cl.d(Oa):tronco
+94,112255,112627,(and wants) to peep inside,(quiere) mirar,MIRAR,0
+95,112627,113210,and puts his head inside,y mete la cabeza dentro,cl.m(B):apoyarse-tronco,cl.m(B):apoyarse-tronco
+96,113210,114601,An owl comes out from within,Un búho sale de dentro,RAPAZ^VOLAR cl.c(O):OJOS-acercarse,RAPAZ^VOLAR cl.c(O):OJOS-acercarse
+97,114601,115029,and frightens (the boy).,(y) asusta (al niño),ASUSTAR,ASUSTAR
+98,115029,116776,who falls from the tree to the ground,(que) cae del árbol al suelo,cl.e(2d):PERSONA-caer+de-tronco ACABAR,cl.e(5):TRONCO ACABAR
+99,116806,117822,The dog which was playing with the hive,El perro que estaba jugando con la colmena,PERRO VER cl.m(5d):tocar-colmena,0 0 cl.m(5d):tocar-colmena
+100,117822,118480,is frightened,se asusta,G(5)(2M):asustarse,G(5)(2M):asustarse
+101,118480,119405,because a swarm starts to leave the hive,porque empieza a salir un enjambre de la colmena,cl.d(5d):avispas-desplazarse,cl.d(5d):avispas-desplazarse
+102,119405,120112,wasps swarm out,salen avispas,cl.e(Lc):avispas-desplazarse,cl.d(Lc):avispas-desplazarse
+103,120112,122751,The dog runs in terror,el perro corre despavorido,PERRO cl.c(B):patas-correr SN:perro cl.c(B):patas-correr,0 cl.c(B):patas-correr SN:perro cl.c(B):patas-correr
+104,122751,124108,and flees the place,y huye del lugar,cl.e(1):PERRO-alejarse-localización,cl.e(Bh):LOCALIZACIÓN
+105,124153,126134,The boy moves away from the [owl’s] nest,El niño se aleja del sitio [del búho],INDX SN:niño cl.e(2d):PERSONA-alejarse-suelo,0 0 cl.e(Bh):SUELO
+106,126134,127597,He sees a large stone,ve una piedra grande,PIEDRA cl.d(C):piedra-forma 0 MIRAR,PIEDRA cl.d(C):piedra-forma B:cl.d(C):piedra-forma 0
+107,127597,128476,still annoyed,(aún estaba) molesto,RABIA,B:cl.d(C):piedra-forma
+108,128488,130033,(because) the owl had besieged him,(porque) el búho lo había asediado,INDX RAPAZ^VOLAR cl.e(2d):BÚHO-acercarse,0 0 0
+109,130033,130815,and he had left fleeing,(y se había ido) volando,VOLAR,VOLAR
+110,130815,131586,and he was annoyed,(y estaba) fastidiado,INDX G(1):fastidio,B B
+111,131586,134386,(Then) he sees branches arranged like a fan (opposite him),(Entonces) ve unas ramas en abanico (enfrente),MIRAR cl.d(Lc):rama-forma cl.e(4):RAMAS-fila,0 cl.d(Lc):rama-forma cl.e(4):RAMAS-fila
+112,134398,135040,He grabs the branches,agarra las ramas,cl.m(5&amp;gt;A):agarrar-rama,cl.m(5&amp;gt;A):agarrar-rama
+113,135040,135311,(and from there) looks,(y desde ahí) mira,MIRAR,B:cl.m(A):agarrar-rama
+114,135311,136086,and screams,(y) grita,GRITAR2,B:cl.m(A):agarrar-rama
+115,136086,137586,"""Frog where are you?""","""Rana ¿dónde estás?""",RANA SN:rana DÓNDE,RANA 0 0
+116,137586,138477,and screams,grita,GRITAR2,0
+117,138477,139259,(suddenly) the branches begin to move,(De repente) las ramas empiezan a moverse,cl.m(A):agarrar-ramas,cl.m(A):agarrar-ramas
+118,139259,139980,(The child) is astonished with this,(el niño) se queda en blanco con aquello,MENTE-APAGADA INDX,MENTE-APAGADA 0
+119,139980,141986,It was a deer,(que era) un ciervo,CIERVO cl.d(5):cuernos-tamaño,CIERVO cl.d(5):cuernos-tamaño
+120,142052,143206,(The boy) falls.,(El niño) se cae,cl.e(2d):PERSONA-caer+de-suelo cl.e(2d):PERSONA-caer-ciervo,cl.e(Bh):SUELO cl.e(Bh):CIERVO
+121,143206,143762,falls on the head of the deer,cae en la cabeza del ciervo,cl.e(2d):PERSONA-caer-cabeza,0
+122,143785,145986, The deer starts running, El ciervo (empieza a) correr,cl.d(5):cuernos-tamaño cl.c(A):patas-correr,cl.d(5):cuernos-tamaño cl.c(A):patas-correr
+123,146016,147262,The dog (follows them in parallel) barking:,El perro (los sigue en paralelo) gritando:,PERRO GRITAR2,0 0
+124,147262,148149,"""Child [his sign] come/down""","""niño [su signo] ven/bájate""",SN:niño VENIR2,0 0
+125,148149,149022,"and screams: ""Child [his sign]""","Le grita: ""niño [su signo]""",GRITAR2 SN:niño,0 0
+126,149022,150330,The deer runs (furiously),El ciervo corre (enfurecido),cl.c(A):patas-correr CIERVO,cl.c(A):patas-correr CIERVO
+127,150330,150781,and down there,(y allí abajo),MIRAR,0
+128,150781,151405,when the deer stops suddenly,al frenar el ciervo,cl.c(B):patas-frenar,cl.c(B):patas-frenar
+129,151405,152956,the child falls to the ground,cae el niño,cl.e(2d):PERSONA-caer,0
+130,152996,153416,and is stunned.,(que se queda) atónito.,MENTE-APAGADA,MENTE-APAGADA
+131,153416,153837,(falling from the top),(Desde lo alto),MIRAR,0
+132,153837,155563,The two fall down,caen los dos,cl.e(Ap&amp;gt;2d):PERRO-caer+con-persona,cl.e(Ap&amp;gt;2d):PERSONA-caer+con-perro
+133,155563,156507,into the water,caen al agua,AGUA cl.d(5):agua-ascender,0 cl.d(5):agua-ascender
+134,156507,157319,and get completely wet.,y se mojan completamente.,cl.d(A&amp;gt;5):agua-descender,cl.d(A&amp;gt;5):agua-descender
+135,157360,159025,The child hears something,El niño escucha algo,INDX ESCUCHAR(2) INDX,0 0 G(5):calma
+136,159025,159484,Listen [something],escucha [algo],ESCUCHAR(2),B:G(5):calma
+137,159484,161281,"""(is coming) from that fallen tree""","""(viene) de ese árbol caído""",ÁRBOL cl.e(5):ÁRBOL-caer ESCUCHAR(2) INDX,ÁRBOL cl.e(5):ÁRBOL-caer 0 0
+138,161450,162089,Listen!,(lo vuele) escuchar,ESCUCHAR2 INDX,0 0
+139,162089,162462,(The dog) barks,(el perro) ladra,GRITAR2,0
+140,162469,163356,"""Shhh! Wait""","""¡Shhh! espera""",SILENCIO,ESPERAR2
+141,163371,164709,"""Dog [his sign] silence wait""","""Perro [su signo] silencio espera""",SN:perro SILENCIO,SN:perro ESPERAR2
+142,164709,165462,"""Wait!""","""Espera""",ESPERAR2(2M),ESPERAR2(2M)
+143,165462,166153,"""Silence""","""Silencio""",SILENCIO,ESPERAR2
+144,166153,167266,(The child) sees something (in the distance),(El niño) ve algo (a lo lejos),MIRAR,0
+145,167266,167946,There it was,Allí (estaba),INDX,0
+146,167946,168499,Incredible,Increíble,MENTE-APAGADA,MENTE-APAGADA
+147,168499,170657,The frog [its sign] was there,la rana  [su signo] estaba allí,RANA INDX SN:rana HABER,RANA 0 0 0
+148,170657,172458,It was with its partner,(está) con su pareja,cl.e(1):RANA-con-rana PAREJA,cl.e(1):RANA-con-rana PAREJA
+149,172458,174649,and their children,y sus hijos,HIJO HOMBRE PEQUEÑO2(2M) G(5)(2M):evidencia,HIJO 0 PEQUEÑO2(2M) G(5)(2M):evidencia
+150,174649,175751,There in a row,(allí) en fila,cl.e(2d):RANAS-fila,cl.e(2d):RANAS-fila
+151,175751,177319,The dog [his sign] sees them,El perro [su signo] las ve,G(Bd)(2M):ilativo SN:perro MIRAR,G(Bd)(2M):ilativo 0 0
+152,177319,178315,and is happy.,(y se pone) contento.,CONTENTO,0
+153,178315,179416,The child [his sign] sees them,El niño [su signo] las ve,INDX HOMBRE SN:niño MIRAR,0 0 0 0
+154,179416,180074,and is happy.,(y se pone) contento.,CONTENTO,0
+155,180074,181010,Picks the frog gently,Coge (la rana) con delicadeza,cl.m(Qa):coger-rana,cl.m(Bd):coger-rana
+156,181010,184018,and returns home happily.,(y) vuelve a casa feliz.,VOLVER CASA FELIZ,VOLVER CASA FELIZ

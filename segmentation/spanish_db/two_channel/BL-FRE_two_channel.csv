@@ -1,0 +1,205 @@
+ID,Start_time,End_time,English,Español,Dominant_Hand,Non_Dominant_Hand
+1,705,9815,A long time ago in Central America in Nicaragua in that country.,(Hace) mucho tiempo en Centroamérica en donde está Nicaragua en ese país,PASADO(2Msu) CENTROAMÉRICA DÓNDE SIGNO NICARAGUA DL:NICARAGUA INDX.DEM PAÍS,PASADO(2Msu) CENTROAMÉRICA B:CENTROAMÉRICA B:CENTROAMÉRICA NICARAGUA 0 0 0
+2,10590,11657,There was a village.,(había) un pueblo.,INDX.DEM PUEBLO,0 0
+3,11707,16594,This village was among lush mountains.,(Ese) pueblo estaba entre frondosas montañas.,MONTAÑA BOSQUE PUEBLO cl.e(Xa):localización-pueblo,MONTAÑA BOSQUE 0 cl.e(Xa):localización-pueblo
+4,16594,17424,Among the people living there ,(Entre las) personas (que) allí vivían ,VIVIR PERSONA,VIVIR B
+5,17441,20209,was the village chief,uno (era) el jefe,UNO cl.e(1):PERSONA RESPONSABLE  JEFE,0 0 RESPONSABLE 0
+6,20226,22569,called Kuma,se llamaba Kuma,NOMBRE DL:KUMA,NOMBRE 0
+7,22573,25004,I have assigned him this sign.,le he dado este signo.,SIGNO DAR(2M) SN:KUMA,0 DAR(2M) 0
+8,25135,28011,Kuma was a strong and courageous person ,Kuma (era) una persona fuerte y valiente,INDX.PRO:3sg PERSONA FUERTE DEPORTE G,0 0 FUERTE DEPORTE G
+9,28021,34082,He could face animals such as the tiger the puma and many more.,Podía enfrentarse a los animales: el tigre el puma y muchos más.,PODER CONTRA CONTRA ANIMAL2 G TIGRE cl.c(5d):garras-andar DL:PUMA ETC,0 CONTRA CONTRA ANIMAL2 G TIGRE cl.c(5d):garras-andar 0 0
+10,34088,35383,He could face these animals,Podía enfrentarse a los animales,ANIMAL2 CONTRA CONTRA PODER,ANIMAL2 CONTRA CONTRA 0
+11,35390,36580,because he was strong and brave.,(porque era) fuerte (y) valiente.,FUERTE DEPORTE,FUERTE DEPORTE
+12,38049,39419,How/what happened?,Cómo/Qué pasó,CÓMO TRANSCURRIR,0 TRANSCURRIR
+13,39419,42127,One night Kuma was at home sleeping ,(pues) una noche (Kuma estaba) en casa durmiendo ,NOCHE DORMIR CASA,NOCHE 0 CASA
+14,42127,44226,He was asleep and,(estaba) dormido (y),G:dormido DORMIR G:dormir,G:dormido 0 0
+15,44226,45327,He felt a roar,(sintió) un estruendo,SONIDO(2M),SONIDO(2M)
+16,45327,46605,He woke up.,(que le) despertó.,DESPERTAR,DESPERTAR
+17,46605,47256,went out,Salió,cl.e(2d):PERSONA-salir-tienda,cl.e(Bd):TIENDA
+18,47256,50205,looked down on (the place),oteó (el lugar y),MIRAR,0
+19,50205,54020,and found a girl,encontró una niña,MIRAR INDX.PRO:3sg MUJER PEQUEÑO2,0 0 0 0
+20,54020,55751,who was crying and,(que) tenía los ojos llorosos (y),cl.c(5d):OJOS-llorosos,cl.c(5d):OJOS-llorosos
+21,55751,58165,naked.,(estaba) desnuda.,G:conmovido DESNUDO G:conmovido,G:conmovido DESNUDO G:conmovido
+22,58165,59994,Kuma looked at her and,Kuma la miró y,SN:KUMA MIRAR,0 0
+23,59994,63451,he felt sorry for the girl.,se le encogió el corazón.,CORAZÓN.FORMA cl.d(5d&amp;gt;A):encogerse-corazón,CORAZÓN.FORMA cl.d(5d&amp;gt;A):encogerse-corazón
+24,63451,65405,and decided to pick her up.,Decidió recogerla.,G:pensar cl.m(5d&amp;gt;A):coger-persona,0 cl.m(5d&amp;gt;A):coger-persona
+25,65405,69280,"""I will take care of you and my seven children","""La cuidaré [a ella] y a mis siete hijos",QUERER CUIDAR MÁS.SUMA INDX PROPIO(2M) SIETE NACER,0 CUIDAR 0 0 PROPIO(2M) SIETE NACER
+26,69280,71775,I will take care of the seven and this girl.,cuidaré a los siete y a esta niña.,SIETE MÁS.SUMA INDX MUJER INDX CUIDAR,SIETE 0 0 0 0 CUIDAR
+27,71820,74683,"You will be called Arua.""","Te llamarás Arúa.""",INDX NOMBRE DL:ARUA,0 NOMBRE 0
+28,74683,78006,"meaning ""star of the night""","(Que) significa ""estrella de la noche""",SIGNIFICAR TÍTULO ESTRELLA NOCHE,SIGNIFICAR TÍTULO ESTRELLA NOCHE
+29,78006,79243,in short.,sintetizado.,CORTO,CORTO
+30,79263,80811,He assigned Arua,Le puso Arúa,DL:ARUA DAR(2M),0 DAR(2M)
+31,80811,82752,"(her) sign ""Star"".","(su) signo ""Estrella"".",SIGNO SN:ARÚA INDX.PRO,0 0 0
+32,82752,84434,Kuma took Arua home and looked after her.,Kuma se llevó a Arúa y la cuidó.,G:Kuma cl.m(C):colocar-persona,G:Kuma cl.m(C):colocar-persona
+33,84434,85695,Kuma took Arua home and looked after her.,Kuma se llevó a Arúa y la cuidó.,CUIDAR,CUIDAR
+34,85857,88493,Years passed,Pasó el tiempo,TRANSCURRIR,TRANSCURRIR
+35,88515,92245,Arua and Kuma’s boys grew up together.,Arúa y los hijos [de Kuma] crecieron.,CRECER(2M) PEQUEÑO2(2M) CRECER(2M),CRECER(2M) PEQUEÑO2(2M) CRECER(2M)
+36,92268,98835,Arua was obedient good-hearted and very pretty.,Arúa era obediente de buen corazón y muy guapa.,INDX MUJER SN:ARÚA YA G OBEDECER BUENO.CORAZÓN BONITO^MARAVILLA G,0 0 SN:ARÚA 0 0 OBEDECER 0 0 0
+37,99074,104124,One of the children the eldest approached Kuma,Uno (de los hijos) el mayor se acercó a Kuma,INDX HOMBRE hhh PRIMERO PRINCIPAL 0,0 0 0 0 0 G:acercar-Kuma
+38,104124,106820,"and said to him: ""I want to marry Arua""","(le dijo a Kuma:) ""Quiero casarme (con Arúa).""",QUERER LOS-DOS CASAR,0 0 CASAR
+39,108078,111116,"Kuma: ""Wait wait.""","Kuma: ""Espera espera.""",G:impresionado SN:KUMA G:impresionado,G:impresionado 0 G:impresionado
+40,111141,113256,Later another brother also said he’d want to marry her:,Otro hermano después también se lo pidió:,OTRO HERMANO DESPUÉS PEDIR(1M) TAMBIÉN,0 HERMANO 0 0 0
+41,113256,114902,"""I want to marry Arua""","""Quiero casarme (con Arúa).""",QUERER LOS-DOS CASAR,0 0 CASAR
+42,114913,116296,"Kuma: ""Wait wait.""","(Kuma:) ""Espera espera.""",ESPERAR2(2M),ESPERAR2(2M)
+43,116349,119190,The seven brothers stood before Kuma,Vinieron (ante Kuma) los siete,EXPLICAR- ALGUNO.PERSONA SIETE cl.e(2):PERSONAS7-aproximarse,EXPLICAR- 0 SIETE cl.e(5):PERSONAS7-aproximarse
+44,119292,120955,and so did Arua.,vino (ante Kuma) Arúa.,SN:ARÚA cl.e(1):PERSONA-aproximarse,SN:ARÚA 0
+45,121283,122212,"Kuma: ""Wait wait.""","(Kuma:) ""Esperad esperad""",ESPERAR2(2M),ESPERAR2(2M)
+46,122212,123946,All were arguing,(todos) discutían,DISCUTIR,DISCUTIR
+47,123946,125222,"""Wait wait.""","""Esperad esperad.",ESPERAR2(2M),ESPERAR2(2M)
+48,125469,128481,Let’s make a deal let her decide,(Hagamos) mejor un trato (que) decida ella,INDX BIEN DIRECTOR ESCOGER,0 0 0 ESCOGER
+49,128481,130732,Whether she wants to marry or not.,(si) quiere casarse (o) no.,SENTIR SÍ-O-NO INDX CASAR,0 0 0 CASAR
+50,130829,133111,"I should not decide she should"".","Yo no debo decidir sino ella"".",INDX.PRO:1sg SENTIR NO INDX.PRO,0 0 0 0
+51,134022,136614,"Arua: ""Wait""","Arúa: ""Esperad""",SN:ARÚA G:pensárselo ESPERAR2(2M),0 0 ESPERAR2(2M)
+52,136614,139151,She thought about it a little,lo pensó (un poco),G:pensar PENSAR(2Msu),G:pensar PENSAR(2Msu)
+53,139151,140419,"""I want to wait ","""quiero esperar ",INDX.PRO:1sg QUERER ESPERAR2(2M),0 0 ESPERAR2(2M)
+54,140419,142679,When I think about it,cuando lo piense,FUTURO PENSAR(2Msu),0 PENSAR(2Msu)
+55,142679,143358,I will let you know,os responderé,RESPONDER,RESPONDER
+56,143358,143962,"in the mean time wait.""","(mientras tanto) esperad.""",ESPERAR2(2M),ESPERAR2(2M)
+57,144590,146693,"""I feel happy","""Me siento contento",G:pensativo SENTIR CONTENTO,G:pensativo 0 0
+58,146693,149142,"I think waiting is good"" thought Kuma.","pienso que (está) bien esperar"" (pensó Kuma.)",PENSAR(2Msu) BIEN(2M) ESPERAR2(2M),PENSAR(2Msu) BIEN(2M) ESPERAR2(2M)
+59,149268,151646,Years passed and,Pasó el tiempo (y),TRANSCURRIR,TRANSCURRIR
+60,151646,155308,The eldest son went again to Kuma,el hijo mayor acudió otra vez a Kuma,INDX.PRO:3sg OTRA-VEZ INDX.PRO:3sg HIJO 0 0,0 OTRA-VEZ 0 HIJO MAYOR G:acercar-Kuma
+61,155333,156432,"""(What) does (Arua) want?","""(¿Qué) quiere (Arúa?)",QUERER G:interrogativo,0 0
+62,156438,158333,She did not speak a word.,No ha (dicho) nada.,INDX.PRO:3sg NADA G:duda,0 NADA G:duda
+63,158333,159722,"I would like to ask her again to marry me""","Quiero decirle otra vez (que nos) casemos.""",QUERER DECIR OTRA-VEZ CASAR,0 0 0 0
+64,159730,160395,(but) [Arua] (stayed) silent ,(Pero) [Arúa] (sigue) en silencio ,SILENCIO,0
+65,160398,162781,"Arua has not said anything.""","Arúa (no ha dicho) nada.""",NADA INDX.PRO:3sg SN:ARÚA G:interrogativo,NADA 0 SN:ARÚA G:interrogativo
+66,162808,166840,"This son and the other sons (asked themselves): ""How do we resolve this?","Éste y otros hijos (se preguntaron): ""¿Cómo lo solucionamos/cuál (es) la solución?",INDX.PRO:3sg INDX.PRO:3sg INDX.PRO:3sg HIJO OTRO G:interrogativo CÓMO SOLUCIÓN CUÁL,0 0 0 HIJO 0 G:interrogativo 0 SOLUCIÓN CUÁL
+67,166840,168171,(because) Arua (has not said) anything about marriage   ,(Porque) Arúa (no ha dicho) nada del casamiento  ,INDX SN:ARÚA CASAR NADA,0 SN:ARÚA CASAR 0
+68,168171,169549,"(she continues) to be silent"".","(sigue) callada"".",SILENCIO^SUELO,SILENCIO^SUELO
+69,169549,171235,"All present there said: ""Okay","Los presentes: ""De acuerdo",INDX.PRO:1pl G:pensar ACUERDO,0 0 ACUERDO
+70,171235,174266,The seven of us will have to fight each other,los siete nos enfrentaremos,INDX.PRO:1pl SIETE cl.e(1):PERSONA-enfrentarse-persona,0 SIETE cl.e(1):PERSONA-enfrentarse-persona
+71,174266,178940,"the one who wins in strength and skills will marry Arua"".","el que triunfe en fuerza y destreza se casará con Arúa"".",VICTORIA FUERTE DEPORTE INDX.PRO:3sg COGER CASAR INDX SN:ARÚA,VICTORIA FUERTE DEPORTE 0 0 CASAR 0 SN:ARÚA
+72,179771,182985,The father (was) behind them hiding and,El padre (estaba) detrás de ellos escondido (y),PADRE cl.e(1):PERSONA-detrás-localización ESCONDER,0 cl.e(1):LOCALIZACIÓN ESCONDER
+73,182985,184475,he listened.,(los) escuchó.,ESCUCHAR,B
+74,184475,187314,"""(My) children want to ((?))"" he said to himself concerned.","""(Mis) hijos quieren ((?))""( pensó) preocupado.",HIJO QUERER INDX.PRO:3pl G:pensar-con-preocupación,HIJO 0 0 G:pensar-con-preocupación
+75,187805,190664,The seven kids left.,Los siete hijos se fueron.,ALEJARSE(2Msu),ALEJARSE(2Msu)
+76,190681,192487,The father (stayed) thinking.,El padre (se quedó) pensando.,PADRE PENSAR(2Msu) G:resulución,0 PENSAR(2Msu) G:resulución
+77,192487,196193,"""I'm going to go to consult the wizard.""","""Voy a ir a casa del brujo.""",INDX.PRO:1sg MENTE IR CASA BRUJO G,0 0 IR CASA BRUJO G
+78,196193,198206,"""I want to ask you the wizard...","""Te pregunto Brujo...",INDX.PRO:1sg LLAMAR BRUJO G,0 0 BRUJO G
+79,198206,200091,Let me explain,Te explico,INDX.PRO:1sg EXPLICAR,0 EXPLICAR
+80,200091,203289,My seven children want to fight each other to death,mis siete hijos quieren matarse (entre ellos),INDX.PRO:3pl PROPIO(2M) SIETE HIJO QUERER MORIR(2Msu),0 PROPIO(2M) SIETE HIJO 0 MORIR(2Msu)
+81,203289,204441,The one who wins,el (que) venza,UNO VICTORIA,0 VICTORIA
+82,204441,206440,will get married to Arua.,se casará con Arúa.,CASAR INDX.PRO:3sg SN:ARÚA G,CASAR 0 SN:ARÚA G
+83,206477,208164,I need your advice.,Aconséjame cómo (hago).,CÓMO ACONSEJAR G,0 ACONSEJAR G
+84,208164,209567,"Help me please.""","Ayúdame por favor.""",POR-FAVOR AYUDAR G,0 AYUDAR G
+85,210818,214687,"(The wizard looked at him) ""You..."".","(El brujo lo miró) ""Tú..."".",G:pausa INDX.PRO:2sg G:pensar,G:pausa 0 G:pensar
+86,214687,215814,I'm going to give you a solution,"""Te voy a dar (una) solución",INDX.PRO:1sg DAR(L)(2M) SOLUCIÓN,0 DAR(L)(2M) SOLUCIÓN
+87,215814,216810,There is a solution and,hay una (y),HABER UNO,0 0
+88,216810,217418,I'm going to give it to you,te la voy a dar,DAR(L)(2M),DAR(L)(2M)
+89,217418,219858,but it is very painful,pero es muy dolorosa,ENTONCES DOLOR FUERTE,ENTONCES 0 FUERTE
+90,219858,222498,Not as bad as the death of your children,no [tanto] como la muerte de tus hijos,INDX.PRO MORIR(2Msu) IGUAL2 HIJO NO,0 MORIR(2Msu) IGUAL2 HIJO 0
+91,222498,225010,"a little less painful.""","(un poco) menos doloroso.""",DOLOR MENOS(2M) G:prosódico,0 MENOS(2M) G:prosódico
+92,225745,226513,"""What?","""¿Cuál?",CUÁL,CUÁL
+93,226513,227406,"Please advise!"" (said Kuma.)","¡Aconséjame!""( dijo Kuma).",ACONSEJAR G,ACONSEJAR G
+94,228299,232902,"""Kill Arua it should be better for you.""","""Haz que Arúa muera (sería) mejor (para) ti.""",G:pausa INDX.PRO:2sg SN:ARÚA INDX.PRO:2sg BIEN INDX.PRO:3sg MORIR(MP) INDX.PRO:3sg,G:pausa 0 SN:ARÚA 0 0 0 MORIR(MP) 0
+95,234072,239447,(Kuma) reflected on the words.,(Kuma) reflexionó.,G:extrañeza PENSAR(2Msu),G:extrañeza PENSAR(2Msu)
+96,239518,243561,"""It’s quite clear! You had adopted her","""¡(Es) evidente! Tú a ella la acogiste",G:brujo G:evidencia INDX.PRO:2sg INDX.PRO:3sg INDX.PRO:3sg cl.m(5d):coger-persona,G:brujo G:evidencia 0 0 0 cl.m(5d):coger-persona
+97,243561,244150,You brought her up,la cuidaste,CUIDAR,CUIDAR
+98,244150,246559,and now what?,(Y al) final ¿qué?,G:evidencia CÓMO FIN CUÁL G:pausa,G:evidencia 0 FIN CUÁL G:pausa
+99,246559,248551,"Are you happy for adopting her?""","¿(Eres) feliz (por) haberla acogido?""",INDX.PRO:2sg FELIZ cl.m(5d):coger-persona G:prosódico,0 FELIZ cl.m(5d):coger-persona G:prosódico
+100,249820,253647,(Kuma) reflected on the words.,(Kuma siguió) reflexionando.,PENSAR(2Msu),PENSAR(2Msu)
+101,253704,255861,Night approached,Se había hecho de noche,YA NOCHE,0 NOCHE
+102,255861,257165,(Kuma) walked away,(Kuma) se alejaba,ALEJARSE,0
+103,257165,260012,into the distance,caminando,CAMINAR(MP),CAMINAR(MP)
+104,260013,260815,thinking all along.,(sin dejar de) pensar.,PENSAR(2Msu),PENSAR(2Msu)
+105,260849,261462,"""How [can this be possible]?","""¿Cómo [es posible]?",CÓMO,0
+106,261462,263124,When I saw (the child) I had felt sorry for her,Cuando (la) vi,PASADO MIRAR,0 0
+107,263124,264748,I felt sorry for that child and,me compadecí de esa niña (y),PENA PEQUEÑO2 G,0 0 0
+108,264748,266393,I took her into my arms.,la acogí.,cl.m(5d):coger-persona,cl.m(5d):coger-persona
+109,266393,270068,If another [child] appeared in the future I would (likewise) take it in..,(Si) en el futuro (apareciese) otro [niño] lo acogería (igualmente de todos modos).,FUTURO OTRO cl.m(5d):coger-persona MENTE G:interrogativo,0 0 cl.m(5d):coger-persona 0 G:interrogativo
+110,270068,273011,Kuma (continued to) think about the solution.,Kuma (siguió) pensando en la solución.,SOLUCIÓN PENSAR(2Msu),SOLUCIÓN PENSAR(2Msu)
+111,273011,274946,He went home.,Se fue a casa.,IR CASA(M-AB) G:prosódico,IR CASA(M-AB) G:prosódico
+112,275130,278560,The next day at sunrise,Al día siguiente al (salir) el sol,MAÑANA DÍA,0 DÍA
+113,278560,281476,(Kuma) went to the wizard’s house again.,(Kuma) fue otra vez a casa del brujo.,OTRA-VEZ IR CASA(M-AB) BRUJO,OTRA-VEZ IR CASA(M-AB) BRUJO
+114,281489,282461,and called out (to the wizard).,Llamó (al brujo).,LLAMAR,0
+115,282742,284307,"""I have found another solution","""He encontrado otra solución",YA SOLUCIÓN HABER,0 SOLUCIÓN 0
+116,284307,285892,"I give you other solution.""","aporto otra solución.""",DAR(L)(2M) OTRO SOLUCIÓN,DAR(L)(2M) 0 SOLUCIÓN
+117,287140,288224,"""Do you have [another solution]?","""¿Tienes [otra]?",HABER,G:interrogativo
+118,288224,288818,What is it?,¿Cuál?,CUÁL,CUÁL
+119,288818,291121,"Explain the other solution to me.""","Explícame (la) otra (solución).""",EXPLICAR G:extrañeza OTRO G:extrañeza,EXPLICAR G:extrañeza 0 G:extrañeza
+120,292781,298689,"""It would be better leave Arua in the middle of the forest""","""(Es) mejor dejar a Arúa en medio del bosque""",INDX.PRO:1sg BIEN(2M) SN:ARÚA ARROJAR MONTAÑA ARROJAR,0 BIEN(2M) SN:ARÚA 0 MONTAÑA 0
+121,299800,303497,"""But how are you going to leave her (in the forest)?","""¿Cómo vas a dejarla (en el bosque)?",G:extrañeza CÓMO G:interrogativo ARROJAR,G:extrañeza 0 G:interrogativo 0
+122,303497,306563,You know that there are animals there: tigers pumas...,Sabes que allí (hay) animales trigres pumas...,SABER INDX ANIMAL2 G:prosódico TIGRE cl.c(5d):garras-andar G:pausa,0 0 ANIMAL2 G:prosódico TIGRE cl.c(5d):garras-andar G:pausa
+123,306563,307085,They will eat her,se la comerán,COMER2,0
+124,307085,307726,They will catch ,la cogerán (y),COGER,0
+125,307726,309083,her and kill her.,aniquilarán.,ANIQUILAR G:prosódico,ANIQUILAR G:prosódico
+126,309083,310177,You are cold blooded. [?],(Eres) frío. [?],HIELO G:¡venga!,0 G:¡venga!
+127,311353,312325,G,G,G:impotencia,G:impotencia
+128,312751,316130,Moreover (your) seven sons will miss (her) company,Además (a tus) siete hijos les faltará (su) compañía,MÁS.SUMA HIJO SIETE NECESITAR(MP) AVAL,0 HIJO SIETE NECESITAR(MP) 0
+129,316130,317716,and they will surely go looking for her.,seguro (que la) buscarán.,BUSCAR(2Msu) ES.SEGURO(1M) G,BUSCAR(2Msu) 0 G
+130,319109,322495,(Kuma was) thoughtful.,(Kuma quedó) pensativo.,G PENSAR(2Msu),G PENSAR(2Msu)
+131,322495,323161,[And finally] went (and),[Pero finalmente] fue (y),CAMINAR(MP),CAMINAR(MP)
+132,323161,325418,left her on mount.,la dejó en la montaña.,ARROJAR MONTAÑA,0 MONTAÑA
+133,325422,327701,to her fate.,y la abandonó a su suerte.,YA G:indiferencia MORIR(MP) ABANDONAR,0 G:indiferencia MORIR(MP) B
+134,328813,334470,The next morning she was alone in the forest.,A la mañana siguiente ella (estaba) sola en el bosque.,TRANSCURRIR DÍA G INDX SOLO2 MONTAÑA,TRANSCURRIR DÍA 0 0 0 MONTAÑA
+135,334470,337082,Arua was alone (and scared).,Arúa (estaba) sola (temerosa).,SOLO2 SN:ARÚA SOLO2,0 SN:ARÚA 0
+136,337082,339780,In the evening (Arua feared the approaching) night.,Por la tarde (Arúa contemplaba atemorizada cómo se iba haciendo) de noche.,TARDE NOCHE,0 0
+137,339780,340329,and walked (terrified),Caminaba (aterrorizada),CAMINAR(MP),CAMINAR(MP)
+138,340329,344160,She felt a pain in her heart.,sentía en el corazón el dolor de la herida.,SENTIR CORAZÓN.FORMA DOLOR APUÑALAR G,0 CORAZÓN.FORMA B 0 0
+139,344707,345596,(Arua) walked,(Arúa) caminaba,CAMINAR(MP),CAMINAR(MP)
+140,345596,348501,The forest became darker,el bosque (se hacía cada vez más) oscuro,OSCURO BOSQUE,OSCURO BOSQUE
+141,348501,350498,and shadows covered her.,las sombras (la) cubrían.,SOMBRA,SOMBRA
+142,350498,352220,As she walked,(A medida que) caminaba,CAMINAR(MP),CAMINAR(MP)
+143,352220,354826,She looked around,miraba (a su alrededor),MIRAR,0
+144,354826,356477,stopped,se detuvo,cl.e(2d):PERSONA-sentarse-suelo,cl.e(Bh):SUELO
+145,356477,357804,She looked around,miró (a su alrededor).,MIRAR,B
+146,357804,359274,She had felt the presence [of something],Había sentido la presencia [de algo],SENTIR HABER,0 0
+147,359274,361729,A tiger was approaching,un tigre (que) se aproximaba,ANIMAL2 TIGRE cl.c(5d):garras-andar,ANIMAL2 TIGRE cl.c(5d):garras-andar
+148,361729,362903, (but) she saw (nothing), (pero) no vio (nada),VER-MAL,0
+149,362903,364477,She looked in all directions;,miró (en todas direcciones);,MIRAR,0
+150,364477,365573,She felt comforted,se sintió consolada,SENTIR CONTENTO,0 0
+151,365573,366111,There was nothing.,no había (nada).,HABER-NO,0
+152,366111,367841,"What a melancholy! How painful!"".",¡Qué melancolía! ¡Qué dolor!,DEPRESIÓN DOLOR G:prosódico,DEPRESIÓN 0 G:prosódico
+153,367841,369574,(Arua) walked,(Arúa retomó) la marcha,CAMINAR(MP),CAMINAR(MP)
+154,369574,370668,and she stopped again,(pero) paró otra vez,OTRA-VEZ PARAR,OTRA-VEZ PARAR
+155,370668,371173,She couldn't (walk any more).,no podía [más/caminar],PODER2,B
+156,371173,372604,and sat scared,(y) se sentó (asustada),cl.e(2d):PERSONA-sentarse-suelo,cl.e(Bh):SUELO
+157,372726,375866,It was completely dark.,había oscurecido por completo.,G:pensar-narrador OSCURO NEGRO G:prosódico,G:pensar-narrador OSCURO NEGRO G:prosódico
+158,377352,380224,and there was a ray of light in the forest and,Sobre el bosque se abrió un claro (y),BOSQUE cl.d(5):nubes-abrirse,BOSQUE cl.d(5):nubes-abrirse
+159,380224,383244,the moon lit up over her.,la luna la iluminó.,cl.d(Lc&amp;gt;L&amp;gt;Lc):luna-forma LUZ,0 0
+160,383244,385431,(Arua) looked at the moon.,(Arúa la) miró.,G:Arúa MIRAR,G:Arúa 0
+161,386692,387994,"""I will help you.","""Te ayudaré",INDX.PRO:1sg AYUDAR,0 0
+162,387994,389593,Let me explain,te explico,INDX.PRO:1sg EXPLICAR,0 0
+163,389593,391674,I will give you shelter and take care of you.,te cobijaré (y) cuidaré.,INDX.PRO:2sg CASA CUIDAR INDX.PRO:2sg,B CASA CUIDAR 0
+164,391674,394813,I will defend you from the animals from the tiger.,Te defenderé de los animales del tigre.,INDX ANIMAL2 TIGRE G:animal-atacar INDX.PRO:2sg DEFENDER,0 ANIMAL2 TIGRE G:animal-atacar 0 DEFENDER
+165,394813,396991,"Calm down I will help you.""","Tranquila (te) ayudaré.""",TRANQUILO AYUDAR,TRANQUILO AYUDAR
+166,398004,401537,"(Arua gazed up at the moon amazed) ""You are talking to me.""","(Arúa miraba la luna con asombro) ""Hablas (conmigo).""",G:mirar-asombrado EXPLICAR,0 EXPLICAR
+167,401537,405392,A flower blossomed in front of the dumbfounded Arua,Enfrente de Arúa (que contemplaba estupefacta) se abrió una flor,FLOR cl.e(Cc&amp;gt;5d):FLOR-abrirse,0 0
+168,405392,408017,illuminated by the light of the moon.,iluminada por la luz de la luna.,LUZ cl.e(Cc&amp;gt;5d):FLOR-abrirse,0 0
+169,408019,409287,I do not recognise this (she thought),"""No (la) conozco"" (pensó Arúa)",CONOCER NO,0 0
+170,409287,411224,while she looked at the flower.,(mientras) miraba la flor.,MIRAR FLOR MIRAR,0 0 0
+171,411224,417943,The petals opened more and more,Los pétalos (de la flor) se abrieron más y más,cl.e(C&amp;gt;5d):FLOR-abrirse cl.d(L&amp;gt;Lc):pétalos-forma cl.e(C&amp;gt;5d):FLOR-abrirse cl.e(5d):FLOR-ascender,0 cl.d(L&amp;gt;Lc):pétalos-forma 0 0
+172,417943,420088,and wrapped around her completely.,(hasta) envolver (a Arúa) por completo.,cl.d(5):flor-cubrir-Arúa,cl.d(5):flor-cubrir-Arúa
+173,420088,422996,Arua fell asleep inside the flower,(Arúa) se durmió (en el interior de la flor),DORMIRSE,0
+174,422996,423955,She did not feel any pain and,no había(/sentía) dolor (y),DOLOR HABER-NO,0 0
+175,423955,426281,relaxed ,se relajó ,EMOCIÓN RELAJAR,EMOCIÓN RELAJAR
+176,426281,430922,as the flower closed completely around her.,(a medida que) la flor se cerraba completamente sobre ella.,cl.d(5):flor-cubrir-Arúa cl.e(5d&amp;gt;Cc):FLOR-cerrarse-persona,cl.d(5):flor-cubrir-Arúa cl.e(1):PERSONA
+177,431100,435147,The next day at sunrise,Por la mañana al salir el sol,DÍA AMANECER,0 AMANECER
+178,435147,437265,The seven sons of Kuma [began] looking for her and,los siete hijos de Kuma [empezaron a] buscar (y),HIJO SIETE SN:KUMA BUSCAR(2Msu),HIJO SIETE 0 BUSCAR(2Msu)
+179,437265,438672,searched everywhere,mirar (por todas partes).,MIRAR(2M),MIRAR(2M)
+180,438672,441028,"""Where could Arua be?"" (they asked).","""¿Dónde estará Arúa?""( se preguntaron).",CUÁL SN:ARÚA DÓNDE(2M) CUÁL,CUÁL 0 DÓNDE(2M) CUÁL
+181,441028,442077,(And started) to search.,(Empezaron a) buscar.,BUSCAR(2Msu),BUSCAR(2Msu)
+182,442077,443705,There were a few foot prints in the ground,Había unas pisadas en el suelo,cl.c(I):PIE-pisar LO-DE-ANTES,cl.c(I):PIE-pisar 0
+183,443705,445711,They followed the footprints,siguieron las huellas,cl.c(I):PIE-pisar cl.e(1):PERSONAS-desplazarse,cl.c(I):PIE-pisar cl.e(1):PERSONAS-desplazarse
+184,445711,447477,They walked in a row following the footsteps,(fueron) en fila siguiendo las huellas,cl.c(I):PIE-pisar cl.e(1):PERSONAS-desplazarse,cl.c(I):PIE-pisar cl.e(1):PERSONAS-desplazarse
+185,447477,448847,(to the point where) the footprints disappeared.,(hasta el lugar en el que) las huellas desaparecían.,cl.c(I):PIE-pisar DESAPARECER,cl.c(I):PIE-pisar DESAPARECER
+186,448847,451015,"""She is not here"" they said astounded upon reach that point.","""No está"" (dijeron extrañados al llegar a ese punto).",cl.c(I):PIE-pisar HABER-NO(2M) G:extrañeza,cl.c(I):PIE-pisar HABER-NO(2M) G:extrañeza
+187,451015,454130,The seven looked for Arua around the place,Los siete buscaron a Arúa por los alrededores,BUSCAR(2Msu) cl.e(2):PERSONAS7-desplazarse G:hijo-buscando cl.e(2):PERSONAS7-desplazarse,BUSCAR(2Msu) cl.e(5):PERSONAS7-desplazarse G:hijo-buscando cl.e(5):PERSONAS7-desplazarse
+188,454130,454850,"""Where (could she be)?""","""¿Dónde (estará) Arúa?""",SN:ARÚA DÓNDE,SN:ARÚA 0
+189,454850,455992,The seven gazed into the distance,Los siete dirigieron (su mirada),cl.e(2):PERSONAS7-girarse,cl.e(5):PERSONAS7-girarse
+190,455992,457743,at the flower containing Arua.,hacia la flor que contenía a Arúa.,cl.e(5d&amp;gt;Cc):FLOR-cerrarse-persona,cl.e(1):PERSONA
+191,457970,459073,When the seven looked at the flower,Al mirar los siete,cl.e(2):PERSONAS7-girarse+mirar,cl.e(5):PERSONAS7-girarse+mirar
+192,459073,460125,The flower containing Arua closed,la flor (de Arúa) se cerró,cl.e(5d&amp;gt;Cc):FLOR-cerrarse-persona,cl.e(1):PERSONA
+193,460125,460615,The petals closed.,se cerraron los pétalos,G:persona-encogerse,G:persona-encogerse
+194,460615,461385,with Arua inside.,(que) contenían a Arúa.,G:flor-cubrir-cabeza cl.e(Cc):FLOR-cerrada-persona,G:flor-cubrir-cabeza cl.e(1):PERSONA
+195,461698,462312,Upon seeing this,Al ver (esto),cl.e(2):PERSONAS7,cl.e(5):PERSONAS7
+196,462312,464162,The seven headed (towards the flower).,los siete se dirigieron (hacia la flor).,cl.e(2):PERSONAS7-aproximarse,cl.e(5):PERSONAS7-aproximarse
+197,464162,464759,as they approached  it,Al acercarse (a ella),B,CERCA
+198,464759,467101,The seven were transformed into butterflies and,los siete se transformaron en mariposas (y),cl.e(2):PERSONAS7-moverse MARIPOSA,cl.e(5):PERSONAS7-moverse MARIPOSA
+199,467101,469343,(began to) flit around the flower,(empezaron a) revolotear sobre la flor,cl.e(55):MARIPOSA-volar,cl.e(55):MARIPOSA-volar
+200,469343,470765,(but) not close (to it),(pero) no cerca (de ella),CERCA NO,CERCA 0
+201,470765,471513,(That) would kill them,(eso) las mataría,MORIR(MP),MORIR(MP)
+202,471513,473110,It was a dangerous flower.,(es) una flor peligrosa.,VER^DEBER FLOR,0 0
+203,473110,475185,The butterflies rose in the air flying,Las mariposas ascendieron volando,cl.e(55):MARIPOSA-ascender,cl.e(55):MARIPOSA-ascender
+204,475185,476667,and disappeared into the distance.,(hasta) desaparecer.,DESAPARECER,DESAPARECER

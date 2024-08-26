@@ -1,0 +1,94 @@
+ID,Start_time,End_time,English,Español,Dominant_Hand,Non_Dominant_Hand
+1,276,3522,A dog sitting opposite,Un dormitorio con una cama; un niño sentado a los pies de la cama,HABITACIÓN CAMA HOMBRE cl.e(2d):PERSONA-sentada,HABITACIÓN CAMA 0 0
+2,3522,5159,Hmm...,un perro sentado enfrente,B:cl.e(2d):PERSONA-sentada cl.e(2d):PERSONA-sentada-con+perro,PERRO cl.e(Hd):PERRO-sentado-con+persona
+3,5159,8999,They look at the jar surprised,Un frasco con una rana dentro,cl.d(5d):frasco RANA cl.e(Hd):RANA-en-frasco,cl.d(5d):frasco RANA cl.e(C):FRASCO
+4,8999,12637,Leaves It,(El niño y perro) miran (fijamente la rana).,MIRAR(2M),MIRAR(2M)
+5,12637,13985,and begins to search here,El niño y el perro se van,B:MIRAR cl.e(2b):PERSONA-desplazarse-con+perro,B:MIRAR cl.e(2b):PERRO-desplazarse-con+persona
+6,13985,16130,to search here,(el niño) se mete en cama,CAMA ACOSTARSE,CAMA ACOSTARSE
+7,16130,18947,it looks carefully,(y el perro) se sube a la cama,B:ACOSTARSE cl.e(Bh):CAMA cl.e:CAMA,PERRO cl.e(2d):PERRO-ascender+a-cama cl.e(2d):PERRO-posarse-cama
+8,18947,20476,stands up and looks inside something,La rana está dentro del frasco,cl.d(5d):frasco cl.e(Hd):RANA-en-frasco,cl.d(5d):frasco cl.e(C):FRASCO
+9,20476,21295,The boy looks out the window,trepa por él,cl.e(2d):RANA-ascender+a-frasco,B:cl.e(C):FRASCO
+10,21295,22721,looking from inside the bottle,salta fuera,cl.e(2d):RANA-saltar+de-frasco,B:cl.e(C):FRASCO
+11,22721,25823,until,y se aleja,cl.e(Hd):RANA-alejarse-frasco,B:cl.e(C):FRASCO
+12,25823,26883,and the jar breaks,Desaparece,DESAPARECER,DESAPARECER
+13,28081,30616,and gets blown into smithereens,(Se hace) de día,DÍA,DÍA
+14,30616,32160,when suddenly he sees the dog,Mmm...,G:mmm G:mmm,G:mmm G:mmm
+15,32160,33166,and caresses it,El niño se levanta,cl.e(2b):PERSONA-descender+de-cama,cl.e(Bh):CAMA
+16,33166,34840,The two begin to explore the place,el perro se levanta con el niño,cl.e(2d):PERRO-descender+de-cama PERRO cl.e(2d):PERRO-descender+de-cama cl.e(2d):PERRO-con+persona,B:cl.e(Bh):CAMA B:cl.e(Bh):CAMA B:cl.e(Bh):CAMA cl.e(2d):PERSONA-con+perro
+17,34840,35514,They see something that makes them stop,miran (extrañados el frasco),MIRAR(2M),MIRAR(2M)
+18,35514,38352,In front of them is a wood,(El niño) examina el frasco,cl.d(5d):frasco cl.m(C):examinar-frasco,cl.d(5d):frasco cl.m(C):examinar-frasco
+19,38352,39149, there is a hive in one of the trees,lo deja,cl.m(C):colocar-frasco,cl.m(C):colocar-frasco
+20,39149,39651,with bees swarming,(y se pone) a buscar (por aquí),BUSCAR(2Msu),BUSCAR(2Msu)
+21,39651,40433,The boy sees the hive,a buscar (por allá),BUSCAR(2Msu),BUSCAR(2Msu)
+22,40433,41422,The dog runs toward the tree,a buscar (por aquí),BUSCAR(2Msu),BUSCAR(2Msu)
+23,41422,43256,and moves towards the hive,a buscar (por allá),BUSCAR(2Msu),BUSCAR(2Msu)
+24,43256,45466,It sniffs,El perro mira dentro del frasco,PERRO cl.e(C):frasco B:cl.e(C):frasco,B:BUSCAR(2Msu) cl.e(C):frasco B:cl.e(C):frasco
+25,45466,45989,and approaches leaping,lo observa (escrupulosamente),MIRAR,B:cl.e(C):frasco
+26,45989,47205,to the place where there are bees,El frasco se le mete en la cabeza,cl.e(C):FRASCO-descender,cl.e(C):FRASCO-descender
+27,47205,49987,coming out of the hive,y le queda encajado,cl.e(C):FRASCO,cl.e(C):FRASCO
+28,49987,51997,The dog is on all fours,El niño (sigue) buscando,HOMBRE PEQUEÑO2 BUSCAR(2Msu),0 0 BUSCAR(2Msu)
+29,51997,53288,and exits fleeing,Levanta y mira en el interior de algo,cl.m(Q):levantar-objeto,cl.m(Q):levantar-objeto
+30,53288,56466,chased by a swarm of bees,coge una prenda de ropa (y la examina incrédulo),ROPA cl.m(5&amp;gt;Q):coger-prenda cl.m(Xc):examinar-prenda cl.m(Xc):agarrar-prenda,ROPA cl.m(5&amp;gt;Q):coger-prenda cl.m(Xc):examinar-prenda cl.m(Xc):agarrar-prenda
+31,56466,58297,The boy sees an owl in the distance.,Los dos se asoman por la ventana,VENTANA cl.e(2d):PERSONA-asomarse-con+perro,VENTANA cl.e(2d):PERRO-asomarse-con+persona
+32,58297,59233,The owl glides towards the boy,el niño mira por la ventana,cl.e(1):PERSONA B:cl.e(1):PERSONA,cl.e(2d):PERRO cl.e(2d):PERRO
+33,59233,61889,and the boy runs away,(y) el perro (está) en la ventana con el frasco en la cabeza,VENTANA B:VENTANA PERRO cl.e(C):FRASCO-en-cabeza,VENTANA cl.e(2d):PERRO-asomado B:cl.e(2d):PERRO-asomado cl.e(C):FRASCO-en-cabeza
+34,61889,66161,at a certain distance the dog also runs,El niño está mirando (con detenimiento en todas direcciones),HOMBRE MIRAR(MP),0 MIRAR(MP)
+35,66161,68292,pursued by the swarm,El perro está sacudiéndose con el frasco en la cabeza,PERRO cl.e(C):FRASCO-en-cabeza,B:MIRAR(MP) cl.e(C):FRASCO-en-cabeza
+36,68292,68835,"The boy is running ""Ahh!""",mirando desde dentro del frasco,MIRAR,cl.e(C):FRASCO-en-cabeza
+37,68835,69434,The owl flies over him,hasta que,cl.e(C):FRASCO-en-cabeza,cl.e(C):FRASCO-en-cabeza
+38,69434,72580,The boy escapes,cae de cabeza por la ventana,cl.e(2d):PERRO-caer+de-ventana,cl.e(Bh):VENTANA
+39,72580,73429,and the owl pursues him,y el frasco estalla,cl.d(A&amp;gt;5h):frasco-estallar,cl.d(A&amp;gt;5h):frasco-estallar
+40,73429,74127,Hmm...,El frasco impacta,cl.e(5d):FRASCO-descender,cl.e(5d):FRASCO-descender
+41,74127,74570,on the way he comes across a rock.,y estalla en añicos,cl.d(A&amp;gt;5):frasco-estallar,cl.d(A&amp;gt;5):frasco-estallar
+42,74570,76493,The boy climbs on the rock,El perro sale rodando,cl.e(2d):PERRO-en-localización PERRO cl.e(2d):PERRO-rodar-localización,cl.e(Bh):LOCALIZACIÓN B:cl.e(Bh):LOCALIZACIÓN B:cl.e(Bh):LOCALIZACIÓN
+43,76493,77372,The owl flies away,El niño (sigue) mirando (a su alrededor),MIRAR(MP),MIRAR(MP)
+44,77372,77985,to a perch on a tree branch,cuando de repente ve al perro,B:MIRAR(MP),B:MIRAR(MP)
+45,77985,80096,The boy climbs on the rock,lo coge en sus brazos,cl.m(Bd):coger-perro,cl.m(Bd):coger-perro
+46,80096,82394,Looks from one side to another,y lo acaricia,cl.m(Bd):sostener-perro,ACARICIAR
+47,83058,86049,and sees something down,Los dos empiezan a recorrer el lugar,cl.e(1):PERSONA-desplazarse-con+perro,cl.e(2d):PERRO-desplazarse-con+persona
+48,86049,86512,It is a deer,Ven algo que los hace parar,B:cl.e(1):PERSONA-desplazarse-con+perro,B:cl.e(2d):PERRO-desplazarse-con+persona
+49,86512,89919,which looks at him in the eyes,Delante (de ellos se extendía) un bosque,MIRAR(MP) BOSQUE,MIRAR(MP) BOSQUE
+50,89919,92185,with the deer gazing at him the boy is scared and leaps,En uno de los árboles hay una colmena,INDX cl.d(Qd&amp;gt;Q):colmena-en-árbol,ÁRBOL(1M) cl.e(5):ÁRBOL
+51,92185,95013,falls on the head of the deer,con abejas revoloteando,ABEJA cl.e(Lc):INSECTO-volar-árbol,B:cl.e(5):ÁRBOL B:cl.e(5):ÁRBOL
+52,95013,95975,The deer puzzled with the stowaway starts to move its head,(El niño) advirtie la colmena,MIRAR,B:cl.e(5):ÁRBOL
+53,95975,96865,and to gallop with the boy on its head,El perro corre hacia el árbol,PERRO cl.e(Hd):PERRO-aproximarse-árbol,B:cl.e(5):ÁRBOL B:cl.e(5):ÁRBOL
+54,96865,97433,The boy dangles between the deer’s horns during the gallop,se yergue hacia la colmena,cl.e(Hd):PERRO-levantarse+hacia-árbol,B:cl.e(5):ÁRBOL
+55,97433,97883,The deer gallops,la olisquea,RESPIRAR,B:cl.e(5):ÁRBOL
+56,97883,98893,and gallops with the boy bouncing about,se acerca dando saltos,cl.e(Hd):PERRO-saltar+hacia-árbol,B:cl.e(5):ÁRBOL
+57,98893,99571,They run to the bottom of a slope,al lugar en el que están las abejas,cl.e(Lc):INSECTO-volar,B:cl.e(5):ÁRBOL
+58,99571,101134,where the deer stops suddenly.,que salen de la colmena,cl.e(Lc):INSECTOS-volar,cl.e(Lc):INSECTOS-volar
+59,101134,102510,The boy falls off the stag’s back into a river,El perro se pone a cuatro patas,cl.e(Hd):PERRO-girarse+hacia-árbol,cl.e(5):ÁRBOL
+60,102510,103583,creating a surface wave in the water,y sale huyendo,cl.e(Hd):PERRO-alejarse-árbol,B:cl.e(5):ÁRBOL
+61,103583,106410,The dog also falls into the water,perseguido por un enjambre de abejas,cl.e(Hd):PERRO-huir-abejas,cl.e(Lc):ABEJAS-seguir-perro
+62,106410,110788,The boy continues to look around,El niño ve (a lo lejos) un búho.,HOMBRE MIRAR BÚHO^VOLAR,0 0 BÚHO^VOLAR
+63,110788,112068,He is in the middle of the river,El búho planea hacia el niño,cl.e(55):AVE-volar,cl.e(55):AVE-volar
+64,112068,114512,On  his left he sees a trunk,y el niño huye corriendo,cl.e(1):PERSONA-desplazarse cl.c(B):garras-correr CORRER B:CORRER,0 cl.c(B):garras-correr CORRER cl.e(1):PERSONA-correr
+65,114512,115474,stares ,A cierta distancia el perro también corre,PERRO cl.e(Hd):PERRO-correr-persona+detrás,B:cl.e(1):PERSONA-correr cl.e(1):PERSONA-correr-perro+delante
+66,115474,116474,"""Quiet"" he shouts to the dog",perseguido por el enjambre,cl.e(Hd):PERRO-huir-abejas,cl.e(Lc):INSECTOS-seguir-perro
+67,116474,117151,The dog is behind him // both stare for a while.,"El niño corre ""¡Ahh!""",B:cl.e(Hd):PERRO-huir-abejas,cl.e(1):PERSONA-correr
+68,117151,119302,The dog looks at him from below without moving,El búho vuela encima de él,cl.e(55):AVE-volar B:cl.e(55):AVE-volar VOLAR,cl.e(55):AVE-volar cl.e(1):AVE-localización VOLAR
+69,119302,120255,"The boy from above: ""Don't make noise""",El niño escapa,0,cl.e(1):PERSONA-correr
+70,120255,120936,"""Let's go.""",y el búho lo persigue,cl.e(55):AVE-volar,cl.e(55):AVE-volar
+71,120936,122073,"""to that tree trunk""",[Mmm...],G.ADA,0
+72,122073,123520,The dog begins to walk towards the trunk,(En su camino se encuentran con) una roca.,PIEDRA cl.e(5d):PIEDRA,PIEDRA 0
+73,123520,125770, the dog stealthily,El niño se sube a la roca,cl.e(5d):PIEDRA,cl.e(1):PERSONA-ascender+a-piedra
+74,125770,127383,approaches the boy ,El búho va volando,cl.e(55):AVE-volar,cl.e(55):AVE-volar
+75,127383,130035,The trunk is near now,hasta posarse en la rama de un árbol,cl.e(2d):AVE-posarse-árbol,cl.e(5):ÁRBOL
+76,130035,132196,The boy looks at the trunk,El niño se sube a la roca,HOMBRE cl.e(5d):PIEDRA B:cl.e(5d):PIEDRA,B:cl.e(5):ÁRBOL B:cl.e(5):ÁRBOL cl.e(2d):PERSONA-ascender+a-piedra
+77,132196,134075,The dog also looks at the trunk,mira (de lado a lado),MIRAR,0
+78,134075,135928,down below is the frog surprised to see them,y (hacia abajo) ve (algo),MIRAR,0
+79,135928,136716,The boy looks surprised at the frog which in turn looks at him.,(Es un) ciervo,CIERVO,CIERVO
+80,136716,137411,Next to the frog,que le mira a los ojos,MIRAR,0
+81,137411,138911,is a row of frogs,Al ser mirado (por el ciervo) el niño asusta (y da un salto),B:MIRAR ASUSTAR(2M),0 ASUSTAR(2M)
+82,138911,140146,and next to it their progeny in a row,Cae sobre la cabeza del ciervo,cl.e(2b):PERSONA-caer-ciervo,0
+83,140146,143218,The boy and dog are looking astonished at the frog.,El ciervo (desconcertado con el polizón) empieza a mover la cabeza,CIERVO cl.e(2b):PERSONA-sobre-cabeza+ciervo,CIERVO B:CIERVO
+84,143218,145473,with a wide smile,y a galopar con el niño en la cabeza,cl.e(2b):PERSONA-sobre-ciervo,cl.e(Hd):CIERVO-correr
+85,145473,146974,The frogs are on top of the trunk in a row from largest to the smallest,El niño va a trompicones entre las astas del ciervo durante el galope,CIERVO  cl.e(2b):PERSONA-sobre-cabeza+ciervo,CIERVO B:CIERVO
+86,146974,149640,The boy extends his hand,El ciervo galopa,cl.c(A):pezuñas-correr,cl.c(A):pezuñas-correr
+87,149640,151470,One frog climbs into his hand,galopa con el niño encima dando botes,cl.e(2b):PERSONA-sobre-ciervo,cl.e(Hd):CIERVO-correr
+88,151470,153916,It hesitates but stays on his hand,Van corriendo hasta el fondo de un talud,cl.e(2b):PERSONA-sobre-ciervo cl.d(5d):talud cl.e(2b):PERSONA-sobre-ciervo,cl.e(Hd):CIERVO-correr cl.d(2d):talud cl.e(Hd):CIERVO-correr
+89,153916,155488,The boy starts to walk with the frog in his hand,(donde) el ciervo frena,cl.c(A):pezuñas-frenar,cl.c(A):pezuñas-frenar
+90,155488,162183,The dog walks at their side,El niño cae del lomo del ciervo a un río,cl.e(2b):PERSONA-caer+de-ciervo CAMINO AGUA cl.e(2b):PERSONA-caer-charco,cl.e(Hd):CIERVO-arrodillado CAMINO B:CAMINO cl.e(Xa):CHARCO
+91,162183,164062,The two of them walk,creando una onda superficial en el agua,SALPICAR cl.e(Xa):ONDA-abrirse,SALPICAR cl.e(Xa):ONDA-abrirse
+92,164062,166837,into the distance.,El perro (también) cae al agua,PERRO cl.e(2b):PERRO-caer-charco cl.d(5d):poza-agua,B:cl.e(Xa):ONDA-abrirse B:cl.e(Xa):ONDA-abrirse cl.d(5d):poza-agua
+93,166837,169691,[Applause],(El niño) mira a su alrededor,INDX G:asomarse MIRAR,0 G:asomarse 0
